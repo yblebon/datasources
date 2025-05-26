@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2025-05-01",
+    "time": "09:00",
+    "event": "Kickoff Meeting",
+    "source": "Project A",
+    "group": "Milestone 1"
+  },
+  {
+    "date": "2025-05-01",
+    "time": "14:00",
+    "event": "Code Review",
+    "source": "Project B",
+    "group": ""
+  },
+  {
+    "date": "2025-05-01",
+    "time": "16:00",
+    "event": "Milestone 1 Complete",
+    "source": "Project C",
+    "group": "Milestone 1"
+  },
+  {
+    "date": "2025-05-02",
+    "time": "10:00",
+    "event": "Development Phase",
+    "source": "Project A",
+    "group": "Milestone 1"
+  },
+  {
+    "date": "2025-05-02",
+    "time": "15:00",
+    "event": "Testing Phase Starts",
+    "source": "Project B",
+    "group": "Task B"
+  },
+  {
+    "date": "2025-05-03",
+    "time": "11:00",
+    "event": "Testing Complete",
+    "source": "Project B",
+    "group": "Task B"
+  }
+]
