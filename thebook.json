@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Beach Sunset",
+        "date": "May 10, 2025",
+        "source": "Unsplash",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "alt": "Beach Sunset"
+    },
+    {
+        "title": "Mountain Peak",
+        "date": "April 15, 2025",
+        "source": "Unsplash",
+        "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+        "alt": "Mountain Peak"
+    },
+    {
+        "title": "Forest Path",
+        "date": "March 20, 2025",
+        "source": "Unsplash",
+        "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
+        "alt": "Forest Path"
+    },
+    {
+        "title": "City Lights",
+        "date": "February 5, 2025",
+        "source": "Unsplash",
+        "imageUrl": "https://images.unsplash.com/photo-1490730141103-6cff9c87e036",
+        "alt": "City Lights"
+    }
+]
