@@ -22,8 +22,14 @@
     {
     "date": "2025-05-31",
     "time": "21:00",
-    "event": "UEFA Final Champions League",
+    "event": "UEFA Final Champions League Men",
     "source": "sport",
     "group": "Paris"
+  }, {
+    "date": "2025-05-24",
+    "time": "18:00",
+    "event": "UEFA Final Champions League Women",
+    "source": "sport",
+    "group": "Lisbon"
   }
 ]
