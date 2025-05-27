@@ -45,4 +45,25 @@
     "source": "social",
     "group": "Tournus"
   }
+    , {
+    "date": "2025-05-26",
+    "time": "20:30",
+    "event": "Bergers",
+    "source": "cinema",
+    "group": "Tournus"
+  }
+     , {
+    "date": "2025-06-02",
+    "time": "20:30",
+    "event": "Echapée belle",
+    "source": "cinema",
+    "group": "Tournus"
+  },
+     {
+    "date": "2025-06-03",
+    "time": "20:30",
+    "event": "Coup de Coeur Afcae",
+    "source": "cinema",
+    "group": "Tournus"
+  }
 ]
