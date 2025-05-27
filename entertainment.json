@@ -31,5 +31,18 @@
     "event": "UEFA Final Champions League Women",
     "source": "sport",
     "group": "Lisbon"
+  }, {
+    "date": "2025-05-01",
+    "time": "08:00",
+    "event": "Puces des Quais",
+    "source": "market",
+    "group": "Tournus"
+  }
+    , {
+    "date": "2025-05-03",
+    "time": "14:00",
+    "event": "Desamorcez la bombe",
+    "source": "social",
+    "group": "Tournus"
   }
 ]
