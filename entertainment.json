@@ -65,5 +65,12 @@
     "event": "Coup de Coeur Afcae",
     "source": "cinema",
     "group": "Tournus"
+  },
+     {
+    "date": "2025-05-27",
+    "time": "00:00",
+    "event": "Dubai - Madagascar Business Forum",
+    "source": "forum",
+    "group": "Dubai"
   }
 ]
