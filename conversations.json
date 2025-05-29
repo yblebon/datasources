@@ -5,22 +5,30 @@
             {
                 "text": "Hey, how's it going?",
                 "sender": "left",
-                "timestamp": "10:30 AM, May 29, 2025"
+                "timestamp": "10:30 AM, May 29, 2025",
+                "username": "Alice",
+                "photoUrl": "https://via.placeholder.com/40?text=Alice"
             },
             {
                 "text": "Yo! I'm just chilling, ready to assist. What's up?",
                 "sender": "right",
-                "timestamp": "10:32 AM, May 29, 2025"
+                "timestamp": "10:32 AM, May 29, 2025",
+                "username": "Bob",
+                "photoUrl": "https://via.placeholder.com/40?text=Bob"
             },
             {
                 "text": "Just wanted to check out this cool timeline chat thing!",
                 "sender": "left",
-                "timestamp": "10:35 AM, May 29, 2025"
+                "timestamp": "10:35 AM, May 29, 2025",
+                "username": "Alice",
+                "photoUrl": "https://via.placeholder.com/40?text=Alice"
             },
             {
                 "text": "Haha, looks sleek, right? Want to add more messages?",
                 "sender": "right",
-                "timestamp": "10:36 AM, May 29, 2025"
+                "timestamp": "10:36 AM, May 29, 2025",
+                "username": "Bob",
+                "photoUrl": "https://via.placeholder.com/40?text=Bob"
             }
         ]
     },
@@ -30,22 +38,30 @@
             {
                 "text": "Yo, you free to chat?",
                 "sender": "left",
-                "timestamp": "10:40 AM, May 29, 2025"
+                "timestamp": "10:40 AM, May 29, 2025",
+                "username": "Charlie",
+                "photoUrl": "https://via.placeholder.com/40?text=Charlie"
             },
             {
                 "text": "Totally, what's on your mind?",
                 "sender": "right",
-                "timestamp": "10:42 AM, May 29, 2025"
+                "timestamp": "10:42 AM, May 29, 2025",
+                "username": "Diana",
+                "photoUrl": "https://via.placeholder.com/40?text=Diana"
             },
             {
                 "text": "Thinking about grabbing some coffee later, you in?",
                 "sender": "left",
-                "timestamp": "10:44 AM, May 29, 2025"
+                "timestamp": "10:44 AM, May 29, 2025",
+                "username": "Charlie",
+                "photoUrl": "https://via.placeholder.com/40?text=Charlie"
             },
             {
                 "text": "Count me in! 3 PM work for you?",
                 "sender": "right",
-                "timestamp": "10:46 AM, May 29, 2025"
+                "timestamp": "10:46 AM, May 29, 2025",
+                "username": "Diana",
+                "photoUrl": "https://via.placeholder.com/40?text=Diana"
             }
         ]
     }
