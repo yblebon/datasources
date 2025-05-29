@@ -21,7 +21,7 @@
                 "photoUrl": "https://via.placeholder.com/40?text=Bob",
                 "attachment": {
                     "type": "xPost",
-                    "url": "https://x.com/elonmusk/status/1234567890123456789"
+                    "embedCode": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The future is multiplanetary! <a href=\"https://t.co/8a3Nq9Eh3z\">https://t.co/8a3Nq9Eh3z</a></p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1848142850220077478?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
                 }
             },
             {
@@ -59,7 +59,7 @@
                 "photoUrl": "https://via.placeholder.com/40?text=Charlie",
                 "attachment": {
                     "type": "xPost",
-                    "url": "https://x.com/username/status/9876543210987654321"
+                    "embedCode": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">AI is accelerating human scientific discovery at an unprecedented rate. The future is bright! <a href=\"https://t.co/xAI4l5W8fD\">https://t.co/xAI4l5W8fD</a></p>&mdash; xAI (@xAI) <a href=\"https://twitter.com/xAI/status/1852030119963951342?ref_src=twsrc%5Etfw\">November 4, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
                 }
             },
             {
