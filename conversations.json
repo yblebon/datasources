@@ -21,7 +21,11 @@
                 "sender": "left",
                 "timestamp": "15:53 AM, May 29, 2025",
                 "username": "Nobody",
-                "photoUrl": "https://via.placeholder.com/40?text=Nobody"
+                "photoUrl": "https://via.placeholder.com/40?text=Nobody",
+                "attachment": {
+                    "type": "image",
+                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbS5w9NVqcZHAuTrR7gd9wTaJyxoGZyEZgfnpQVuHSkuG"
+                }
             }
            ,
            {
@@ -29,7 +33,11 @@
                 "sender": "right",
                 "timestamp": "15:54 AM, May 29, 2025",
                 "username": "Tingy",
-                "photoUrl": "https://via.placeholder.com/40?text=Tingy"
+                "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+                "attachment": {
+                    "type": "image",
+                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmX3dh9hvhfy5R8iJupnVHdPhpf3eFzw2NdtXfrByFj85z"
+                }
             }
         ]
     },
