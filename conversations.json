@@ -1,4 +1,18 @@
 [
+{
+   "name": "Cleaning out my closet",
+        "messages": [
+            {
+                "text": "Hey, how's it going?",
+                "sender": "left",
+                "timestamp": "15:51 AM, May 29, 2025",
+                "username": "Nobody",
+                "photoUrl": "https://via.placeholder.com/40?text=Nobody"
+            }
+        ]
+    },
+    
+    
     {
         "name": "Conversation 1",
         "messages": [
