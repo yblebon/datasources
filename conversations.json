@@ -7,7 +7,11 @@
                 "sender": "left",
                 "timestamp": "10:30 AM, May 29, 2025",
                 "username": "Alice",
-                "photoUrl": "https://via.placeholder.com/40?text=Alice"
+                "photoUrl": "https://via.placeholder.com/40?text=Alice",
+                "attachment": {
+                    "type": "image",
+                    "url": "https://via.placeholder.com/200?text=Image1"
+                }
             },
             {
                 "text": "Yo! I'm just chilling, ready to assist. What's up?",
@@ -21,14 +25,22 @@
                 "sender": "left",
                 "timestamp": "10:35 AM, May 29, 2025",
                 "username": "Alice",
-                "photoUrl": "https://via.placeholder.com/40?text=Alice"
+                "photoUrl": "https://via.placeholder.com/40?text=Alice",
+                "attachment": {
+                    "type": "audio",
+                    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+                }
             },
             {
                 "text": "Haha, looks sleek, right? Want to add more messages?",
                 "sender": "right",
                 "timestamp": "10:36 AM, May 29, 2025",
                 "username": "Bob",
-                "photoUrl": "https://via.placeholder.com/40?text=Bob"
+                "photoUrl": "https://via.placeholder.com/40?text=Bob",
+                "attachment": {
+                    "type": "video",
+                    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+                }
             }
         ]
     },
@@ -47,21 +59,33 @@
                 "sender": "right",
                 "timestamp": "10:42 AM, May 29, 2025",
                 "username": "Diana",
-                "photoUrl": "https://via.placeholder.com/40?text=Diana"
+                "photoUrl": "https://via.placeholder.com/40?text=Diana",
+                "attachment": {
+                    "type": "image",
+                    "url": "https://via.placeholder.com/200?text=Image2"
+                }
             },
             {
                 "text": "Thinking about grabbing some coffee later, you in?",
                 "sender": "left",
                 "timestamp": "10:44 AM, May 29, 2025",
                 "username": "Charlie",
-                "photoUrl": "https://via.placeholder.com/40?text=Charlie"
+                "photoUrl": "https://via.placeholder.com/40?text=Charlie",
+                "attachment": {
+                    "type": "audio",
+                    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+                }
             },
             {
                 "text": "Count me in! 3 PM work for you?",
                 "sender": "right",
                 "timestamp": "10:46 AM, May 29, 2025",
                 "username": "Diana",
-                "photoUrl": "https://via.placeholder.com/40?text=Diana"
+                "photoUrl": "https://via.placeholder.com/40?text=Diana",
+                "attachment": {
+                    "type": "video",
+                    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4"
+                }
             }
         ]
     }
