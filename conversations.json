@@ -1,188 +1,185 @@
 [
-{
-   "name": "Cleaning out my closet",
-        "messages": [
-            {
-                "text": "Hey, how's it going?",
-                "sender": "left",
-                "timestamp": "15:51 AM, May 29, 2025",
-                "username": "Nobody",
-                "photoUrl": "https://via.placeholder.com/40?text=Nobody"
-            },
-           {
-                "text": "Le développement de notre Groupe repose sur la confiance de nos clients. Cette confiance dépend essentiellement de notre comportement.",
-                "sender": "right",
-                "timestamp": "15:52 AM, May 29, 2025",
-                "username": "Tingy",
-                "photoUrl": "https://via.placeholder.com/40?text=Tingy"
-            },
-           {
-                "text": "Do you know that dance?",
-                "sender": "left",
-                "timestamp": "15:53 AM, May 29, 2025",
-                "username": "Nobody",
-                "photoUrl": "https://via.placeholder.com/40?text=Nobody",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbS5w9NVqcZHAuTrR7gd9wTaJyxoGZyEZgfnpQVuHSkuG"
-                }
+   {
+      "name":"Cleaning out my closet",
+      "messages":[
+         {
+            "text":"Hey, how's it going?",
+            "sender":"left",
+            "timestamp":"15:51 AM, May 29, 2025",
+            "username":"Nobody",
+            "photoUrl":"https://via.placeholder.com/40?text=Nobody"
+         },
+         {
+            "text":"Le développement de notre Groupe repose sur la confiance de nos clients. Cette confiance dépend essentiellement de notre comportement.",
+            "sender":"right",
+            "timestamp":"15:52 AM, May 29, 2025",
+            "username":"Tingy",
+            "photoUrl":"https://via.placeholder.com/40?text=Tingy"
+         },
+         {
+            "text":"Do you know that dance?",
+            "sender":"left",
+            "timestamp":"15:53 AM, May 29, 2025",
+            "username":"Nobody",
+            "photoUrl":"https://via.placeholder.com/40?text=Nobody",
+            "attachment":{
+               "type":"image",
+               "url":"https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbS5w9NVqcZHAuTrR7gd9wTaJyxoGZyEZgfnpQVuHSkuG"
             }
-           ,
-           {
-                "text": "Yes. And I also know that one",
-                "sender": "right",
-                "timestamp": "15:54 AM, May 29, 2025",
-                "username": "Tingy",
-                "photoUrl": "https://via.placeholder.com/40?text=Tingy",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmX3dh9hvhfy5R8iJupnVHdPhpf3eFzw2NdtXfrByFj85z"
-                }
-            },
-           {
-                "text": "What about 'ne tolère aucune forme de corruption, qu’elle soit active ou passive'?",
-                "sender": "left",
-                "timestamp": "15:55 AM, May 29, 2025",
-                "username": "Nobody",
-                "photoUrl": "https://via.placeholder.com/40?text=Nobody",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbzqZCsyM12Lw5yTaQR7GJfSaAwT7sJS2fu96CHPBq5Lm"
-                }
-            },
-           {
-                "text": "L’agilité est au cœur de notre façon de faire.",
-                "sender": "right",
-                "timestamp": "15:56 AM, May 29, 2025",
-                "username": "Tingy",
-                "photoUrl": "https://via.placeholder.com/40?text=Tingy",
-              "attachment": {
-                    "type": "image",
-                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmQAocEGafCskyNPF8DksPeYLGph8AcJDkSZVV7zikHEBZ"
-                }
-            },
-           {
-                "text": "What is this 14 days, and gives you medical-trade insights story?",
-                "sender": "left",
-                "timestamp": "15:57 AM, May 29, 2025",
-                "username": "Nobody",
-                "photoUrl": "https://via.placeholder.com/40?text=Nobody",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZDoKzfdTXi3qVffVdr9jRtd9AeiBGDVkL4UXnbxyk78P"
-                }
-            },
-            {
-                "text": "This is how they made me (Made me) Houston, Texas baby. This goes out to all my girls",
-                "sender": "right",
-                "timestamp": "15:58 AM, May 29, 2025",
-                "username": "Tingy",
-                "photoUrl": "https://via.placeholder.com/40?text=Tingy",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYCnXKRoErZtNTFUunKVp4A2eirhHeqZnVnLHnpze9ZMf"
-                }
+         },
+         {
+            "text":"Yes. And I also know that one",
+            "sender":"right",
+            "timestamp":"15:54 AM, May 29, 2025",
+            "username":"Tingy",
+            "photoUrl":"https://via.placeholder.com/40?text=Tingy",
+            "attachment":{
+               "type":"image",
+               "url":"https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmX3dh9hvhfy5R8iJupnVHdPhpf3eFzw2NdtXfrByFj85z"
             }
-        ]
-    },
-    
-    
-    {
-        "name": "Conversation 1",
-        "messages": [
-            {
-                "text": "Hey, how's it going?",
-                "sender": "left",
-                "timestamp": "10:30 AM, May 29, 2025",
-                "username": "Alice",
-                "photoUrl": "https://via.placeholder.com/40?text=Alice",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://via.placeholder.com/200?text=Image1"
-                }
-            },
-            {
-                "text": "Yo! Check this post I found!",
-                "sender": "right",
-                "timestamp": "10:32 AM, May 29, 2025",
-                "username": "Bob",
-                "photoUrl": "https://via.placeholder.com/40?text=Bob",
-                "attachment": {
-                    "type": "xPost",
-                    "embedCode": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The future is multiplanetary! <a href=\"https://t.co/8a3Nq9Eh3z\">https://t.co/8a3Nq9Eh3z</a></p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1848142850220077478?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-                }
-            },
-            {
-                "text": "Just wanted to check out this cool timeline chat thing!",
-                "sender": "left",
-                "timestamp": "10:35 AM, May 29, 2025",
-                "username": "Alice",
-                "photoUrl": "https://via.placeholder.com/40?text=Alice",
-                "attachment": {
-                    "type": "audio",
-                    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-                }
-            },
-            {
-                "text": "Haha, looks sleek, right? Here's a cool video!",
-                "sender": "right",
-                "timestamp": "10:36 AM, May 29, 2025",
-                "username": "Bob",
-                "photoUrl": "https://via.placeholder.com/40?text=Bob",
-                "attachment": {
-                    "type": "video",
-                    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
-                }
+         },
+         {
+            "text":"What about 'ne tolère aucune forme de corruption, qu’elle soit active ou passive'?",
+            "sender":"left",
+            "timestamp":"15:55 AM, May 29, 2025",
+            "username":"Nobody",
+            "photoUrl":"https://via.placeholder.com/40?text=Nobody",
+            "attachment":{
+               "type":"image",
+               "url":"https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbzqZCsyM12Lw5yTaQR7GJfSaAwT7sJS2fu96CHPBq5Lm"
             }
-        ]
-    },
-    {
-        "name": "Conversation 2",
-        "messages": [
-            {
-                "text": "Yo, you free to chat?",
-                "sender": "left",
-                "timestamp": "10:40 AM, May 29, 2025",
-                "username": "Charlie",
-                "photoUrl": "https://via.placeholder.com/40?text=Charlie",
-                "attachment": {
-                    "type": "xPost",
-                    "embedCode": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">AI is accelerating human scientific discovery at an unprecedented rate. The future is bright! <a href=\"https://t.co/xAI4l5W8fD\">https://t.co/xAI4l5W8fD</a></p>&mdash; xAI (@xAI) <a href=\"https://twitter.com/xAI/status/1852030119963951342?ref_src=twsrc%5Etfw\">November 4, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-                }
-            },
-            {
-                "text": "Totally, what's on your mind?",
-                "sender": "right",
-                "timestamp": "10:42 AM, May 29, 2025",
-                "username": "Diana",
-                "photoUrl": "https://via.placeholder.com/40?text=Diana",
-                "attachment": {
-                    "type": "image",
-                    "url": "https://via.placeholder.com/200?text=Image2"
-                }
-            },
-            {
-                "text": "Thinking about grabbing some coffee later, you in?",
-                "sender": "left",
-                "timestamp": "10:44 AM, May 29, 2025",
-                "username": "Charlie",
-                "photoUrl": "https://via.placeholder.com/40?text=Charlie",
-                "attachment": {
-                    "type": "audio",
-                    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
-                }
-            },
-            {
-                "text": "Count me in! 3 PM work for you?",
-                "sender": "right",
-                "timestamp": "10:46 AM, May 29, 2025",
-                "username": "Diana",
-                "photoUrl": "https://via.placeholder.com/40?text=Diana",
-                "attachment": {
-                    "type": "video",
-                    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4"
-                }
+         },
+         {
+            "text":"L’agilité est au cœur de notre façon de faire.",
+            "sender":"right",
+            "timestamp":"15:56 AM, May 29, 2025",
+            "username":"Tingy",
+            "photoUrl":"https://via.placeholder.com/40?text=Tingy",
+            "attachment":{
+               "type":"image",
+               "url":"https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmQAocEGafCskyNPF8DksPeYLGph8AcJDkSZVV7zikHEBZ"
             }
-        ]
-    }
+         },
+         {
+            "text":"What is this 14 days, and gives you medical-trade insights story?",
+            "sender":"left",
+            "timestamp":"15:57 AM, May 29, 2025",
+            "username":"Nobody",
+            "photoUrl":"https://via.placeholder.com/40?text=Nobody",
+            "attachment":{
+               "type":"image",
+               "url":"https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZDoKzfdTXi3qVffVdr9jRtd9AeiBGDVkL4UXnbxyk78P"
+            }
+         },
+         {
+            "text":"This is how they made me (Made me) Houston, Texas baby. This goes out to all my girls",
+            "sender":"right",
+            "timestamp":"15:58 AM, May 29, 2025",
+            "username":"Tingy",
+            "photoUrl":"https://via.placeholder.com/40?text=Tingy",
+            "attachment":{
+               "type":"image",
+               "url":"https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYCnXKRoErZtNTFUunKVp4A2eirhHeqZnVnLHnpze9ZMf"
+            }
+         }
+      ]
+   },
+   {
+      "name":"Conversation 1",
+      "messages":[
+         {
+            "text":"Hey, how's it going?",
+            "sender":"left",
+            "timestamp":"10:30 AM, May 29, 2025",
+            "username":"Alice",
+            "photoUrl":"https://via.placeholder.com/40?text=Alice",
+            "attachment":{
+               "type":"image",
+               "url":"https://via.placeholder.com/200?text=Image1"
+            }
+         },
+         {
+            "text":"Yo! Check this post I found!",
+            "sender":"right",
+            "timestamp":"10:32 AM, May 29, 2025",
+            "username":"Bob",
+            "photoUrl":"https://via.placeholder.com/40?text=Bob",
+            "attachment":{
+               "type":"xPost",
+               "embedCode":"<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The future is multiplanetary! <a href=\"https://t.co/8a3Nq9Eh3z\">https://t.co/8a3Nq9Eh3z</a></p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1848142850220077478?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+         },
+         {
+            "text":"Just wanted to check out this cool timeline chat thing!",
+            "sender":"left",
+            "timestamp":"10:35 AM, May 29, 2025",
+            "username":"Alice",
+            "photoUrl":"https://via.placeholder.com/40?text=Alice",
+            "attachment":{
+               "type":"audio",
+               "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+            }
+         },
+         {
+            "text":"Haha, looks sleek, right? Here's a cool video!",
+            "sender":"right",
+            "timestamp":"10:36 AM, May 29, 2025",
+            "username":"Bob",
+            "photoUrl":"https://via.placeholder.com/40?text=Bob",
+            "attachment":{
+               "type":"video",
+               "url":"https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+            }
+         }
+      ]
+   },
+   {
+      "name":"Conversation 2",
+      "messages":[
+         {
+            "text":"Yo, you free to chat?",
+            "sender":"left",
+            "timestamp":"10:40 AM, May 29, 2025",
+            "username":"Charlie",
+            "photoUrl":"https://via.placeholder.com/40?text=Charlie",
+            "attachment":{
+               "type":"xPost",
+               "embedCode":"<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">AI is accelerating human scientific discovery at an unprecedented rate. The future is bright! <a href=\"https://t.co/xAI4l5W8fD\">https://t.co/xAI4l5W8fD</a></p>&mdash; xAI (@xAI) <a href=\"https://twitter.com/xAI/status/1852030119963951342?ref_src=twsrc%5Etfw\">November 4, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+         },
+         {
+            "text":"Totally, what's on your mind?",
+            "sender":"right",
+            "timestamp":"10:42 AM, May 29, 2025",
+            "username":"Diana",
+            "photoUrl":"https://via.placeholder.com/40?text=Diana",
+            "attachment":{
+               "type":"image",
+               "url":"https://via.placeholder.com/200?text=Image2"
+            }
+         },
+         {
+            "text":"Thinking about grabbing some coffee later, you in?",
+            "sender":"left",
+            "timestamp":"10:44 AM, May 29, 2025",
+            "username":"Charlie",
+            "photoUrl":"https://via.placeholder.com/40?text=Charlie",
+            "attachment":{
+               "type":"audio",
+               "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+            }
+         },
+         {
+            "text":"Count me in! 3 PM work for you?",
+            "sender":"right",
+            "timestamp":"10:46 AM, May 29, 2025",
+            "username":"Diana",
+            "photoUrl":"https://via.placeholder.com/40?text=Diana",
+            "attachment":{
+               "type":"video",
+               "url":"https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4"
+            }
+         }
+      ]
+   }
 ]
