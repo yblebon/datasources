@@ -78,11 +78,11 @@
                 "timestamp": "15:58 AM, May 29, 2025",
                 "username": "Tingy",
                 "photoUrl": "https://via.placeholder.com/40?text=Tingy",
-              "attachment": {
+                "attachment": {
                     "type": "image",
                     "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYCnXKRoErZtNTFUunKVp4A2eirhHeqZnVnLHnpze9ZMf"
                 }
-            },
+            }
         ]
     },
     
