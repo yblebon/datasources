@@ -1,54 +1,66 @@
-{
-    "swift": [
-        {"name": "Joe Jonas", "start": "2008-07", "end": "2008-10", "duration": 4, "details": "Inspired 'Forever & Always,' 'Last Kiss' (Fearless)"},
-        {"name": "Lucas Till", "start": "2009-03", "end": "2009-05", "duration": 2, "details": "No major songs linked"},
-        {"name": "Taylor Lautner", "start": "2009-08", "end": "2009-12", "duration": 5, "details": "Inspired 'Back to December' (Speak Now)"},
-        {"name": "John Mayer", "start": "2009-12", "end": "2010-02", "duration": 3, "details": "Inspired 'Dear John' (Speak Now)"},
-        {"name": "Jake Gyllenhaal", "start": "2010-10", "end": "2011-01", "duration": 4, "details": "Inspired 'All Too Well,' others (Red)"},
-        {"name": "Conor Kennedy", "start": "2012-07", "end": "2012-09", "duration": 3, "details": "Inspired 'Begin Again' (Red)"},
-        {"name": "Harry Styles", "start": "2012-10", "end": "2013-01", "duration": 4, "details": "Inspired 'Style,' 'Out of the Woods' (1989)"},
-        {"name": "Calvin Harris", "start": "2015-03", "end": "2016-06", "duration": 15, "details": "Inspired 'I Forgot That You Existed' (Lover)"},
-        {"name": "Tom Hiddleston", "start": "2016-06", "end": "2016-09", "duration": 4, "details": "Inspired 'Getaway Car' (Reputation)"},
-        {"name": "Joe Alwyn", "start": "2016-09", "end": "2023-04", "duration": 80, "details": "Inspired Lover, Folklore, Evermore songs"},
-        {"name": "Matty Healy", "start": "2023-05", "end": "2023-06", "duration": 2, "details": "Inspired The Tortured Poets Department tracks"},
-        {"name": "Travis Kelce", "start": "2023-08", "end": "2025-05", "duration": 21, "details": "Ongoing, no confirmed songs"}
-    ],
-    "west": [
-        {"name": "Sumeke Rainey", "start": "1996-01", "end": "2002-12", "duration": 72, "details": "High school sweetheart, inspired 'Never Let Me Down' (The College Dropout)"},
-        {"name": "Alexis Phifer", "start": "2002-01", "end": "2008-04", "duration": 72, "details": "Engaged, inspired themes in 808s & Heartbreak"},
-        {"name": "Amber Rose", "start": "2008-09", "end": "2010-08", "duration": 24, "details": "Inspired 'Runaway' (My Beautiful Dark Twisted Fantasy)"},
-        {"name": "Kim Kardashian", "start": "2012-04", "end": "2021-02", "duration": 107, "details": "Married 2014, 4 children, inspired 'Bound 2' (Yeezus)"},
-        {"name": "Vinetria", "start": "2021-06", "end": "2021-12", "duration": 6, "details": "Model, brief relationship post-divorce"},
-        {"name": "Julia Fox", "start": "2022-01", "end": "2022-02", "duration": 2, "details": "Actress, short-lived relationship"},
-        {"name": "Chaney Jones", "start": "2022-02", "end": "2022-06", "duration": 4, "details": "Model, brief relationship"},
-        {"name": "Juliana Nalù", "start": "2022-10", "end": "2022-12", "duration": 3, "details": "Model, brief relationship"},
-        {"name": "Bianca Censori", "start": "2023-01", "end": "2025-02", "duration": 25, "details": "Married 2023, Yeezy LLC employee, separated 2025"}
-    ],
-    "kardashian": [
-        {"name": "Damon Thomas", "start": "2000-01", "end": "2003-02", "duration": 37, "details": "Married at 19, divorced 2004, claimed ecstasy use"},
-        {"name": "Ray J", "start": "2003-05", "end": "2006-05", "duration": 36, "details": "Sex tape leaked 2007"},
-        {"name": "Nick Lachey", "start": "2006-05", "end": "2006-07", "duration": 3, "details": "Brief fling, seen at The Da Vinci Code"},
-        {"name": "Nick Cannon", "start": "2006-09", "end": "2007-02", "duration": 6, "details": "Dated, ended due to sex tape issues"},
-        {"name": "Reggie Bush", "start": "2007-07", "end": "2010-07", "duration": 36, "details": "On-and-off, split due to distance"},
-        {"name": "Cristiano Ronaldo", "start": "2010-04", "end": "2010-05", "duration": 2, "details": "Brief fling in Madrid"},
-        {"name": "Miles Austin", "start": "2010-06", "end": "2010-09", "duration": 4, "details": "Split due to long distance"},
-        {"name": "Shengo Deane", "start": "2010-09", "end": "2010-10", "duration": 2, "details": "Brief romance with bodyguard"},
-        {"name": "Gabriel Aubry", "start": "2010-11", "end": "2010-12", "duration": 2, "details": "Dated post-Halle Berry split"},
-        {"name": "Kris Humphries", "start": "2010-10", "end": "2011-10", "duration": 13, "details": "Married 72 days, divorced 2013"},
-        {"name": "Kanye West", "start": "2012-04", "end": "2021-02", "duration": 107, "details": "Married 2014, 4 children, divorced 2021"},
-        {"name": "Pete Davidson", "start": "2021-11", "end": "2022-08", "duration": 10, "details": "Dated post-SNL, split due to distance"},
-        {"name": "Odell Beckham Jr.", "start": "2023-09", "end": "2024-03", "duration": 7, "details": "Brief romance, split due to schedules"}
-    ],
-    "combs": [
-        {"name": "Salli Richardson-Whitfield", "start": "1990-11", "end": "1991-05", "duration": 7, "details": "Dated early in career"},
-        {"name": "Misa Hylton-Brim", "start": "1992-09", "end": "1995-03", "duration": 30, "details": "Dated, welcomed son Justin"},
-        {"name": "Kim Porter", "start": "1994-05", "end": "2007-07", "duration": 158, "details": "On-and-off, 3 children, raised Quincy"},
-        {"name": "Jennifer Lopez", "start": "1999-08", "end": "2001-02", "duration": 18, "details": "High-profile romance"},
-        {"name": "Sarah Chapman", "start": "2006-01", "end": "2006-07", "details": "Megan, brief relationship"},
-        {"name": "Cassie Ventura", "start": "2007-05", "end": "2018-10", "duration": 150, "details": "On-and-off, public in 2012, split 2018"},
-        {"name": "Gina Huynh", "start": "2014-09", "end": "2019-01", "duration": 53, "details": "Dated on-and-off, public in 2019"},
-        {"name": "Lori Harvey", "start": "2019-07", "end": "2019-10", "duration": 4, "details": "Brief romance, seen in Italy"},
-        {"name": "Yung Miami", "start": "2021-06", "end": "2023-06", "duration": 24, "details": "Dated, confirmed by Yung Miami"},
-        {"name": "Dana Tran", "start": "2021-09", "end": "2022-12", "duration": 16, "details": "Dated, welcomed daughter Love"}
+[
+  {
+    "identity": "swift",
+    "relationships": [
+      {"name": "Joe Jonas", "start": "2008-07", "end": "2008-10", "duration": 4", "details": "Inspired 'Forever & Always,' 'Last Kiss'"},
+      {"name": "Lucas Till", "start": "2009-03", "end": "2009-05", "duration": 2, "details": "No major songs linked"},
+      {"name": "Taylor Lautner", "start": "2009-08", "end": "2009-12", "duration": 5, "details": "Inspired 'Back to December' (Speak Now)"},
+      {"name": "John Mayer", "start": "2009-12", "end": "2010-02", "duration": 3, "details: "Inspired 'Dear John' (Speak Now)"},
+      {"name": "Jake Gyllenhaal", "start": "2010-10", "end": "2011-01", "duration": 4, "details": "Inspired 'All Too Well,' others (Red)"},
+      {"name": "Conor Kennedy", "start": "2012-07", "end": "2012-09", "duration": 3, "details": "Inspired 'Begin Again' (Red)"},
+      {"name": "Harry Styles", "start": "2012-10", "end": "2013-01", "duration": 4, "details": "Inspired 'Style,' 'Out of the Woods' (1989)"},
+      {"name": "Calvin Harris", "start": "2015-03", "end": "2016-06", "duration": 15, "details": "Inspired 'I Forgot That You Existed' (Lover)"},
+      {"name": "Tom Hiddleston", "start": "2016-06", "end": "2016-09", "duration": 4, "details": "Inspired 'Getaway Car' (Reputation)"},
+      {"name": "Joe Alwyn", "start": "2016-09", "end": "2023-04", "duration": 80, "details": "Inspired Lover, Folklore, Evermore songs"},
+      {"name": "Matty Healy", "start": "2023-05", "end": "2023-06", "duration": 2, "details": "Inspired The Tortured Poets Department tracks"},
+      {"name": "Travis Kelce", "start": "2023-08", "end": "2025-05", "duration": 21, "details": "Ongoing, no confirmed songs"}
     ]
-}
+  },
+  {
+    "identity": "west",
+    "relationships": [
+      {"name": "Sumeke Rainey", "start": "1996-01", "end": "2002-12", "duration": 72, "details": "High school sweetheart, inspired 'Never Let Me Down'"},
+      {"name": "Alexis Phifer", "start": "2002-01", "end": "2008-04", "duration": 72, "details": "Engaged, inspired themes in 808s & Heartbreak"},
+      {"name": "Amber Rose", "start": "2008-09", "end": "2010-08", "duration": 24, "details": "Inspired 'Runaway' (My Beautiful Dark Twisted Fantasy)"},
+      {"name": "Kim Kardashian", "start": "2012-04", "end": "2021-02", "duration": 107, "details": "Married 2014, 4 children, inspired 'Bound 2' (Yeezus)"},
+      {"name": "Vinetria", "start": "2021-06", "end": "2021-12", "duration": 6, "details": "Model, brief relationship post-divorce"},
+      {"name": "Julia Fox", "start": "2022-01", "end": "2022-02", "duration": 2, "details": "Actress, short-lived relationship"},
+      {"name": "Chaney Jones", "start": "2022-02", "end": "2022-06", "duration": 4, "details": "Model, brief relationship"},
+      {"name": "Juliana Nalù", "start": "2022-10", "end": "2022-12", "duration": 3, "details": "Model, brief relationship"},
+      {"name": "Bianca Censori", "start": "2023-01", "end": "2025-02", "duration": 25, "details": "Married 2023, Yeezy LLC employee, separated 2025"}
+    ]
+  },
+  {
+    "identity": "kardashian",
+    "relationships": [
+      {"name": "Damon Thomas", "start": "2000-01", "end": "2003-02", "duration": 37, "details": "Married at 19, divorced 2004, claimed ecstasy use"},
+      {"name": "Ray J", "start": "2003-05", "end": "2006-05", "duration": 36, "details": "Sex tape leaked 2007"},
+      {"name": "Nick Lachey", "start": "2006-05", "end": "2006-07", "duration": 3, "details": "Brief fling, seen at The Da Vinci Code"},
+      {"name": "Nick Cannon", "start": "2006-09", "end": "2007-02", "duration": 6, "details": "Dated, ended due to sex tape issues"},
+      {"name": "Reggie Bush", "start": "2007-07", "end": "2010-07", "duration": 36, "details": "On-and-off, split due to distance"},
+      {"name": "Cristiano Ronaldo", "start": "2010-04", "end": "2010-05", "duration": 2, "details": "Brief fling in Madrid"},
+      {"name": "Miles Austin", "start": "2010-06", "end": "2010-09", "duration": 4, "details": "Split due to long distance"},
+      {"name": "Shengo Deane", "start": "2010-09", "end": "2010-10", "duration": 2, "details": "Brief romance with bodyguard"},
+      {"name": "Gabriel Aubry", "start": "2010-11", "end": "2010-12", "duration": 2, "details": "Dated post-Halle Berry split"},
+      {"name": "Kris Humphries", "start": "2010-10", "end": "2011-10", "duration": 13, "details": "Married 72 days, divorced 2013"},
+      {"name": "Kanye West", "start": "2012-04", "end": "2021-02", "duration": 107, "details": "Married 2014, 4 children, divorced 2021"},
+      {"name": "Pete Davidson", "start": "2021-11", "end": "2022-08", "duration": 10, "details": "Dated post-SNL, split due to distance"},
+      {"name": "Odell Beckham Jr.", "start": "2023-09", "end": "2024-03", "duration": 7, "details": "Brief romance, split due to schedules"}
+    ]
+  },
+  {
+    "identity": "combs",
+    "relationships": [
+      {"name": "Salli Richardson-Whitfield", "start": "1990-11", "end": "1991-05", "duration": 7, "details": "Dated early in career"},
+      {"name": "Misa Hylton-Brim", "start": "1992-09", "end": "1995-03", "duration": 30, "details": "Dated, welcomed son Justin"},
+      {"name": "Kim Porter", "start": "1994-05", "end": "2007-07", "duration": 158, "details": "On-and-off, 3 children, raised Quincy"},
+      {"name": "Jennifer Lopez", "start": "1999-08", "end": "2001-02", "duration": 18, "details": "High-profile romance"},
+      {"name": "Sarah Chapman", "start": "2006-01", "end": "2006-07", "duration": 7, "details": "Dated, welcomed daughter Chance"},
+      {"name": "Cassie Ventura", "start": "2007-05", "end": "2018-10", "duration": 137, "details": "On-and-off, public in 2012, split 2018"},
+      {"name": "Gina Huynh", "start": "2014-09", "end": "2019-01", "duration": 53, "details": "Dated on-and-off, public in 2019"},
+      {"name": "Lori Harvey", "start": "2019-07", "end": "2019-10", "duration": 4, "details": "Brief romance, seen in Italy"},
+      {"name": "Yung Miami", "start": "2021-06", "end": "2023-06", "duration": 24, "details": "Dated, confirmed by Yung Miami"},
+      {"name": "Dana Tran", "start": "2021-09", "end": "2022-12", "duration": 16, "details": "Dated, welcomed daughter Love"}
+    ]
+  }
+]
