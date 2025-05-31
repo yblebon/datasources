@@ -169,6 +169,28 @@
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZf7FGWfCdN1fW7Z6Ef9nebX9iyAE8gTvqDibWJeywQK6"
         }
+      },
+      {
+        "text": "Oh I see. What type of schwarz is that?",
+        "sender": "left",
+        "timestamp": "13:15 AM, May 31, 2025",
+        "username": "Nobody",
+        "photoUrl": "https://via.placeholder.com/40?text=Nobody",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZf7FGWfCdN1fW7Z6Ef9nebX9iyAE8gTvqDibWJeywQK6"
+        }
+      },
+      {
+        "text": "That type of schwarz",
+        "sender": "right",
+        "timestamp": "13:16 AM, May 31, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qmbd45v2ArwFDoU8CM4wkiiZRoiBD6DNCr5riWiMj1RiSS"
+        }
       }
     ]
   },
