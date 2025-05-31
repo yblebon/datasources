@@ -215,11 +215,22 @@
         }
       },
       {
-        "text": "Yes, I cant miss that large tummy. You love sandwiches I see.",
+        "text": "Yes, I cant miss that large tummy. You love sandwiches I see. Tell me more?",
         "sender": "left",
-        "timestamp": "13:18 AM, May 31, 2025",
+        "timestamp": "13:19 AM, May 31, 2025",
         "username": "Nobody",
         "photoUrl": "https://via.placeholder.com/40?text=Nobody"
+      },
+      {
+        "text": "Chill man. Watch the brother from another mother",
+        "sender": "right",
+        "timestamp": "13:20 AM, May 31, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=dCW4EJUS5is"
+        }
       }
     ]
   },
