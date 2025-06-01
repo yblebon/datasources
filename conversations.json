@@ -439,6 +439,17 @@
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXiCiCDHsfDSHGqXh5TQMsgyd51dRJNdMUeWE4cX6rJ6P"
         }
+      },
+      {
+        "text": "Hola. That's the al campo guy. Afuera.",
+        "sender": "right",
+        "timestamp": "13:15 AM, June 01, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmW69xq1QL8J68TsqzhHbSk67PWSJn44MHeCt2EFYdUBXg"
+        }
       }
     ]
   },
