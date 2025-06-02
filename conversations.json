@@ -618,7 +618,7 @@
         }
       },
       {
-        "text": "Did my innocence make you feel vulnerable? 2 projects but I will keep it less complex that time",
+        "text": "Did my innocence make you feel vulnerable? 2 projects but I will keep it less complex that time.",
         "sender": "right",
         "timestamp": "11:32 AM, June 02, 2025",
         "username": "Tingy",
@@ -626,6 +626,17 @@
         "attachment": {
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmW19HSv1JxuQctyjTFNBsZKUwcWubR4gRg9GEPHBS8KZk"
+        }
+      },
+      {
+        "text": "Ah je comprends mieux certains hashtags et le mouvement #metoo",
+        "sender": "left",
+        "timestamp": "11:33 AM, June 02, 2025",
+        "username": "Nobody",
+        "photoUrl": "https://via.placeholder.com/40?text=Nobody",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmersTRjreSHTs8dTxBFfehoQ4ikNmE9iNRR23z5NMK1CD"
         }
       }
     ]
