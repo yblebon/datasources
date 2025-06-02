@@ -737,7 +737,29 @@
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmaGJWmLTpiPf2sPntGchc3aLKCc4vTMRFSwPVbtnibjGU"
         }
-      }
+      }, 
+      {
+        "text": "Your people seem to know more about submarine",
+        "sender": "left",
+        "timestamp": "11:43  AM, June 02, 2025",
+        "username": "Nobody",
+        "photoUrl": "https://via.placeholder.com/40?text=Nobody",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdRb1ELfPPnFxfszQ9BU5TPfBfW2t5DPJnZ1vxtqtXss2"
+        }
+      },
+      {
+        "text": "You crushed a lot of people, keepin' their thoughts in captivity.  I rewrote the devil's story just to take our power back, 'carnated. And I'm ashamed that I ever created that enemy",
+        "sender": "right",
+        "timestamp": "11:44 AM, June 02, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmVdR19GZtkJbzzKQN8LVWtW2nXZHS1tng89vVsXZGZPzM"
+        }
+      }      
     ]
   },
   {
