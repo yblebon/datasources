@@ -1028,6 +1028,17 @@
           "type": "video",
           "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
         }
+      },
+      {
+        "text": "Vadinao ro tsy vostro, andilagna azy tsy avositro",
+        "sender": "right",
+        "timestamp": "10:38  PM, June 03, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmUNF7dmGvT13saKruPsru5zNNNV6x44NnfdbPe2FPCdoA"
+        }
       }
     ]
   },
