@@ -968,6 +968,17 @@
           "type": "image",
           "url": ""
         }
+      },
+      {
+        "text": "Si la vie t'a mis la c'est qu'elle veut ta peau. La monnaie des colons, la fierté de l'Orient. Si la vie m'a mis là c'est qu'elle doit avoir ma peau",
+        "sender": "right",
+        "timestamp": "12:00  PM, June 03, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmUNF7dmGvT13saKruPsru5zNNNV6x44NnfdbPe2FPCdoA"
+        }
       }
     ]
   },
