@@ -1167,6 +1167,16 @@
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
         }
+      },{
+        "text": "",
+        "sender": "right",
+        "timestamp": "11:22 AM, June 05, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmY8M1Myb9LUUdLD2zWDFfVRozVmpfbdEoRvSPy1Up5bBA"
+        }
       }
     ]
   },
