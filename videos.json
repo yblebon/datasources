@@ -15,11 +15,6 @@
     "tag": "Film Extrait"
   },
   {
-    "id": "nc5LaNcTAfU",
-    "title": "The Big restaurant - Muskatnuss Herr Muller",
-    "tag": "Film Extrait"
-  },
-  {
     "id": "YlK641jt8H0",
     "title": "La Grande vadrouille - Chef d'orchestre",
     "tag": "Film Extrait"
@@ -38,20 +33,5 @@
     "id": "UYYwaFy05-U",
     "title": "Le Diner des Cons - Il s'appelle juste Leblanc",
     "tag": "Film Extrait"
-  },
-  {
-    "id": "dQw4w9WgXcQ",
-    "title": "Rick Astley - Never Gonna Give You Up",
-    "tag": "Music"
-  },
-  {
-    "id": "3tmd-ClpJxA",
-    "title": "Introduction to JavaScript",
-    "tag": "Tutorial"
-  },
-  {
-    "id": "M7lc1UVf-VE",
-    "title": "Web Development Crash Course",
-    "tag": "Education"
   }
 ]
