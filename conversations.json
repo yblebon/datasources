@@ -1335,7 +1335,7 @@
         "photoUrl": "https://via.placeholder.com/40?text=Tingy",
         "attachment": {
           "type": "image",
-          "type": ""
+          "url": ""
         }
       },{
         "text": "Looks like a trap question to me.",
@@ -1355,7 +1355,7 @@
         "photoUrl": "https://via.placeholder.com/40?text=Tingy",
         "attachment": {
           "type": "image",
-          "type": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXVVZXnHE5MSwzX5iMF4xAjNBdj65zVdRmjPCn6DWA1jN"
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXVVZXnHE5MSwzX5iMF4xAjNBdj65zVdRmjPCn6DWA1jN"
         }
       }
     ]
