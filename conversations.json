@@ -1328,14 +1328,24 @@
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXgjUKtMqbHfmULtfi8o9Q5LGHwJ2N6As5JeBraLe5KWM"
         }
     },{
-        "text": "'Now what do you say?' They were using this question as a trap, in order to have a basis for accusing him.",
-        "sender": "right",
+        "text": "Now what do you say?",
+        "sender": "left",
         "timestamp": "15:07 PM, June 08, 2025",
         "username": "Tingy",
         "photoUrl": "https://via.placeholder.com/40?text=Tingy",
         "attachment": {
           "type": "image",
           "type": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdBfu4M7TeyfAEWgMgePqgWPxHZcfoqc3Fs1RTtzw5Pur"
+        }
+      },{
+        "text": "Looks like a trap question to me.",
+        "sender": "left",
+        "timestamp": "15:08 PM, June 08, 2025",
+        "username": "Nobody",
+        "photoUrl": "https://via.placeholder.com/40?text=Nobody",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmTXvpeoVRj1cK4HCYUAUpUyGUJx2xaq2FUHMBRNWztWau"
         }
       }
     ]
