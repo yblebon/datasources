@@ -1335,7 +1335,7 @@
         "photoUrl": "https://via.placeholder.com/40?text=Tingy",
         "attachment": {
           "type": "image",
-          "type": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdBfu4M7TeyfAEWgMgePqgWPxHZcfoqc3Fs1RTtzw5Pur"
+          "type": ""
         }
       },{
         "text": "Looks like a trap question to me.",
@@ -1346,6 +1346,16 @@
         "attachment": {
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYsxXmjqSdMrbJDZV9PEUwvhUotz6UehgSxY6Qx86M7zh"
+        }
+      },{
+        "text": "Cultive toi un peu ignorant: souvent qualifiés d'« hypocrites » Les pharisiens représentent l'une des quatre sectes juives le temps de Jésus Christ en Palestine.",
+        "sender": "right",
+        "timestamp": "15:09 PM, June 08, 2025",
+        "username": "Tingy",
+        "photoUrl": "https://via.placeholder.com/40?text=Tingy",
+        "attachment": {
+          "type": "image",
+          "type": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXVVZXnHE5MSwzX5iMF4xAjNBdj65zVdRmjPCn6DWA1jN"
         }
       }
     ]
