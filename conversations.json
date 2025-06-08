@@ -1334,6 +1334,7 @@
         "username": "Tingy",
         "photoUrl": "https://via.placeholder.com/40?text=Tingy",
         "attachment": {
+          "type": "image",
           "type": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdBfu4M7TeyfAEWgMgePqgWPxHZcfoqc3Fs1RTtzw5Pur"
         }
       }
