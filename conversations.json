@@ -1335,7 +1335,7 @@
         "photoUrl": "https://via.placeholder.com/40?text=Tingy",
         "attachment": {
           "type": "image",
-          "url": ""
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdBfu4M7TeyfAEWgMgePqgWPxHZcfoqc3Fs1RTtzw5Pur"
         }
       },{
         "text": "Looks like a trap question to me.",
@@ -1356,6 +1356,16 @@
         "attachment": {
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXVVZXnHE5MSwzX5iMF4xAjNBdj65zVdRmjPCn6DWA1jN"
+        }
+      }{
+        "text": "Je dois avouer que tout ce qui est secte est extremisme me depasse un peu. Mais ca donne un sens à la confusion et au mot parasy.",
+        "sender": "left",
+        "timestamp": "15:10 PM, June 08, 2025",
+        "username": "Nobody",
+        "photoUrl": "https://via.placeholder.com/40?text=Nobody",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmVxLZ9hQfGSqA1sKTHG2TnEdJKoKSrDnj7PegfS4H1DQW"
         }
       }
     ]
