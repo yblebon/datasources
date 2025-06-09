@@ -1,10 +1,54 @@
 {
   "news": [
-    {"title": "News Title 1", "url": "https://example.com/news1", "description": "Summary...", "source": "News Site", "tags": ["tech", "breaking"], "date": "2025-06-09"},
-    {"title": "AI Breakthrough", "url": "https://example.com/news3", "description": "New AI model...", "source": "Tech Daily", "tags": ["ai", "tech"], "date": "2025-06-08"}
+    {
+      "title": "AI Breakthrough Unveiled",
+      "url": "https://example.com/news1",
+      "description": "Fallback: New AI model released today...",
+      "source": "Tech Daily",
+      "tags": ["ai", "tech", "innovation"],
+      "date": "2025-06-09"
+    },
+    {
+      "title": "Climate Summit Highlights",
+      "url": "https://example.com/news2",
+      "description": "Fallback: Key outcomes from the summit...",
+      "source": "Eco News",
+      "tags": ["climate", "policy", "environment"],
+      "date": "2025-06-08"
+    },
+    {
+      "title": "Global Tech Conference 2025",
+      "url": "https://example.com/news3",
+      "description": "Fallback: Highlights from the tech conference...",
+      "source": "Tech Times",
+      "tags": ["tech", "conference", "global"],
+      "date": "2025-06-07"
+    }
   ],
   "twitter": [
-    {"username": "user1", "url": "https://x.com/user1/status/123456789", "description": "Tweet: Update!", "source": "X", "tags": ["social", "update"], "date": "2025-06-07"},
-    {"username": "InnovatorX", "url": "https://x.com/InnovatorX/status/555555555", "description": "Tweet: Launch!", "source": "X", "tags": ["innovation", "tech"], "date": "2025-06-09"}
+    {
+      "username": "TechGuru",
+      "url": "https://x.com/TechGuru/status/123456789",
+      "description": "Fallback: Just launched a new app! #tech",
+      "source": "X",
+      "tags": ["social", "tech", "update"],
+      "date": "2025-06-09"
+    },
+    {
+      "username": "EcoWarrior",
+      "url": "https://x.com/EcoWarrior/status/987654321",
+      "description": "Fallback: Climate action now! #environment",
+      "source": "X",
+      "tags": ["climate", "social", "activism"],
+      "date": "2025-06-08"
+    },
+    {
+      "username": "InnovatorX",
+      "url": "https://x.com/InnovatorX/status/555555555",
+      "description": "Fallback: New project launch! #innovation",
+      "source": "X",
+      "tags": ["innovation", "tech", "launch"],
+      "date": "2025-06-07"
+    }
   ]
 }
