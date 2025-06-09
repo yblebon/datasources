@@ -1,10 +1,7 @@
 {
   "news": [
-    {"title": "Breaking News: Tech Update", "url": "https://example.com/news1", "description": "A brief summary of tech advancements...", "source": "Tech Times"},
-    {"title": "Global Event Today", "url": "https://example.com/news2", "description": "Details on today’s global event...", "source": "Global News"}
-  ],
+    {"title": "News Title 1", "url": "https://example.com/news1", "description": "Summary...", "source": "News Site", "tags": ["tech" ]},
   "twitter": [
-    {"username": "TechGuru", "url": "https://x.com/TechGuru/status/123456789", "description": "Tweet: Just launched a new app! #tech", "source": "X"},
-    {"username": "NewsDaily", "url": "https://x.com/NewsDaily/status/987654321", "description": "Tweet: Breaking news alert! #update", "source": "X"}
+    {"username": "user1", "url": "https://x.com/user1/status/123", "description": "Tweet text...", "source": "X", "tags": ["social"]}
   ]
 }
