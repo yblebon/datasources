@@ -1,7 +1,13 @@
 {
   "news": [
-    {"title": "News Title 1", "url": "https://example.com/news1", "description": "Summary...", "source": "News Site", "tags": ["tech" ]},
+    {"title": "News Title 1", "url": "https://example.com/news1", "description": "Summary of news 1...", "source": "News Site", "tags": ["tech", "breaking"]},
+    {"title": "News Title 2", "url": "https://example.com/news2", "description": "Summary of news 2...", "source": "Global Times", "tags": ["global", "event"]},
+    {"title": "AI Breakthrough Unveiled", "url": "https://example.com/news3", "description": "New AI model released today...", "source": "Tech Daily", "tags": ["ai", "tech"]},
+    {"title": "Climate Summit Highlights", "url": "https://example.com/news4", "description": "Key outcomes from the summit...", "source": "Eco News", "tags": ["climate", "policy"]}
+  ],
   "twitter": [
-    {"username": "user1", "url": "https://x.com/user1/status/123", "description": "Tweet text...", "source": "X", "tags": ["social"]}
+    {"username": "user1", "url": "https://x.com/user1/status/123456789", "description": "Tweet: Just posted an update!", "source": "X", "tags": ["social", "update"]},
+    {"username": "user2", "url": "https://x.com/user2/status/987654321", "description": "Tweet: Exciting news today!", "source": "X", "tags": ["news", "tech"]},
+    {"username": "InnovatorX", "url": "https://x.com/InnovatorX/status/555555555", "description": "Tweet: New project launch! #innovation", "source": "X", "tags": ["innovation", "tech"]}
   ]
 }
