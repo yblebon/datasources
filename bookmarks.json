@@ -5,7 +5,13 @@
       "url": "https://www.canalplus.com/articles/sports/psg-inter-milan-le-resume-de-la-finale-de-la-ligue-des-champions",
       "description": "",
       "source": "Canalplus",
-      "tags": ["psg", "foot", "2025", "inter", "champins league"],
+      "tags": [
+        "psg",
+        "foot",
+        "2025",
+        "inter",
+        "champins league"
+      ],
       "date": "2025-05-31"
     },
     {
@@ -13,7 +19,11 @@
       "url": "https://example.com/news1",
       "description": "Fallback: New AI model released today...",
       "source": "Tech Daily",
-      "tags": ["ai", "tech", "innovation"],
+      "tags": [
+        "ai",
+        "tech",
+        "innovation"
+      ],
       "date": "2025-06-09"
     },
     {
@@ -21,7 +31,11 @@
       "url": "https://example.com/news2",
       "description": "Fallback: Key outcomes from the summit...",
       "source": "Eco News",
-      "tags": ["climate", "policy", "environment"],
+      "tags": [
+        "climate",
+        "policy",
+        "environment"
+      ],
       "date": "2025-06-08"
     },
     {
@@ -29,8 +43,25 @@
       "url": "https://example.com/news3",
       "description": "Fallback: Highlights from the tech conference...",
       "source": "Tech Times",
-      "tags": ["tech", "conference", "global"],
+      "tags": [
+        "tech",
+        "conference",
+        "global"
+      ],
       "date": "2025-06-07"
+    },
+    {
+      "title": "L'attaquant des Bleus Kylian Mbappé a inscrit ce dimanche en Allemagne son 50e but",
+      "url": "https://www.lequipe.fr/Football/Article/Avec-un-but-et-une-passe-decisive-contre-l-allemagne-kylian-mbappe-a-t-il-mis-fin-aux-debats/1568738",
+      "description": "Kylian Mbappé, le capitaine a bouclé son rassemblement sur une note positive face à l'Allemagne (2-0).",
+      "source": "lequipe",
+      "tags": [
+        "foot",
+        "france",
+        "allemagne",
+        "ligue des nations"
+      ],
+      "date": "2025-06-08"
     }
   ],
   "twitter": [
@@ -39,7 +70,11 @@
       "url": "https://x.com/TechGuru/status/123456789",
       "description": "Fallback: Just launched a new app! #tech",
       "source": "X",
-      "tags": ["social", "tech", "update"],
+      "tags": [
+        "social",
+        "tech",
+        "update"
+      ],
       "date": "2025-06-09"
     },
     {
@@ -47,7 +82,11 @@
       "url": "https://x.com/EcoWarrior/status/987654321",
       "description": "Fallback: Climate action now! #environment",
       "source": "X",
-      "tags": ["climate", "social", "activism"],
+      "tags": [
+        "climate",
+        "social",
+        "activism"
+      ],
       "date": "2025-06-08"
     },
     {
@@ -55,7 +94,11 @@
       "url": "https://x.com/InnovatorX/status/555555555",
       "description": "Fallback: New project launch! #innovation",
       "source": "X",
-      "tags": ["innovation", "tech", "launch"],
+      "tags": [
+        "innovation",
+        "tech",
+        "launch"
+      ],
       "date": "2025-06-07"
     }
   ]
