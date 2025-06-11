@@ -1,12 +1,30 @@
 [
     {
         "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qmca8D4g2STsP6Mves4kMGoDTiMvCyn5DRwRQJ1CTchEWJ",
-        "title": "Card Title 1",
-        "tags": ["Tag 1"]
+        "title": "La blague de l'escargot",
+        "tags": ["bourgogne", "escargot"]
     },
     {
         "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXAq4BTZzvdvNoELyztegNmjT2XFoT9xVttubJxHwRPfu",
-        "title": "Card Title 2",
-        "tags": ["Tag 2"]
+        "title": "La blague de l'escargot",
+        "tags": ["bourgogne", "escargot"]
+    },{
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYUCyXttJFGGHSNnAD5zeER7akUoR4ASucvU3TwnKfLpC",
+        "title": "La blague du chien",
+        "tags": ["bourgogne","chien"]
+    },
+    {
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmX4F7yerdzWHLP22wNubrydCHqfyCqnVGxAEh6HuGp8hP",
+        "title": "La blague du corps",
+        "tags": ["bourgogne", "corps"]
+    },{
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZ6eGVQrSuVjRKiwigdPSrqYtBy1RWrCjzcGRVX5oNU6q",
+        "title": "La blague du frottage",
+        "tags": ["bourgogne","frottage"]
+    },
+    {
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmdBgh57LFT15wcDch6TNi4Gr1ZEBQw97E1kU7MbkU9hgS",
+        "title": "La blague caca",
+        "tags": ["bourgogne", "caca"]
     }
 ]
