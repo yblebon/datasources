@@ -1,0 +1,12 @@
+[
+    {
+        "image": "https://example.com/image1.jpg",
+        "title": "Card Title 1",
+        "tag": "Tag 1"
+    },
+    {
+        "image": "https://example.com/image2.jpg",
+        "title": "Card Title 2",
+        "tag": "Tag 2"
+    }
+]
