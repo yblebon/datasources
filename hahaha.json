@@ -2,11 +2,11 @@
     {
         "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qmca8D4g2STsP6Mves4kMGoDTiMvCyn5DRwRQJ1CTchEWJ",
         "title": "Card Title 1",
-        "tag": ["Tag 1"]
+        "tags": ["Tag 1"]
     },
     {
         "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXAq4BTZzvdvNoELyztegNmjT2XFoT9xVttubJxHwRPfu",
         "title": "Card Title 2",
-        "tag": ["Tag 2"]
+        "tags": ["Tag 2"]
     }
 ]
