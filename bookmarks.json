@@ -66,16 +66,18 @@
   ],
   "twitter": [
     {
-      "username": "TechGuru",
-      "url": "https://x.com/TechGuru/status/123456789",
-      "description": "Fallback: Just launched a new app! #tech",
+      "username": "Potus",
+      "url": "https://x.com/POTUS/status/1898162648962756970",
+      "description": "Fallback: Welcome to the first-ever White House Digital Asset Summit.",
       "source": "X",
       "tags": [
         "social",
         "tech",
-        "update"
+        "crypto",
+        "bitcoin",
+        "potus"
       ],
-      "date": "2025-06-09"
+      "date": "2025-03-08"
     },
     {
       "username": "EcoWarrior",
