@@ -1,53 +1,42 @@
 [
-  {
-    "url": "https://x.com/JeffBezos/status/1909730796770041995",
-    "date": "2025-04-09",
-    "source": "X",
-    "tags": [
-      "Bezos"
-    ]
-  },
-  {
-    "url": "https://www.wikipedia.org",
-    "date": "2025-05-15",
-    "source": "Wikipedia.org",
-    "tags": [
-      "Knowledge",
-      "Encyclopedia",
-      "Research"
-    ]
-  },
-  {
-    "url": "https://www.github.com",
-    "date": "2025-04-20",
-    "source": "GitHub.com",
-    "tags": [
-      "Coding",
-      "Development",
-      "Open Source"
-    ]
-  },
-  {
-    "url": "https://www.stackoverflow.com",
-    "date": "2025-03-10",
-    "source": "StackOverflow.com",
-    "tags": [
-      "Programming",
-      "Q&A",
-      "Debugging"
-    ]
-  },
-  {
-    "url": "https://www.x.ai",
-    "title": "ttitle",
-    "description": "ddescription",
-    "date": "2025-02-25",
-    "source": "xAI",
-    "tags": [
-      "AI",
-      "Technology",
-      "Innovation"
-    ],
-    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXAq4BTZzvdvNoELyztegNmjT2XFoT9xVttubJxHwRPfu"
-  }
+     {
+      "title": "Lady Rugby Cranes hold off Madagascar for first win",
+      "url": "https://kawowo.com/2025/06/12/rugby-africa-womens-cup-lady-rugby-cranes-hold-off-madagascar-for-first-win/",
+      "description": "",
+      "source": "Kawowo",
+      "tags": [
+        "rugby",
+        "uganda",
+        "madagascar",
+        "Rugby Africa Women’s Cup"
+      ],
+      "date": "2025-06-12"
+    }
+  },{
+      "title": "Le PSG a battu l’Inter Milan (5-0) en finale de la Ligue des champions",
+      "url": "https://www.canalplus.com/articles/sports/psg-inter-milan-le-resume-de-la-finale-de-la-ligue-des-champions",
+      "description": "",
+      "source": "Canalplus",
+      "tags": [
+        "psg",
+        "foot",
+        "2025",
+        "inter",
+        "champins league"
+      ],
+      "date": "2025-05-31"
+    },
+    {
+      "title": "L'attaquant des Bleus Kylian Mbappé a inscrit ce dimanche en Allemagne son 50e but",
+      "url": "https://www.lequipe.fr/Football/Article/Avec-un-but-et-une-passe-decisive-contre-l-allemagne-kylian-mbappe-a-t-il-mis-fin-aux-debats/1568738",
+      "description": "Kylian Mbappé, le capitaine a bouclé son rassemblement sur une note positive face à l'Allemagne (2-0).",
+      "source": "lequipe",
+      "tags": [
+        "foot",
+        "france",
+        "allemagne",
+        "ligue des nations"
+      ],
+      "date": "2025-06-08"
+    }
 ]
