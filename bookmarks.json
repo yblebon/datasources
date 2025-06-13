@@ -3,7 +3,7 @@
         "url": "https://www.wikipedia.org",
         "date": "2025-05-15",
         "source": "Wikipedia.org",
-        "tags": ["Knowledge", "Encyclopedia", "Research"]
+        "tags": ["Knowledge", "Encyclopedia", "Research"],
     },
     {
         "url": "https://www.github.com",
@@ -23,6 +23,7 @@
         "description": "ddescription",
         "date": "2025-02-25",
         "source": "xAI",
-        "tags": ["AI", "Technology", "Innovation"]
+        "tags": ["AI", "Technology", "Innovation"],
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXAq4BTZzvdvNoELyztegNmjT2XFoT9xVttubJxHwRPfu"
     }
 ]
