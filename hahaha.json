@@ -1,5 +1,25 @@
 [
     {
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmTRn28SS8ZKz8si8JSDHadKz87uC1GHzUgDXU6TRZmJG7",
+        "title": "Dutch Veaudeville Jokes",
+        "tags": ["dutch", "jokes"]
+    },
+    {
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmRrQdTD4xWmQHXCKipy6DHK4prWjRqYPTdNRQvx7ABuHk",
+        "title": "The flood joke",
+        "tags": ["dutch", "flood", "short"]
+    },
+    {
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYVA6DWxpizaSSwnDSsxM4cBtxTusCzLjD5zXxQrM2B88",
+        "title": "The Nike joke",
+        "tags": ["dutch", "nike"]
+    },
+    {
+        "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmNwJbipmdNpEXNWvYwsB12d89dbDjXWpGQTvrs8bG2L39",
+        "title": "The Paardenfokker",
+        "tags": ["dutch", "Paardenfokker"]
+    },
+    {
         "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qmca8D4g2STsP6Mves4kMGoDTiMvCyn5DRwRQJ1CTchEWJ",
         "title": "La blague de l'escargot",
         "tags": ["bourgogne", "escargot"]
