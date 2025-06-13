@@ -19,6 +19,8 @@
     },
     {
         "url": "https://www.x.ai",
+        "title": "ttitle",
+        "description": "ddescription",
         "date": "2025-02-25",
         "source": "xAI",
         "tags": ["AI", "Technology", "Innovation"]
