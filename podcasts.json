@@ -1,1 +1,24 @@
 
+[
+    {
+        "title": "The Tech Talk",
+        "tags": ["Technology", "Innovation"],
+        "description": "Dive into the latest trends in technology and innovation with industry experts.",
+        "cover": "https://via.placeholder.com/300x200?text=Podcast+Cover+1",
+        "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+        "title": "Mindful Moments",
+        "tags": ["Wellness", "Meditation"],
+        "description": "Explore mindfulness and mental health with guided sessions and expert advice.",
+        "cover": "https://via.placeholder.com/300x200?text=Podcast+Cover+2",
+        "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+        "title": "Startup Stories",
+        "tags": ["Entrepreneurship", "Business"],
+        "description": "Hear inspiring stories from founders and learn the secrets to startup success.",
+        "cover": "https://via.placeholder.com/300x200?text=Podcast+Cover+3",
+        "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    }
+]
