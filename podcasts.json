@@ -1,24 +1,19 @@
 
 [
-    {
-        "title": "The Tech Talk",
-        "tags": ["Technology", "Innovation"],
-        "description": "Dive into the latest trends in technology and innovation with industry experts.",
-        "cover": "https://via.placeholder.com/300x200?text=Podcast+Cover+1",
-        "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-    },
-    {
-        "title": "Mindful Moments",
-        "tags": ["Wellness", "Meditation"],
-        "description": "Explore mindfulness and mental health with guided sessions and expert advice.",
-        "cover": "https://via.placeholder.com/300x200?text=Podcast+Cover+2",
-        "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
-    },
-    {
-        "title": "Startup Stories",
-        "tags": ["Entrepreneurship", "Business"],
-        "description": "Hear inspiring stories from founders and learn the secrets to startup success.",
-        "cover": "https://via.placeholder.com/300x200?text=Podcast+Cover+3",
-        "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
-    }
+{
+ "title": "Cheap headline & lazy writing",
+ "date": "2025-05-30",
+ "tags": ["me"],
+ "description": "",
+ "audio": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmQ362AXybnS6NA4S1vwofR4FTESp1hfzYkXBCkYNGGcdq",
+ "cover": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXNBz7ZpgYAZXC8rdTztg3CCiZYD9ys6jry7aG5jD6BK8"
+},
+{
+ "title": "Bonjour Journal Vocal",
+ "date": "2025-05-15",
+ "tags": ["me"],
+ "description": "",
+ "audio": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qme8drfrZdLD9x8WMo4Gus4XFTfh4bUG7o8gBoSyjnhQsM",
+ "cover": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmPPLJ9wWcrVDyeFm2Dor4Dye2XCodeqVUiVWhWeZUJrfR"
+},
 ]
