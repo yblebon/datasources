@@ -1,0 +1,12 @@
+[
+    { "name": "Alice", "sex": "W", "funnyFacts": ["Loves to sing off-key", "Collects rubber ducks", "Afraid of clowns"], "image": "https://via.placeholder.com/100?text=Alice" },
+    { "name": "Bob", "sex": "M", "funnyFacts": ["Eats pizza with a fork", "Talks to plants", "Owns 50 socks"], "image": "https://via.placeholder.com/100?text=Bob" },
+    { "name": "Charlie", "sex": "M", "funnyFacts": ["Believes in aliens", "Dances in the rain", "Hates broccoli"], "image": "https://via.placeholder.com/100?text=Charlie" },
+    { "name": "Diana", "sex": "W", "funnyFacts": ["Sleeps with socks on", "Addicted to puns", "Lost at chess to a dog"], "image": "https://via.placeholder.com/100?text=Diana" },
+    { "name": "Ethan", "sex": "M", "funnyFacts": ["Snores like a lawnmower", "Loves spicy food", "Can't whistle"], "image": "https://via.placeholder.com/100?text=Ethan" },
+    { "name": "Fiona", "sex": "W", "funnyFacts": ["Obsessed with cats", "Sings in the shower", "Trips over air"], "image": "https://via.placeholder.com/100?text=Fiona" },
+    { "name": "George", "sex": "M", "funnyFacts": ["Wears mismatched shoes", "Loves bad jokes", "Allergic to mornings"], "image": "https://via.placeholder.com/100?text=George" },
+    { "name": "Hannah", "sex": "W", "funnyFacts": ["Talks in her sleep", "Loves glitter", "Scared of balloons"], "image": "https://via.placeholder.com/100?text=Hannah" },
+    { "name": "Ian", "sex": "M", "funnyFacts": ["Eats cereal with a spoon", "Hums constantly", "Loves old movies"], "image": "https://via.placeholder.com/100?text=Ian" },
+    { "name": "Julia", "sex": "W", "funnyFacts": ["Draws on her hand", "Loves bubble wrap", "Sings to her goldfish"], "image": "https://via.placeholder.com/100?text=Julia" }
+]
