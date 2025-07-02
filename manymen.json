@@ -1,5 +1,5 @@
 [
-    {"name": "Gaelle", "sex": "W", "funnyFacts": ["sapphire", "bonga piso", "pacifique", "], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmV2UMdrNtvJ5tLJW5TnEzowHUzyhSMJq3AhHmgzEaHnE8"},
+    {"name": "Gaelle", "sex": "W", "funnyFacts": ["sapphire", "bonga piso", "pacifique"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmV2UMdrNtvJ5tLJW5TnEzowHUzyhSMJq3AhHmgzEaHnE8"},
     { "name": "Bob", "sex": "M", "funnyFacts": ["Eats pizza with a fork", "Talks to plants", "Owns 50 socks"], "image": "https://via.placeholder.com/100?text=Bob" },
     { "name": "Alice", "sex": "W", "funnyFacts": ["Loves to sing off-key", "Collects rubber ducks", "Afraid of clowns"], "image": "https://via.placeholder.com/100?text=Alice" },
     { "name": "Bob", "sex": "M", "funnyFacts": ["Eats pizza with a fork", "Talks to plants", "Owns 50 socks"], "image": "https://via.placeholder.com/100?text=Bob" },
