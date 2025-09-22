@@ -12,5 +12,19 @@
     "event": "Ozzy Osbourne",
     "source": "Entertainment",
     "group": "Music"
+  },
+  {
+    "date": "2025-07-20",
+    "time": "01:00",
+    "event": "Malcolm-Jamal",
+    "source": "Entertainment",
+    "group": "Actor"
+  },
+  {
+    "date": "2025-04-01",
+    "time": "01:00",
+    "event": "Val Kilmer",
+    "source": "Entertainment",
+    "group": "Actor"
   }
 ]
