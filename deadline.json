@@ -26,5 +26,27 @@
     "event": "Val Kilmer",
     "source": "Entertainment",
     "group": "Actor"
+  },
+  {
+    "date": "2025-03-30",
+    "time": "01:00",
+    "event": "Richard Norton",
+    "source": "Entertainment",
+    "group": "Actor"
+  },
+  {
+    "date": "2025-03-21",
+    "time": "01:00",
+    "event": "George Foreman",
+    "source": "Entertainment",
+    "group": "Boxing"
+  }
+  ,
+  {
+    "date": "2025-03-02",
+    "time": "01:00",
+    "event": "George Lowe",
+    "source": "Entertainment",
+    "group": "Actor"
   }
 ]
