@@ -23,6 +23,17 @@
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmR8FyXqqNtKtyPewwm2sGrV29Nkgk9TsniYrG1uTcAmyy"
         }
+      }   ,
+      {
+        "text": "Et surtout va pas croire qu'y aura dix milles filles",
+        "sender": "left",
+        "timestamp": "00:02 AM, Oct 03, 2025",
+        "username": "Artist",
+        "photoUrl": "https://via.placeholder.com/40?text=Artist",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmQxSdaES5AD5piWCr62NtnkW4goEUYMWN6KFP84Ro5bns"
+        }
       }
       
     ]
