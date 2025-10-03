@@ -43,7 +43,7 @@
         "photoUrl": "https://via.placeholder.com/40?text=Artist",
         "attachment": {
           "type": "image",
-          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmSqWrQb94mFgwNZE1KRyPbmSDGpioSLUhSG4vhgZujrBa5bns"
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmSqWrQb94mFgwNZE1KRyPbmSDGpioSLUhSG4vhgZujrBa"
         }
       },
       {
@@ -66,6 +66,17 @@
         "attachment": {
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmVKae2VjYGo6N1UmGARRLa5Mi7MTyKT6wMi8HBtATHPLt"
+        }
+      },
+      {
+        "text": "On n'est pas frileux pas peur de caillé",
+        "sender": "left",
+        "timestamp": "00:06 AM, Oct 03, 2025",
+        "username": "Artist",
+        "photoUrl": "https://via.placeholder.com/40?text=Artist",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmbAeTk1BkrHjeXBVuvLyBg5kGD299NgEA7S3iAGsAQViQ"
         }
       }
       
