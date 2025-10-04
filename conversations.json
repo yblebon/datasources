@@ -123,6 +123,18 @@
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmUNbvU6stDcgvmVNGKxHawyqpP3EARK8GHS2adEEM6Di1"
         }
       }
+      ,
+      {
+        "text": "Tiens je te vends un feu, tu fumes qui tu veux",
+        "sender": "left",
+        "timestamp": "00:04 AM, Oct 04, 2025",
+        "username": "Artist",
+        "photoUrl": "https://via.placeholder.com/40?text=Artist",
+        "attachment": {
+          "type": "image",
+          "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmPJNBPasva9FTNgwLjKNKsCwxkdxMbuMEERVtj6VV3zN1"
+        }
+      }
       
     ]
   },
