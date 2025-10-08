@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Atlantic Mackerel",
+        "countries": "Norway, Iceland, Canada, UK",
+        "description": "A fast-swimming, schooling fish with a streamlined body and iridescent blue-green back. Known for its rich, oily flesh.",
+        "bait": "Small lures, feathers, or baitfish like anchovies.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Atlantic_mackerel_scomber_scombrus.jpg/320px-Atlantic_mackerel_scomber_scombrus.jpg"
+    },
+    {
+        "name": "Rainbow Trout",
+        "countries": "USA, Canada, New Zealand, Chile",
+        "description": "A freshwater fish with a distinctive pink-red stripe along its side. Popular among anglers for its fighting spirit.",
+        "bait": "Worms, powerbait, spinners, or flies.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oncorhynchus_mykiss_%28rainbow_trout%29.jpg/320px-Oncorhynchus_mykiss_%28rainbow_trout%29.jpg"
+    },
+    {
+        "name": "Yellowfin Tuna",
+        "countries": "Mexico, Philippines, Indonesia, Australia",
+        "description": "A large, fast oceanic fish with bright yellow fins. Prized for its firm, flavorful meat in sushi and sashimi.",
+        "bait": "Live bait (sardines, mackerel), poppers, or trolling lures.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thunnus_albacares_1.jpg/320px-Thunnus_albacares_1.jpg"
+    },
+    {
+        "name": "Atlantic Cod",
+        "countries": "Norway, Iceland, Canada, Russia",
+        "description": "A bottom-dwelling fish with a mild, white flesh. Historically significant in global fisheries.",
+        "bait": "Clams, worms, squid, or jigs.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gadus_morhua_2.jpg/320px-Gadus_morhua_2.jpg"
+    }
+]
