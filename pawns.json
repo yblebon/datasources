@@ -16,6 +16,31 @@
       "https://example.com/images/queen_pawn_example1.png",
       "https://example.com/images/queen_pawn_example2.png"
     ]
-  },
-  // ... other pawns (e.g., Bishop's Pawn, Knight's Pawn, etc.)
+  },  {
+    "name": "Isolated Pawn",
+    "image": "https://example.com/images/isolated_pawn.png",
+    "description": "A pawn with no friendly pawns on adjacent files.",
+    "examples": [
+      "https://example.com/images/isolated_pawn_example1.png",
+      "https://example.com/images/isolated_pawn_example2.png"
+    ]
+  }
+  ,  {
+    "name": "Rook Pawn",
+    "image": "https://example.com/images/isolated_pawn.png",
+    "description": "Edge pawns, often used in endgames.",
+    "examples": [
+      "https://example.com/images/rook_pawn_example1.png",
+      "https://example.com/images/rook_pawn_example2.png"
+    ]
+  }
+  ,  {
+    "name": "Bishop Pawn",
+    "image": "https://example.com/images/bishop_pawn.png",
+    "description": "Bishop pawns, support diagonal control.",
+    "examples": [
+      "https://example.com/images/bishop_pawn_example1.png",
+      "https://example.com/images/bishop_pawn_example2.png"
+    ]
+  }
 ]
