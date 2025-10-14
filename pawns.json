@@ -1,0 +1,21 @@
+[
+  {
+    "name": "King's Pawn",
+    "image": "https://example.com/images/king_pawn.png",
+    "description": "The pawn in front of the king, central to opening strategies like 1.e4.",
+    "examples": [
+      "https://example.com/images/king_pawn_example1.png",
+      "https://example.com/images/king_pawn_example2.png"
+    ]
+  },
+  {
+    "name": "Queen's Pawn",
+    "image": "https://example.com/images/queen_pawn.png",
+    "description": "The pawn in front of the queen, key in openings like 1.d4.",
+    "examples": [
+      "https://example.com/images/queen_pawn_example1.png",
+      "https://example.com/images/queen_pawn_example2.png"
+    ]
+  },
+  // ... other pawns (e.g., Bishop's Pawn, Knight's Pawn, etc.)
+]
