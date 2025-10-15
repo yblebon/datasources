@@ -47,8 +47,9 @@
     "image": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmYq5CMoFvtUtBBZ5genCechjUY2t2fcMKy4XpEfxMg5ZT",
     "description": "Moves one square forward, but on its first move, it can move two squares forward. It captures diagonally one square forward.",
     "examples": [
-      "https://example.com/images/bishop_pawn_example1.png",
-      "https://example.com/images/bishop_pawn_example2.png"
+      "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmfSYFQZn8A97aafNeAghwDWEC5Lfo2VU4Y8xgWyQwLp2P",
+      "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmQNH5KzRiFafH3PzeGg5JvcjT5syrj25zwLuZEoxJcWn1",
+      "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmPwk96GQED4pVsQNNdPs3xoR5HUNqQdm6DoJhjKT1BVnz"
     ]
   }
 ]
