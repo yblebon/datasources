@@ -200,6 +200,16 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmQhSsrkxZhuQYYSvcNymVHuByJKcY5qq8fJQ1NKn9cQDz"
         }
+      },{
+        "text": "Avec tout mes kamarades kamarades kamarades.",
+        "sender": "left",
+        "timestamp": "00:00 AM, Oct 16, 2025",
+        "username": "Artist",
+        "photoUrl": "https://via.placeholder.com/40?text=Artist",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmNr9T17MQK8n1pn2A5hjGqPiEWbnj6ob24ADMFgVnzLq7"
+        }
       }
     ]
   },
