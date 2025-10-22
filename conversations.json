@@ -39,11 +39,22 @@
         "text": "It fits perfectly",
         "sender": "left",
         "timestamp": "15:30 AM, Oct 17, 2025",
-        "username": "Expres",
+        "username": "Express",
         "photoUrl": "https://via.placeholder.com/40?text=Express",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmVofScU6zAcqrSD5LwQcKaSJwt9y4yeHcwUZNobvdmgXE"
+        }
+      },
+       {
+        "text": "Za ne zana vaza",
+        "sender": "left",
+        "timestamp": "12:35 PM, Oct 22, 2025",
+        "username": "Express",
+        "photoUrl": "https://via.placeholder.com/40?text=Express",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmQG8yvhc4Dkhbagi44EEG1xj7jLGkoJFNTYvBmUkDgnCP"
         }
       }
     ]
