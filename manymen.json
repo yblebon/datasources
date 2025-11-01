@@ -1,23 +1,218 @@
 [
-    {"name": "Gaelle", "sex": "W", "funnyFacts": ["sapphire", "bonga piso", "pacifique"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmV2UMdrNtvJ5tLJW5TnEzowHUzyhSMJq3AhHmgzEaHnE8"},
-    { "name": "Bob", "sex": "M", "funnyFacts": ["Eats pizza with a fork", "Talks to plants", "Owns 50 socks"], "image": "https://via.placeholder.com/100?text=Bob" },
-    { "name": "Isabelle", "sex": "W", "funnyFacts": ["nutella", "tactical", "social:lisse", "materialist:froide"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZaWjVnWXQzzgtTWfK7LzxivScUmKM13Di59qCm8UfdDR" },
-    { "name": "Alice", "sex": "W", "funnyFacts": ["Loves to sing off-key", "Collects rubber ducks", "Afraid of clowns"], "image": "https://via.placeholder.com/100?text=Alice" },
-    { "name": "Bob", "sex": "M", "funnyFacts": ["Eats pizza with a fork", "Talks to plants", "Owns 50 socks"], "image": "https://via.placeholder.com/100?text=Bob" },
-    { "name": "Pela", "sex": "F", "funnyFacts": ["big drinker", "red", "period drama", "dirty game"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXzYjT2dBcgCgLWGRC5pEZSZqTNXn9MAs5zFX1T45fYfn" },
-    { "name": "Benjamin", "sex": "M", "funnyFacts": ["cancre", "cross", "pourquoi belge"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXQG1D85zpEpUjT58QeWvcjUnUsV3ypLt93UWrEt8hmTq" },
-    { "name": "Charlie", "sex": "M", "funnyFacts": ["Believes in aliens", "Dances in the rain", "Hates broccoli"], "image": "https://via.placeholder.com/100?text=Charlie" },
-    { "name": "Herve", "sex": "W", "funnyFacts": ["Hihi haha", "have you visited Gyuana?", "tu vas prendre un coup de cric"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZJeVhXimNH7sDjkZq3ZdvQXoYTw3GzscUk7FTuJm9uc3" },
-    { "name": "Jul", "sex": "M", "funnyFacts": ["wannabe ball cutter", "Hahaha", "om:psg supporter", "sean paul:deport them"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmP9ocPVCgnNxtjrxShpxW6TAKHnHnoFLKWfFEnTK2S1xr" },
-    { "name": "Diana", "sex": "W", "funnyFacts": ["Sleeps with socks on", "Addicted to puns", "Lost at chess to a dog"], "image": "https://via.placeholder.com/100?text=Diana" },
-    { "name": "Ethan", "sex": "M", "funnyFacts": ["Snores like a lawnmower", "Loves spicy food", "Can't whistle"], "image": "https://via.placeholder.com/100?text=Ethan" },
-    { "name": "Fiona", "sex": "W", "funnyFacts": ["Obsessed with cats", "Sings in the shower", "Trips over air"], "image": "https://via.placeholder.com/100?text=Fiona" },
-    { "name": "George", "sex": "M", "funnyFacts": ["Wears mismatched shoes", "Loves bad jokes", "Allergic to mornings"], "image": "https://via.placeholder.com/100?text=George" },
-    { "name": "Hannah", "sex": "W", "funnyFacts": ["Talks in her sleep", "Loves glitter", "Scared of balloons"], "image": "https://via.placeholder.com/100?text=Hannah" },
-    { "name": "Ian", "sex": "M", "funnyFacts": ["nigga stole my thing", "nigga owe me money", "wannabe jason", "petit bide"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qmb8qJ3HUNBm5pj9dfj8HosLZPD67Zau33GmoUbkHh8Bv1" },
-    { "name": "Hoby", "sex": "M", "funnyFacts": ["porn", "asian lover", "deux plats"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmeGsA6KCUt77podCTfta17tpfqVFj11kAXjg5DoPZkmnB"},
-    { "name": "Merel", "sex": "W", "funnyFacts": ["emotional dysregulation", "adhd", "bbc:free", "vegetarian:steak incident"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYXcMaSs99dNYFHoYke55bWeMTxTPZaWuAz7WecXV4aDd" },
-    { "name": "Julia", "sex": "W", "funnyFacts": ["Draws on her hand", "Loves bubble wrap", "Sings to her goldfish"], "image": "https://via.placeholder.com/100?text=Julia" },
-    {"name": "Sebastien", "sex": "M", "funnyFacts": ["tatoo", "hacker", "kundalini", "epfl"], "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmT3irw2L6Yx96Nip1hLH7VQTd4XhcPDERgtCTUN7nDCRo"},
-    {"name": "LaLa", "sex": "W", "funnyFacts": ["german", "chinese", "tu vas prendre un coup de krik"], "image": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmSHEz6QzDCJDUUkz5v2pF968w4rsbBbd1zSErM6z8BUUH"}
+  {
+    "name": "Gaelle",
+    "sex": "W",
+    "funnyFacts": [
+      "sapphire",
+      "bonga piso",
+      "pacifique"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmV2UMdrNtvJ5tLJW5TnEzowHUzyhSMJq3AhHmgzEaHnE8"
+  },
+  {
+    "name": "Bob",
+    "sex": "M",
+    "funnyFacts": [
+      "Eats pizza with a fork",
+      "Talks to plants",
+      "Owns 50 socks"
+    ],
+    "image": "https://via.placeholder.com/100?text=Bob"
+  },
+  {
+    "name": "Isabelle",
+    "sex": "W",
+    "funnyFacts": [
+      "nutella",
+      "tactical",
+      "social:lisse",
+      "materialist:froide"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZaWjVnWXQzzgtTWfK7LzxivScUmKM13Di59qCm8UfdDR"
+  },
+  {
+    "name": "Alice",
+    "sex": "W",
+    "funnyFacts": [
+      "Loves to sing off-key",
+      "Collects rubber ducks",
+      "Afraid of clowns"
+    ],
+    "image": "https://via.placeholder.com/100?text=Alice"
+  },
+  {
+    "name": "Bob",
+    "sex": "M",
+    "funnyFacts": [
+      "Eats pizza with a fork",
+      "Talks to plants",
+      "Owns 50 socks"
+    ],
+    "image": "https://via.placeholder.com/100?text=Bob"
+  },
+  {
+    "name": "Pela",
+    "sex": "F",
+    "funnyFacts": [
+      "big drinker",
+      "red",
+      "period drama",
+      "dirty game"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXzYjT2dBcgCgLWGRC5pEZSZqTNXn9MAs5zFX1T45fYfn"
+  },
+  {
+    "name": "Benjamin",
+    "sex": "M",
+    "funnyFacts": [
+      "cancre",
+      "cross",
+      "pourquoi belge"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmXQG1D85zpEpUjT58QeWvcjUnUsV3ypLt93UWrEt8hmTq"
+  },
+  {
+    "name": "Charlie",
+    "sex": "M",
+    "funnyFacts": [
+      "Believes in aliens",
+      "Dances in the rain",
+      "Hates broccoli"
+    ],
+    "image": "https://via.placeholder.com/100?text=Charlie"
+  },
+  {
+    "name": "Herve",
+    "sex": "W",
+    "funnyFacts": [
+      "Hihi haha",
+      "have you visited Gyuana?",
+      "tu vas prendre un coup de cric"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmZJeVhXimNH7sDjkZq3ZdvQXoYTw3GzscUk7FTuJm9uc3"
+  },
+  {
+    "name": "Jul",
+    "sex": "M",
+    "funnyFacts": [
+      "wannabe ball cutter",
+      "Hahaha",
+      "om:psg supporter",
+      "sean paul:deport them"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmP9ocPVCgnNxtjrxShpxW6TAKHnHnoFLKWfFEnTK2S1xr"
+  },
+  {
+    "name": "Diana",
+    "sex": "W",
+    "funnyFacts": [
+      "Sleeps with socks on",
+      "Addicted to puns",
+      "Lost at chess to a dog"
+    ],
+    "image": "https://via.placeholder.com/100?text=Diana"
+  },
+  {
+    "name": "Ethan",
+    "sex": "M",
+    "funnyFacts": [
+      "Snores like a lawnmower",
+      "Loves spicy food",
+      "Can't whistle"
+    ],
+    "image": "https://via.placeholder.com/100?text=Ethan"
+  },
+  {
+    "name": "Fiona",
+    "sex": "W",
+    "funnyFacts": [
+      "Obsessed with cats",
+      "Sings in the shower",
+      "Trips over air"
+    ],
+    "image": "https://via.placeholder.com/100?text=Fiona"
+  },
+  {
+    "name": "George",
+    "sex": "M",
+    "funnyFacts": [
+      "Wears mismatched shoes",
+      "Loves bad jokes",
+      "Allergic to mornings"
+    ],
+    "image": "https://via.placeholder.com/100?text=George"
+  },
+  {
+    "name": "Hannah",
+    "sex": "W",
+    "funnyFacts": [
+      "Talks in her sleep",
+      "Loves glitter",
+      "Scared of balloons"
+    ],
+    "image": "https://via.placeholder.com/100?text=Hannah"
+  },
+  {
+    "name": "Ian",
+    "sex": "M",
+    "funnyFacts": [
+      "nigga stole my thing",
+      "nigga owe me money",
+      "wannabe jason",
+      "petit bide"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/Qmb8qJ3HUNBm5pj9dfj8HosLZPD67Zau33GmoUbkHh8Bv1"
+  },
+  {
+    "name": "Hoby",
+    "sex": "M",
+    "funnyFacts": [
+      "porn",
+      "asian lover",
+      "deux plats"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmeGsA6KCUt77podCTfta17tpfqVFj11kAXjg5DoPZkmnB"
+  },
+  {
+    "name": "Merel",
+    "sex": "W",
+    "funnyFacts": [
+      "emotional dysregulation",
+      "adhd",
+      "bbc:free",
+      "vegetarian:steak incident"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmYXcMaSs99dNYFHoYke55bWeMTxTPZaWuAz7WecXV4aDd"
+  },
+  {
+    "name": "Julia",
+    "sex": "W",
+    "funnyFacts": [
+      "Draws on her hand",
+      "Loves bubble wrap",
+      "Sings to her goldfish"
+    ],
+    "image": "https://via.placeholder.com/100?text=Julia"
+  },
+  {
+    "name": "Sebastien",
+    "sex": "M",
+    "funnyFacts": [
+      "tatoo",
+      "hacker",
+      "kundalini",
+      "epfl"
+    ],
+    "image": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmT3irw2L6Yx96Nip1hLH7VQTd4XhcPDERgtCTUN7nDCRo"
+  },
+  {
+    "name": "LaLa",
+    "sex": "W",
+    "funnyFacts": [
+      "german",
+      "chinese",
+      "tu vas prendre un coup de krik"
+    ],
+    "image": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmSHEz6QzDCJDUUkz5v2pF968w4rsbBbd1zSErM6z8BUUH"
+  }
 ]
