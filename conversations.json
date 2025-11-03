@@ -166,6 +166,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmX4BP4CpTDoPmYpiYhmEtnUYHpQFtRkUb2tAWgdBuhnxx"
         }
+      },
+       {
+        "text": "Unité spéciale d'intervention",
+        "sender": "left",
+        "timestamp": "12:01 AM, Nov 03, 2025",
+        "username": "Euronews",
+        "photoUrl": "https://via.placeholder.com/40?text=Euronews",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmPjqMyDM4nK5mNov1Wmb7WRQ7iBg4XdgaXJSMcvhGXeJZ"
+        }
       }
     ]
   },
