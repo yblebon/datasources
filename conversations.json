@@ -190,7 +190,7 @@
         }
       },
        {
-        "text": "Nul n'ignore que ça vient, ça prend, et ça repart: 60 ans. Dossier Dossier.",
+        "text": "Nul n'ignore que ça vient, ça prend, et ça repart: 60 ans. Dossier Dossierfileb",
         "sender": "left",
         "timestamp": "10:08 AM, Nov 06, 2025",
         "username": "Midi",
@@ -433,6 +433,16 @@
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmeHzpNZZBUTSTYbH97tR6iBJGdQx7CFy37MDo8VZGmxd8"
+        }
+      },{
+        "text": "I see no changes, all I see is racist faces",
+        "sender": "left",
+        "timestamp": "00:00 AM, Nov 06 2025",
+        "username": "Artist",
+        "photoUrl": "https://via.placeholder.com/40?text=Artist",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmajAKx6jAvTuLqhVdDWJo667w6xiiULi7DJcbA88RzWj2"
         }
       }
     ]
