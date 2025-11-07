@@ -190,7 +190,7 @@
         }
       },
        {
-        "text": "Work, Work it",
+        "text": "Nul n'ignore que ça vient, ça prend, et ça repart: 60 ans. Dossier Dossier.",
         "sender": "left",
         "timestamp": "10:08 AM, Nov 06, 2025",
         "username": "Midi",
@@ -198,6 +198,17 @@
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmT2cSyCBzHSZECFBGPKdXE8m8F6EnqbFQW5wiNvaQ8eFM"
+        }
+      },
+       {
+        "text": "Work, Work it",
+        "sender": "left",
+        "timestamp": "09:04 AM, Nov 07, 2025",
+        "username": "Midi",
+        "photoUrl": "https://via.placeholder.com/40?text=Midi",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmZPuJFFytufKQra7fJXQjfx15uUEK2JdXX8Sdaqfmaogo"
         }
       }
     ]
