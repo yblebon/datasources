@@ -214,7 +214,7 @@
        {
         "text": "Il ya des bonnes idées chez les congolais: 25 ans, renouvelable",
         "sender": "left",
-        "timestamp": "15:35 AM, Nov 09, 2025",
+        "timestamp": "15:35 PM, Nov 09, 2025",
         "username": "MySundayNews",
         "photoUrl": "https://via.placeholder.com/40?text=MySundayNews",
         "attachment": {
@@ -247,12 +247,24 @@
        {
         "text": "Il voulait faire des degats degats et servir un shot de mandela. La cuenta fut très très salée.",
         "sender": "left",
-        "timestamp": "13:31 AM, Nov 12, 2025",
+        "timestamp": "13:31 PM, Nov 12, 2025",
         "username": "MidiMG",
         "photoUrl": "https://via.placeholder.com/40?text=MidiMG",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmauotUoNXSkFBYJCNm85MoEZEYrXJ8oWB83a5pmEVDrGn"
+        }
+      }
+      ,
+       {
+        "text": "'Delestage'",
+        "sender": "left",
+        "timestamp": "17:12 PM, Nov 12, 2025",
+        "username": "WednesdayNews",
+        "photoUrl": "https://via.placeholder.com/40?text=WednesdayNews",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmXHmHoP6pTHhp9KBWa7zwchQ6w758WDnSEEmewBLxNCEb"
         }
       }
     ]
