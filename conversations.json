@@ -288,6 +288,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmdTcZyhuLdnF5c2LQn8EMcqgBfHE1azPGhoaNBvH1gd9R"
         }
+      },
+       {
+        "text": "C'est magnifique",
+        "sender": "left",
+        "timestamp": "09:55 AM, Nov 15, 2025",
+        "username": "TribuneMG",
+        "photoUrl": "https://via.placeholder.com/40?text=TribuneMG",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmQjTVGJRaM4T3St3e4cZ8o3gVaAH8jma57kq25W2FBkTi"
+        }
       }
     ]
   },
