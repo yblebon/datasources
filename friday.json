@@ -1,20 +1,50 @@
 [
-  {
-    "name": "🍀 Lucky Friday 🍀",
-    "date": "2025-11-27",
-    "main": ["03", "17", "🍀", 36, "WIN", 49],
-    "bonus": ["😎", "VIP"]
-  },
-  {
-    "name": "Dream Big",
-    "date": "2025-11-21",
-    "main": [7, 14, 23, 28, "🌟", 41],
-    "bonus": "MEGA"
-  },
-  {
-    "name": "Party Time 🎉",
-    "date": "2025-11-14",
-    "main": ["YES", "01", "08", "WIN", "35", "44", "VROUm VROUM"],
-    "bonus": ["🎰", "777"]
-  }
+    {
+        "date": "2025-11-21",
+        "name": "Olympique de Marseille",
+        "main": [
+            "Panama",
+            "Brazil",
+            "Spain",
+            "France",
+            "Morocco",
+            "England",
+            "Italy",
+            "Central African Republic",
+            "Gabon",
+            "Argentina",
+            "Ivory Coast",
+            "Netherlands",
+            "USA",
+            "Denmark",
+            "Cameroon",
+            "Switzerland",
+            "Belgium"
+        ],
+        "bonus": []
+    },
+    {
+        "date": "2025-11-21",
+        "name": "OGC Nice",
+        "main": [
+            "Burundi",
+            "Spain",
+            "Ghana",
+            "France",
+            "Portugal",
+            "Algeria",
+            "Sierra Leone",
+            "Canada",
+            "Tunisia",
+            "Sweden",
+            "Poland",
+            "Ivory Coast",
+            "Cameroon",
+            "Egypt",
+            "Nigeria",
+            "Brazil",
+            "Belgium"
+        ],
+        "bonus": []
+    }
 ]
