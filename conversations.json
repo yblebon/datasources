@@ -332,6 +332,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmStcKcULAmPocgffAx2DsbHq5i2n612nXfyMkn53hRXwi"
         }
+      },
+       {
+        "text": "Billabong",
+        "sender": "left",
+        "timestamp": "13:37 PM, Nov 21, 2025",
+        "username": "Me",
+        "photoUrl": "https://via.placeholder.com/40?text=Me",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmXr3EkZhkLJ36aMNP7v733i9y3ridFMgG3Ve8GE54Fwzu"
+        }
       }
     ]
   },
