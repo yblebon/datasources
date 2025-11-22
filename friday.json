@@ -21,7 +21,7 @@
             "Switzerland",
             "Belgium"
         ],
-        "bonus": []
+        "bonus": ["Gabon", "England", "USA", "Brazil"]
     },
     {
         "date": "2025-11-21",
@@ -45,6 +45,6 @@
             "Brazil",
             "Belgium"
         ],
-        "bonus": []
+        "bonus": ["France"]
     }
 ]
