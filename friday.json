@@ -46,5 +46,22 @@
             "Belgium"
         ],
         "bonus": ["France"]
+    },
+    {
+        "date": "2025-11-22",
+        "name": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX",
+        "main": [
+            "McLaren",
+            "Mercedes",
+            "Red Bull Racing",
+            "Ferrari"
+            "Williams",
+            "Racing Bulls",
+            "Haas F1 Team",
+            "Aston Martin",
+            "Kick Sauber",
+            "Alpine"
+        ],
+        "bonus": ["Red Bull Racing"]
     }
 ]
