@@ -2104,6 +2104,17 @@
           "type": "image",
           "url": "https://xenogeneic-cyan-boar.myfilebase.com/ipfs/QmUNF7dmGvT13saKruPsru5zNNNV6x44NnfdbPe2FPCdoA"
         }
+      },
+      {
+        "text": "Figue breaking news",
+        "sender": "right",
+        "timestamp": "17:23 PM, Nov 24, 2025",
+        "username": "Bob",
+        "photoUrl": "https://via.placeholder.com/40?text=Bob",
+        "attachment": {
+          "type": "xPost",
+          "embedCode": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\" align=\"center\" data-conversation=\"none\"><p lang=\"en\" dir=\"ltr\">But the beef goes on <a href=\"https://t.co/D7tiL8b73M\">pic.twitter.com/D7tiL8b73M</a></p>&mdash; Yasser B. Lebon (@YasserLebon) <a href=\"https://twitter.com/YasserLebon/status/1992989735183319260?ref_src=twsrc%5Etfw\">November 24, 2025</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        }
       }
     ]
   }
