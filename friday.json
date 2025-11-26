@@ -63,5 +63,43 @@
             "Alpine"
         ],
         "bonus": ["Red Bull Racing"]
+    },
+        {
+        "date": "2025-11-26",
+        "name": "Tottenham Hotspur FC",
+        "main": [
+            "Offence",
+            "Centre-Forward",
+            "Central Midfield",
+            "Attacking Midfield",
+            "Right Winger",
+            "Defence",
+            "Defensive Midfield",
+            "Midfield",
+            "Right-Back",
+            "Left-Back",
+            "Centre-Back",
+            "Goalkeeper"
+        ],
+        "bonus": []
+    },
+    {
+        "date": "2025-11-26",
+        "name": "Paris Saint-Germain FC",
+        "main": [
+            "Offence",
+            "Centre-Forward",
+            "Central Midfield",
+            "Right Winger",
+            "Defence",
+            "Defensive Midfield",
+            "Midfield",
+            "Left-Back",
+            "Right-Back",
+            "Centre-Back",
+            "Goalkeeper",
+            "Left Winger"
+        ],
+        "bonus": []
     }
 ]
