@@ -81,7 +81,7 @@
             "Centre-Back",
             "Goalkeeper"
         ],
-        "bonus": []
+        "bonus": ["Centre-Forward"]
     },
     {
         "date": "2025-11-26",
@@ -100,6 +100,6 @@
             "Goalkeeper",
             "Left Winger"
         ],
-        "bonus": []
+        "bonus": ["Midfield", "Centre-Back"]
     }
 ]
