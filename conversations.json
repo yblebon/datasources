@@ -387,6 +387,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmbyRTouHgy9dHUWaAcxPpwKfkhLNcLafCeWv5eoUTLS23"
         }
+      },
+       {
+        "text": "What the hell are you waiting for?",
+        "sender": "left",
+        "timestamp": "09:00 AM, Dec 02, 2025",
+        "username": "Market",
+        "photoUrl": "https://via.placeholder.com/40?text=Market",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmNohf8y1of5tjgc9KuxAoM1PcC1CRQiDwiZpYXb5JNJ4V"
+        }
       }
     ]
   },
