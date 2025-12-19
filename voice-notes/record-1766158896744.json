@@ -1,0 +1,12 @@
+{
+  "name": "Meeting_Note_20251219",
+  "description": "Test upload with tags and cover",
+  "tags": [
+    "work",
+    "meeting",
+    "important"
+  ],
+  "cover": "test_cover.jpg",
+  "audio": "test_audio.mp3",
+  "date": "2025-12-19T15:41:36.744Z"
+}
