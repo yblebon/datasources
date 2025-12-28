@@ -1,0 +1,26 @@
+name: Generate Video Manifest
+on:
+  push:
+    paths:
+      - 'videos/**' # Only runs when files in the videos folder change
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Merge JSON files
+        run: |
+          # Use jq to merge all json files in the videos directory into one array
+          # We skip video_manifest.json itself if it exists to avoid recursion
+          jq -s '.' videos/*.json > videos_manifest.json
+
+      - name: Commit and Push manifest
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add videos_manifest.json
+          git commit -m "Update videos manifest" || exit 0
+          git push
