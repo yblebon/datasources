@@ -2,7 +2,8 @@
   "2025-12-31": [
     {
       "match_title": "Heavyweight Championship: Power vs. Fury",
-      "date_location": "Saturday, December 31, 2025 | T-Mobile Arena",
+      "date": "Saturday, December 31, 2025",
+      "location": "T-Mobile Arena",
       "fighter1": {
         "name": "Max \"CRUSHER\" Power",
         "icon": "https://via.placeholder.com/100/00bcd4/ffffff?text=MP",
@@ -30,7 +31,8 @@
     },
     {
       "match_title": "Women's Flyweight Bout: Lee vs. Vargas",
-      "date_location": "Saturday, December 31, 2025 | T-Mobile Arena",
+      "date": "Saturday, December 31, 2025",
+      "location": "T-Mobile Arena",
       "fighter1": {
         "name": "Anna \"STORM\" Lee",
         "icon": "https://via.placeholder.com/100/FFC0CB/000000?text=AL",
@@ -60,7 +62,8 @@
   "2026-03-15": [
     {
       "match_title": "Main Event: Dragon vs. Stone",
-      "date_location": "Sunday, March 15, 2026 | Tokyo Dome",
+      "date": "Sunday, March 15, 2026",
+      "location": "Tokyo Dome",
       "fighter1": {
         "name": "Ryu \"DRAGON\" Chen",
         "icon": "https://via.placeholder.com/100/FF5733/FFFFFF?text=RC",
@@ -90,7 +93,8 @@
   "2026-12-30": [
     {
       "match_title": "Main Event: Gaethje vs. Pimblett",
-      "date_location": "Sunday, January 25, 2026 | T-Mobile Arena, Las Vegas United States",
+      "date": "Sunday, January 25, 2026",
+      "location": "T-Mobile Arena, Las Vegas United States",
       "fighter1": {
         "name": "Justin Gaethje",
         "icon": "https://www.ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/GAETHJE_JUSTIN_L_03-08.png?itok=SzytSved",
