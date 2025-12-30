@@ -97,7 +97,7 @@
         "wiki": "https://en.wikipedia.org/wiki/Justin_Gaethje",
         "stats": {
         },
-        "score": 0.840
+        "score": "0.840"
       },
       "fighter2": {
         "name": "Paddy Pimblett",
@@ -105,7 +105,7 @@
         "wiki": "https://en.wikipedia.org/wiki/Paddy_Pimblett",
         "stats": {
         },
-        "score": 0.788
+        "score": "0.788"
       }
     }
   ]
