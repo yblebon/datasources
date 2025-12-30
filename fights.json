@@ -86,5 +86,25 @@
         }
       }
     }
+  ],
+  "2026-12-30": [
+    {
+      "match_title": "Main Event: Dragon vs. Stone",
+      "date_location": "Sunday, January 25, 2026 | T-Mobile Arena, Las Vegas United States",
+      "fighter1": {
+        "name": "Justin Gaethje",
+        "icon": "https://via.placeholder.com/100/FF5733/FFFFFF?text=RC",
+        "wiki": "https://en.wikipedia.org/wiki/Justin_Gaethje",
+        "stats": {
+        }
+      },
+      "fighter2": {
+        "name": "Paddy Pimblett",
+        "icon": "https://via.placeholder.com/100/4CAF50/FFFFFF?text=SJ",
+        "wiki": "https://en.wikipedia.org/wiki/Paddy_Pimblett",
+        "stats": {
+        }
+      }
+    }
   ]
 }
