@@ -1,54 +1,90 @@
 {
-            "2025-12-31": [
-                {
-                    match_title: "Heavyweight Championship: Power vs. Fury",
-                    date_location: "Saturday, December 31, 2025 | T-Mobile Arena",
-                    fighter1: {
-                        name: 'Max "CRUSHER" Power',
-                        icon: 'https://via.placeholder.com/100/00bcd4/ffffff?text=MP',
-                        wiki: 'https://en.wikipedia.org/wiki/Boxing',
-                        stats: { record: '35-2-0 (28 KO)', height: '195 cm (6\'5")', weight: '110 kg (242 lbs)', reach: '208 cm (82 in)', stance: 'Orthodox' }
-                    },
-                    fighter2: {
-                        name: 'Jake "PHANTOM" Fury',
-                        icon: 'https://via.placeholder.com/100/ff9800/ffffff?text=JF',
-                        wiki: 'https://en.wikipedia.org/wiki/Mixed_martial_arts',
-                        stats: { record: '29-0-0 (15 KO)', height: '188 cm (6\'2")', weight: '105 kg (231 lbs)', reach: '198 cm (78 in)', stance: 'Southpaw' }
-                    }
-                },
-                {
-                    match_title: "Women's Flyweight Bout: Lee vs. Vargas",
-                    date_location: "Saturday, December 31, 2025 | T-Mobile Arena",
-                    fighter1: {
-                        name: 'Anna "STORM" Lee',
-                        icon: 'https://via.placeholder.com/100/FFC0CB/000000?text=AL',
-                        wiki: '#',
-                        stats: { record: '18-1-0 (8 KO)', height: '165 cm (5\'5")', weight: '57 kg (125 lbs)', reach: '170 cm (67 in)', stance: 'Southpaw' }
-                    },
-                    fighter2: {
-                        name: 'Sofia "VIPER" Vargas',
-                        icon: 'https://via.placeholder.com/100/800080/FFFFFF?text=SV',
-                        wiki: '#',
-                        stats: { record: '25-4-0 (12 KO)', height: '163 cm (5\'4")', weight: '56 kg (123 lbs)', reach: '168 cm (66 in)', stance: 'Orthodox' }
-                    }
-                }
-            ],
-            "2026-03-15": [
-                {
-                    match_title: "Main Event: Dragon vs. Stone",
-                    date_location: "Sunday, March 15, 2026 | Tokyo Dome",
-                    fighter1: {
-                        name: 'Ryu "DRAGON" Chen',
-                        icon: 'https://via.placeholder.com/100/FF5733/FFFFFF?text=RC',
-                        wiki: 'https://en.wikipedia.org/wiki/Karate',
-                        stats: { record: '45-5-0 (18 Sub)', height: '175 cm (5\'9")', weight: '75 kg (165 lbs)', reach: '180 cm (71 in)', stance: 'Southpaw' }
-                    },
-                    fighter2: {
-                        name: 'Sam "STONE" Jones',
-                        icon: 'https://via.placeholder.com/100/4CAF50/FFFFFF?text=SJ',
-                        wiki: 'https://en.wikipedia.org/wiki/Wrestling',
-                        stats: { record: '22-1-0 (10 KO)', height: '180 cm (5\'11")', weight: '77 kg (170 lbs)', reach: '183 cm (72 in)', stance: 'Orthodox' }
-                    }
-                }
-            ]
+  "2025-12-31": [
+    {
+      "match_title": "Heavyweight Championship: Power vs. Fury",
+      "date_location": "Saturday, December 31, 2025 | T-Mobile Arena",
+      "fighter1": {
+        "name": "Max \"CRUSHER\" Power",
+        "icon": "https://via.placeholder.com/100/00bcd4/ffffff?text=MP",
+        "wiki": "https://en.wikipedia.org/wiki/Boxing",
+        "stats": {
+          "record": "35-2-0 (28 KO)",
+          "height": "195 cm (6'5\")",
+          "weight": "110 kg (242 lbs)",
+          "reach": "208 cm (82 in)",
+          "stance": "Orthodox"
         }
+      },
+      "fighter2": {
+        "name": "Jake \"PHANTOM\" Fury",
+        "icon": "https://via.placeholder.com/100/ff9800/ffffff?text=JF",
+        "wiki": "https://en.wikipedia.org/wiki/Mixed_martial_arts",
+        "stats": {
+          "record": "29-0-0 (15 KO)",
+          "height": "188 cm (6'2\")",
+          "weight": "105 kg (231 lbs)",
+          "reach": "198 cm (78 in)",
+          "stance": "Southpaw"
+        }
+      }
+    },
+    {
+      "match_title": "Women's Flyweight Bout: Lee vs. Vargas",
+      "date_location": "Saturday, December 31, 2025 | T-Mobile Arena",
+      "fighter1": {
+        "name": "Anna \"STORM\" Lee",
+        "icon": "https://via.placeholder.com/100/FFC0CB/000000?text=AL",
+        "wiki": "#",
+        "stats": {
+          "record": "18-1-0 (8 KO)",
+          "height": "165 cm (5'5\")",
+          "weight": "57 kg (125 lbs)",
+          "reach": "170 cm (67 in)",
+          "stance": "Southpaw"
+        }
+      },
+      "fighter2": {
+        "name": "Sofia \"VIPER\" Vargas",
+        "icon": "https://via.placeholder.com/100/800080/FFFFFF?text=SV",
+        "wiki": "#",
+        "stats": {
+          "record": "25-4-0 (12 KO)",
+          "height": "163 cm (5'4\")",
+          "weight": "56 kg (123 lbs)",
+          "reach": "168 cm (66 in)",
+          "stance": "Orthodox"
+        }
+      }
+    }
+  ],
+  "2026-03-15": [
+    {
+      "match_title": "Main Event: Dragon vs. Stone",
+      "date_location": "Sunday, March 15, 2026 | Tokyo Dome",
+      "fighter1": {
+        "name": "Ryu \"DRAGON\" Chen",
+        "icon": "https://via.placeholder.com/100/FF5733/FFFFFF?text=RC",
+        "wiki": "https://en.wikipedia.org/wiki/Karate",
+        "stats": {
+          "record": "45-5-0 (18 Sub)",
+          "height": "175 cm (5'9\")",
+          "weight": "75 kg (165 lbs)",
+          "reach": "180 cm (71 in)",
+          "stance": "Southpaw"
+        }
+      },
+      "fighter2": {
+        "name": "Sam \"STONE\" Jones",
+        "icon": "https://via.placeholder.com/100/4CAF50/FFFFFF?text=SJ",
+        "wiki": "https://en.wikipedia.org/wiki/Wrestling",
+        "stats": {
+          "record": "22-1-0 (10 KO)",
+          "height": "180 cm (5'11\")",
+          "weight": "77 kg (170 lbs)",
+          "reach": "183 cm (72 in)",
+          "stance": "Orthodox"
+        }
+      }
+    }
+  ]
+}
