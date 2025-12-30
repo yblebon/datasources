@@ -96,14 +96,16 @@
         "icon": "https://www.ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/GAETHJE_JUSTIN_L_03-08.png?itok=SzytSved",
         "wiki": "https://en.wikipedia.org/wiki/Justin_Gaethje",
         "stats": {
-        }
+        },
+        "score": 0.840
       },
       "fighter2": {
         "name": "Paddy Pimblett",
         "icon": "https://www.ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/PIMBLETT_PADDY_L_07-27.png?itok=K92riZxR",
         "wiki": "https://en.wikipedia.org/wiki/Paddy_Pimblett",
         "stats": {
-        }
+        },
+        "score": 0.788
       }
     }
   ]
