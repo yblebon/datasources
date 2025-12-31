@@ -486,6 +486,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmUeV1AcPxnW1WJDjZgCRxrfMMhAj8iPDE4tWNCkdYduSZ"
         }
+      },
+      {
+        "text": "Quelqu'un raconte de la mierda",
+        "sender": "left",
+        "timestamp": "10:33 1M, Dec 31, 2025",
+        "username": "Midi",
+        "photoUrl": "https://via.placeholder.com/40?text=Xmas",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmcTeJ2acKNroxsU6TrwtWzeXfDYVg76QQC6W2tiaA9CQo"
+        }
       }
     ]
   },
