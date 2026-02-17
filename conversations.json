@@ -2255,6 +2255,22 @@
     ]
   },
   {
+    "name": "Human Rights",
+    "messages": [
+      {
+        "text": "You shit on me",
+        "sender": "left",
+        "timestamp": "10:37 AM, Feb 17, 2026",
+        "username": "Alice",
+        "photoUrl": "https://via.placeholder.com/40?text=UN",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmW5GopqtoUwNhKXKciv9vA8zGF6MaUcpr9abRhdDYkTWB"
+        }
+      }
+    ]
+  },
+  {
     "name": "Conversation 1",
     "messages": [
       {
