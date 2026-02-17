@@ -816,6 +816,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmTzxzhkLp8B5pj6MgPS9nQwaBQSoViNAS62EyQMSrPr65"
         }
+      },
+      {
+        "text": "The number of Black Americans reached approximately 51.6 million in 2024, making up about 15.2% of the total U.S. population.",
+        "sender": "left",
+        "timestamp": "11:10 AM, Feb 17 2026",
+        "username": "Us",
+        "photoUrl": "https://via.placeholder.com/40?text=Us",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmbPkbjJRNb14nFhWrj9eDsgJ8GZFZaX6jSXLfwvbAzZPD"
+        }
       }
     ]
   },
@@ -2281,6 +2292,22 @@
       }
     ]
   },
+  {
+    "name": "Sauv'age educacion",
+    "messages": [
+      {
+        "text": "L'anonymat est un principe fondamental du don de sang : seul l’EFS connaît l’identité et les données médicales du donneur et du receveur. Vous ne pouvez pas donner pour l'un de vos proches.",
+        "sender": "left",
+        "timestamp": "11:30 AM, Feb 17, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/Qma5WphLSXXGKNzGJ3Mhx7YK2Ti87cAECyfZA1eUxgoqNq"
+        }
+      }
+    ]
+  }
   {
     "name": "Conversation 1",
     "messages": [
