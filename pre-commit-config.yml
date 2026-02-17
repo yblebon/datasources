@@ -1,0 +1,8 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: custom-json-check
+        name: Internal JSON Validator
+        entry: scripts/validate-json.sh
+        language: script
+        files: \.json
