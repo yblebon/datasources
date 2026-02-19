@@ -898,8 +898,8 @@
         "text": "Did you know that the word 'YAYA' stands for mother, caretaker in a lot of cultures around the world?",
         "sender": "left",
         "timestamp": "11:38 AM, Feb 18 2026",
-        "username": "Us",
-        "photoUrl": "https://via.placeholder.com/40?text=Us",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmcaVNu2DbfVd6UBMJ6t2jtN8VyVqpx71Zxs6Pc1yCpMb6"
@@ -909,11 +909,22 @@
         "text": "Charognard comme des hyènes",
         "sender": "left",
         "timestamp": "17:03 PM, Feb 18 2026",
-        "username": "Us",
-        "photoUrl": "https://via.placeholder.com/40?text=Us",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmXdhNrymyFyD45dcGpiKDmKm5m7vkVKnxYrqLS2Sezkw7"
+        }
+      },
+      {
+        "text": "Malocco",
+        "sender": "left",
+        "timestamp": "10:47 PM, Feb 19 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmYxNanGrxLYhkAQrphzw2Cnf1wgGXapR5yVhzDRKc9bob"
         }
       }
     ]
