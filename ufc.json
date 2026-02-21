@@ -21,5 +21,28 @@
         "score": "0.788"
       }
     }
+  ],
+  "2026-02-21": [
+    {
+      "match_title": "Main Event: StrickLand vs. Hernandez",
+      "date": "Sunday, February 21, 2026",
+      "location": "Toyota Center, Houston United States",
+      "fighter1": {
+        "name": "Sean StrickLand",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-02/STRICKLAND_SEAN_L_02-21.png?itok=5sP7kR71",
+        "wiki": "https://en.wikipedia.org/wiki/Sean_Strickland",
+        "stats": {
+        },
+        "score": "0.561"
+      },
+      "fighter2": {
+        "name": "Anthony Hernandez",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/HERNANDEZ_ANTHONY_L_10-19.png?itok=KEUkbs0D",
+        "wiki": "https://en.wikipedia.org/wiki/Anthony_Hernandez",
+        "stats": {
+        },
+        "score": "0.864"
+      }
+    }
   ]
 }
