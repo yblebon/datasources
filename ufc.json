@@ -43,6 +43,27 @@
         },
         "score": "0.864"
       }
+    },
+    {
+      "match_title": "Main Event: StrickLand vs. Hernandez",
+      "date": "Sunday, February 22, 2026",
+      "location": "Toyota Center, Houston United States",
+      "fighter1": {
+        "name": "Geoff Neal",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-02/NEAL_GEOFF_L_02-21.png?itok=A1U2cOd7",
+        "wiki": "https://en.wikipedia.org/wiki/Geoff_Neal",
+        "stats": {
+        },
+        "score": "0.791"
+      },
+      "fighter2": {
+        "name": "Uroš Medić",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/MEDIC_UROS_L_08-09.png?itok=1VwS2SjA",
+        "wiki": "https://en.wikipedia.org/wiki/Uro%C5%A1_Medi%C4%87",
+        "stats": {
+        },
+        "score": "1.188"
+      }
     }
   ]
 }
