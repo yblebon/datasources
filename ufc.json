@@ -65,5 +65,28 @@
         "score": "1.188"
       }
     }
+  ],
+  "2026-03-01": [
+    {
+      "match_title": "Main Event: Moreno vs. Kavanagh",
+      "date": "Sunday, March 01, 2026",
+      "location": "Arena CDMX, México D.F. Mexico",
+      "fighter1": {
+        "name": "Daniel_Zellhuber",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-09/ZELLHUBER_DANIEL_L_09-14.png?itok=V9LPSv97",
+        "wiki": "https://en.wikipedia.org/wiki/Daniel_Zellhuber",
+        "stats": {
+        },
+        "score": "1.428"
+      },
+      "fighter2": {
+        "name": "King Green",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-12/GREEN_KING_L_12-13.png?itok=E_hnwuAI",
+        "wiki": "https://en.wikipedia.org/wiki/King_Green",
+        "stats": {
+        },
+        "score": "1.312948"
+      }
+    }
   ]
 }
