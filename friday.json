@@ -320,5 +320,186 @@
             "2005"
         ],
         "bonus": ["1996"]
+    },
+        {
+        "date": "2026-02-22",
+        "name": "AJ Auxerre",
+        "main": [
+            "Centre-Forward",
+            "Left Winger",
+            "Right Midfield",
+            "Defensive Midfield",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Right Winger",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "Stade Rennais FC 1901",
+        "main": [
+            "Centre-Forward",
+            "Left Winger",
+            "Right Midfield",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right Winger",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "FC Nantes",
+        "main": [
+            "Centre-Forward",
+            "Left Winger",
+            "Defensive Midfield",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Attacking Midfield",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "Le Havre AC",
+        "main": [
+            "Defensive Midfield",
+            "Offence",
+            "Right Winger",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Attacking Midfield",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "Angers SCO",
+        "main": [
+            "Centre-Forward",
+            "Defensive Midfield",
+            "null",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "Lille OSC",
+        "main": [
+            "Centre-Forward",
+            "Left Winger",
+            "Defensive Midfield",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Right Winger",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "OGC Nice",
+        "main": [
+            "Centre-Forward",
+            "Left Winger",
+            "Right Midfield",
+            "Defensive Midfield",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Right Winger",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "FC Lorient",
+        "main": [
+            "Centre-Forward",
+            "Defensive Midfield",
+            "Offence",
+            "Midfield",
+            "Left-Back",
+            "Attacking Midfield",
+            "Central Midfield",
+            "Right-Back",
+            "Left Midfield",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "RC Strasbourg Alsace",
+        "main": [
+            "Centre-Forward",
+            "Left Midfield",
+            "Left Winger",
+            "Defensive Midfield",
+            "Offence",
+            "Right Winger",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Attacking Midfield",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-02-22",
+        "name": "Olympique Lyonnais",
+        "main": [
+            "Centre-Forward",
+            "Left Winger",
+            "Defensive Midfield",
+            "Offence",
+            "Right Winger",
+            "Midfield",
+            "Left-Back",
+            "Central Midfield",
+            "Right-Back",
+            "Attacking Midfield",
+            "Defence",
+            "Centre-Back",
+            "Goalkeeper"
+        ]
     }
 ]
