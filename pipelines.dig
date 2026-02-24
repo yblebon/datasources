@@ -1,19 +1,25 @@
+_export:
+  docker:
+    image: "python:3.11-slim"
+    pull_always: false
+
 timezone: UTC
 
+# This is the first group of tasks
 +setup:
-  echo>: start ${session_time}
+  echo>: "Starting the workflow and preparing data..."
 
-+disp_current_date:
-  echo>: ${moment(session_time).utc().format('YYYY-MM-DD HH:mm:ss Z')}
+# Running a Shell command
++shell_step:
+  sh>: echo "The current directory is $(pwd)" && mkdir -p output
 
-+repeat:
-  for_each>:
-    order: [first, second, third]
-    animal: [dog, cat]
-  _do:
-    echo>: ${order} ${animal}
-  _parallel: true
+# Running a Python function
++python_step:
+  py>: tasks.py.example.process_data
+  docker:
+    image: "python:3.11-slim"
+  message: "Now it should work!"
 
+# A final step that only runs if the others succeed
 +teardown:
-  echo>: finish ${session_time}
-
+  echo>: "Workflow finished successfully."
