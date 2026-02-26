@@ -993,6 +993,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmXBEPw2W2LXQygGqpMpBfPs3WA4jFqeCUsPntFSY1CZEb"
         }
+      },
+      {
+        "text": "Moi toujours fait ca bien",
+        "sender": "left",
+        "timestamp": "09:20 PM, Feb 26 2026",
+        "username": "Them",
+        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=blond",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmNaVK3nGBVNrm1fh4yBi3UDK5Y2krKHYZGT99NwPCJDBa"
+        }
       }
     ]
   },
