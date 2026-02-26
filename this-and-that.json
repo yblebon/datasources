@@ -1010,7 +1010,7 @@
         "sender": "left",
         "timestamp": "14:24 PM, Feb 26 2026",
         "username": "Them",
-        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=blond",
+        "photoUrl": "https://api.dicebear.com/9.x/thumbs/svg?seed=Felix",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmNjWs2gTJffmJ88Bx5xRM1JwKyaaRP3ZSaX2uKHqP9Xsq"
