@@ -87,6 +87,27 @@
         },
         "score": "1.312948"
       }
+    },
+    {
+      "match_title": "Main Event: Moreno vs. Kavanagh",
+      "date": "Sunday, March 01, 2026",
+      "location": "Arena CDMX, México D.F. Mexico",
+      "fighter1": {
+        "name": "Marlon Vera",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-02/VERA_MARLON_L_02-28.png?itok=n7PsIpc-",
+        "wiki": "https://en.wikipedia.org/wiki/Marlon_Vera",
+        "stats": {
+        },
+        "score": "2.125"
+      },
+      "fighter2": {
+        "name": "David Martínez",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-03/MARTINEZ_DAVID_L_03-29.png?itok=zwV1vwsu",
+        "wiki": "https://en.wikipedia.org/wiki/David_Martínez_(fighter)",
+        "stats": {
+        },
+        "score": "2.775"
+      }
     }
   ]
 }
