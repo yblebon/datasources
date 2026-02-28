@@ -501,5 +501,121 @@
             "Centre-Back",
             "Goalkeeper"
         ]
+    },
+
+    {
+        "date": "2026-02-28",
+        "name": "Stade Rennais FC 1901",
+        "main": [
+            "Finland",
+            "Morocco",
+            "France",
+            "Switzerland",
+            "Japan",
+            "Ecuador",
+            "Ghana",
+            "Jordan",
+            "Cameroon",
+            "Ivory Coast",
+            "Poland"
+        ]
+    },
+    {
+        "date": "2026-02-28",
+        "name": "Toulouse FC",
+        "main": [
+            "Spain",
+            "Slovakia",
+            "France",
+            "Venezuela",
+            "DR Congo",
+            "England",
+            "Senegal",
+            "Brazil",
+            "Canada",
+            "USA",
+            "Norway",
+            "Ghana",
+            "Argentina",
+            "Algeria",
+            "Denmark"
+        ]
+    },
+    {
+        "date": "2026-02-28",
+        "name": "AS Monaco FC",
+        "main": [
+            "Spain",
+            "Finland",
+            "Denmark",
+            "Germany",
+            "Morocco",
+            "Belgium",
+            "Switzerland",
+            "France",
+            "Japan",
+            "Russia",
+            "England",
+            "Senegal",
+            "Brazil",
+            "USA",
+            "Ghana",
+            "Netherlands",
+            "Algeria",
+            "Ivory Coast"
+        ]
+    },
+    {
+        "date": "2026-02-28",
+        "name": "Angers SCO",
+        "main": [
+            "Gabon",
+            "Morocco",
+            "France",
+            "Mali",
+            "Burkina Faso",
+            "Nigeria",
+            "Central African Republic",
+            "Netherlands",
+            "Cameroon",
+            "Haiti",
+            "Algeria",
+            "Ivory Coast"
+        ]
+    },
+    {
+        "date": "2026-02-28",
+        "name": "Le Havre AC",
+        "main": [
+            "Germany",
+            "Morocco",
+            "France",
+            "Switzerland",
+            "Japan",
+            "Mali",
+            "Senegal",
+            "Guinea",
+            "Hungary",
+            "Tanzania",
+            "Ivory Coast"
+        ]
+    },
+    {
+        "date": "2026-02-28",
+        "name": "Paris Saint-Germain FC",
+        "main": [
+            "Spain",
+            "Morocco",
+            "Russia",
+            "France",
+            "Tunisia",
+            "Ukraine",
+            "Italy",
+            "Brazil",
+            "Ecuador",
+            "Georgia",
+            "South Korea",
+            "Portugal"
+        ]
     }
 ]
