@@ -109,5 +109,28 @@
         "score": "2.775"
       }
     }
+  ],
+  "2026-03-08": [
+    {
+      "match_title": "Main Event: Holloway vs. Oliveira",
+      "date": "Sunday, March 08, 2026",
+      "location": "T-Mobile Arena, Las Vegas United States",
+      "fighter1": {
+        "name": "Max Holloway",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-07/HOLLOWAY_MAX_L_BMF_BELT_07-19.png?itok=9vwP11K9",
+        "wiki": "https://en.wikipedia.org/wiki/Max_Holloway",
+        "stats": {
+        },
+        "score": "1.271"
+      },
+      "fighter2": {
+        "name": "Charles Oliveira",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-10/OLIVEIRA_CHARLES_L_10-11.png?itok=-8FrNvYo",
+        "wiki": "https://en.wikipedia.org/wiki/Charles_Oliveira",
+        "stats": {
+        },
+        "score": "1.848"
+      }
+    }
   ]
 }
