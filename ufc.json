@@ -152,6 +152,27 @@
         },
         "score": "1.819"
       }
+    },
+    {
+      "match_title": "Main Event: Holloway vs. Oliveira",
+      "date": "Sunday, March 08, 2026",
+      "location": "T-Mobile Arena, Las Vegas United States",
+      "fighter1": {
+        "name": "Drew Dober",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-07/DOBER_DREW_L_07-13.png?itok=FZf3Qvqx",
+        "wiki": "https://en.wikipedia.org/wiki/Drew_Dober",
+        "stats": {
+        },
+        "score": "1.602"
+      },
+      "fighter2": {
+        "name": "Michael Johnson",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-10/DE-RIDDER_REINIER_L_10-18.png?itok=9FSOBT87",
+        "wiki": "https://en.wikipedia.org/wiki/Michael_Johnson_(fighter)",
+        "stats": {
+        },
+        "score": "1.345"
+      }
     }
   ]
 }
