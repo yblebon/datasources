@@ -618,5 +618,37 @@
             "South Korea",
             "Portugal"
         ]
+    },{
+        "date": "2026-03-04",
+        "name": "Manchester United FC",
+        "main": [
+            "Cameroon",
+            "Uruguay",
+            "France",
+            "Ireland",
+            "Denmark",
+            "Netherlands",
+            "Paraguay",
+            "Belgium",
+            "Morocco",
+            "Brazil",
+            "Portugal",
+            "Ivory Coast",
+            "Slovenia",
+            "Turkey",
+            "Argentina",
+            "England"
+        ]
+    },
+    {
+        "date": "2026-03-04",
+        "name": "Carabobo FC",
+        "main": [
+            "Peru",
+            "Colombia",
+            "Nicaragua",
+            "Venezuela",
+            "Argentina"
+        ]
     }
 ]
