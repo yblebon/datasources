@@ -2985,12 +2985,23 @@
       {
         "text": "Cometti is a member of both the Melbourne Cricket Club and AFMA Halls of Fame.",
         "sender": "left",
-        "timestamp": "10:35 PM, Mar 04, 2026",
+        "timestamp": "10:35 AM, Mar 04, 2026",
         "username": "Them",
         "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=dennis",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmS2WHxR9Z6iHUnb3HMHQZCkfdWy8z2f9oYwELRMhop8Fa"
+        }
+      },
+      {
+        "text": "Lekota became a permanent organiser for SASO in 1974, but was imprisoned at Robben Island Prison for 'conspiring to commit acts endangering the maintenance of law and order' during the same yea.",
+        "sender": "left",
+        "timestamp": "11:10 1M, Mar 04, 2026",
+        "username": "Them",
+        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=lekota",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmXquuyzGVcs3YCaiknoDbQFpzttKpMDwADkVeDSNkUkYo"
         }
       }
     ]
