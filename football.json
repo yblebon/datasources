@@ -650,5 +650,52 @@
             "Venezuela",
             "Argentina"
         ]
+    },   {
+        "date": "2026-03-05",
+        "name": "O'Higgins FC",
+        "main": [
+            "Goalkeeper",
+            "Defence",
+            "Offence",
+            "Midfield"
+        ]
+    },
+    {
+        "date": "2026-03-05",
+        "name": "Tottenham Hotspur FC",
+        "main": [
+            "Attacking Midfield",
+            "Defence",
+            "Right-Back",
+            "Right Winger",
+            "Centre-Forward",
+            "Centre-Back",
+            "Offence",
+            "Defensive Midfield",
+            "Central Midfield",
+            "Goalkeeper",
+            "Left-Back",
+            "Midfield"
+        ]
+    },
+    {
+        "date": "2026-03-05",
+        "name": "Crystal Palace FC",
+        "main": [
+            "Attacking Midfield",
+            "Left Midfield",
+            "Defence",
+            "Right Winger",
+            "Right-Back",
+            "Centre-Forward",
+            "Offence",
+            "Centre-Back",
+            "Defensive Midfield",
+            "Central Midfield",
+            "Goalkeeper",
+            "Left-Back",
+            "Midfield"
+        ]
     }
+
 ]
