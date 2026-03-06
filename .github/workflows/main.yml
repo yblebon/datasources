@@ -20,8 +20,8 @@ jobs:
       - name: Checkout external repository
         uses: actions/checkout@v4
         with:
-          repository: owner/external-repo-name
-          path: external-repo
+          repository: yblebon/datasources
+          path: datasources
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Java
@@ -42,7 +42,8 @@ jobs:
       
       - name: Upload logs
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: digdag-logs
           path: .digdag/
+          retention-days: 30
