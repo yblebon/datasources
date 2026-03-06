@@ -1,4 +1,4 @@
-name: Run Digdag Pipeline with Prebuilt Image
+name: Run Digdag Pipeline with Custom Docker Image
 
 on:
   push:
@@ -24,12 +24,24 @@ jobs:
           path: datasources
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Run Digdag pipeline in Docker
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      
+      - name: Build Digdag Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          push: false
+          load: true
+          tags: digdag:latest
+      
+      - name: Run Digdag pipeline
         run: |
           docker run --rm \
             -v ${{ github.workspace }}:/workspace \
             -w /workspace \
-            ghcr.io/digdag/digdag:latest \
+            digdag:latest \
             digdag run pipelines.dig
       
       - name: Upload logs
