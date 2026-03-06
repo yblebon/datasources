@@ -39,13 +39,21 @@ jobs:
           path: datasources
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Run Digdag task
+      - name: Run Digdag pipeline in Docker
         run: |
-          digdag run pipelines.dig
+          docker run --rm \
+            -v ${{ github.workspace }}:/workspace \
+            -w /workspace \
+            ghcr.io/digdag/digdag:latest \
+            digdag run pipelines.dig
       
       - name: Upload logs
         if: always()
         uses: actions/upload-artifact@v4
+        with:
+          name: digdag-logs
+          path: .digdag/
+          retention-days: 30
         with:
           name: digdag-logs
           path: .digdag/
