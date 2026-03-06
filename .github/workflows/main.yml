@@ -41,7 +41,7 @@ jobs:
       
       - name: Run Digdag task
         run: |
-          digdag run workflow.dig
+          digdag run pipelines.dig
       
       - name: Upload logs
         if: always()
