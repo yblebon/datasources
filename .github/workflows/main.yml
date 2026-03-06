@@ -20,8 +20,8 @@ jobs:
       - name: Checkout external repository
         uses: actions/checkout@v4
         with:
-          repository: owner/external-repo-name
-          path: external-repo
+          repository: yblebon/datasources
+          path: datasources
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Run Digdag pipeline in Docker
