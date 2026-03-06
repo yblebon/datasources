@@ -1,0 +1,48 @@
+name: Run Digdag Task
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-digdag:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v4
+      
+      - name: Checkout external repository
+        uses: actions/checkout@v4
+        with:
+          repository: owner/external-repo-name
+          path: external-repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '11'
+          distribution: 'temurin'
+      
+      - name: Install Digdag
+        run: |
+          curl -o digdag https://dl.digdag.io/digdag-latest
+          chmod +x digdag
+          sudo mv digdag /usr/local/bin/
+      
+      - name: Run Digdag task
+        run: |
+          digdag run workflow.dig
+      
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: digdag-logs
+          path: .digdag/
