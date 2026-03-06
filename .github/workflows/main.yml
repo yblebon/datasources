@@ -39,6 +39,11 @@ jobs:
           sudo update-alternatives --set java /usr/lib/jvm/jdk-25.0.2-oracle-x64/bin/java
 
           java --version
+
+      - name: Fix Digdag JVM options
+        run: |
+          export JAVA_OPTS=$(echo "$JAVA_OPTS" | sed 's/-XX:+AggressiveOpts//g')
+          export DIGDAG_JAVA_OPTS=$(echo "$DIGDAG_JAVA_OPTS" | sed 's/-XX:+AggressiveOpts//g')
       
       - name: Install digdag
         run: |
