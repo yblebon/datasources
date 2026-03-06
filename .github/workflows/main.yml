@@ -40,18 +40,16 @@ jobs:
 
           java --version
 
-      - name: Fix Digdag JVM options
-        run: |
-          export JAVA_OPTS=$(echo "$JAVA_OPTS" | sed 's/-XX:+AggressiveOpts//g')
-          export DIGDAG_JAVA_OPTS=$(echo "$DIGDAG_JAVA_OPTS" | sed 's/-XX:+AggressiveOpts//g')
-      
-      - name: Install digdag
+      - name: Install digdag (no AggressiveOpts)
         run: |
           curl -o ~/bin/digdag --create-dirs -L "https://dl.digdag.io/digdag-latest"
           chmod +x ~/bin/digdag
           echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
+          echo 'export DIGDAG_JAVA_OPTS="-Xmx512m"' >> ~/.bashrc  # Clean JVM opts
           export PATH="$HOME/bin:$PATH"
+          export DIGDAG_JAVA_OPTS="-Xmx512m"
           digdag --version
+
       
       - name: Run Digdag task
         run: |
