@@ -1,24 +1,34 @@
-FROM openjdk:11
+FROM debian:bookworm-slim
 
-# Install dependencies
-RUN apt-get update && \
-    apt-get install -y \
+# Install Python3, wget, curl and dependencies
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
     curl \
-    git \
-    bash \
+    wget \
+    ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
-# Download and install Digdag
-RUN curl -L -o /usr/local/bin/digdag https://dl.digdag.io/digdag-latest && \
-    chmod +x /usr/local/bin/digdag && \
-    digdag --version
+# Install Oracle JDK 25.0.2 (matching your exact version)
+RUN wget -O /tmp/jdk-25_linux-x64_bin.deb \
+        "https://download.oracle.com/java/25/latest/jdk-25_linux-x64_bin.deb" \
+    && apt-get update \
+    && dpkg -i /tmp/jdk-25_linux-x64_bin.deb \
+    && rm /tmp/jdk-25_linux-x64_bin.deb \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
-# Create workspace directory
-WORKDIR /workspace
+# Fix Java alternatives path (based on your install output)
+RUN update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-25.0.2-oracle-x64/bin/java 1 \
+    && update-alternatives --set java /usr/lib/jvm/jdk-25.0.2-oracle-x64/bin/java
 
-# Set environment variables
-ENV DIGDAG_HOME=/workspace/.digdag
+# Install Digdag (fixing AggressiveOpts issue)
+RUN curl -o /usr/local/bin/digdag --create-dirs -L "https://dl.digdag.io/digdag-latest" \
+    && chmod +x /usr/local/bin/digdag \
+    && echo 'export DIGDAG_JAVA_OPTS="-Xmx512m"' >> /etc/environment
 
-# Entrypoint
-ENTRYPOINT ["digdag"]
-CMD ["run"]
+# Verify installations
+RUN java --version && python3 --version && digdag --version
+
+# Default command
+CMD ["/bin/bash"]
