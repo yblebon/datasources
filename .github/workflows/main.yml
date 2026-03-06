@@ -27,22 +27,21 @@ jobs:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
       
-      - name: Build Digdag Docker image
-        uses: docker/build-push-action@v5
+      - name: Set up Java
+        uses: actions/setup-java@v3
         with:
-          context: .
-          file: ./Dockerfile
-          push: false
-          load: true
-          tags: digdag:latest
+          java-version: '11'
+          distribution: 'temurin'
       
-      - name: Run Digdag pipeline
+      - name: Install Digdag
         run: |
-          docker run --rm \
-            -v ${{ github.workspace }}:/workspace \
-            -w /workspace \
-            digdag:latest \
-            digdag run pipelines.dig
+          curl -o digdag https://dl.digdag.io/digdag-latest
+          chmod +x digdag
+          sudo mv digdag /usr/local/bin/
+      
+      - name: Run Digdag task
+        run: |
+          /usr/local/bin/digdag run pipelines.dig
       
       - name: Upload logs
         if: always()
