@@ -1092,6 +1092,17 @@
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmWEVKwPR5mS9mpxr4ca3RKukCnA1bYPZioHCCb87BS6PG"
         }
+      },
+      {
+        "text": "Roy Book Binder, was an American blues guitarist, singer-songwriter and storyteller.",
+        "sender": "left",
+        "timestamp": "10:11 AM, Mar 06 2026",
+        "username": "Them",
+        "photoUrl": "https://api.dicebear.com/9.x/thumbs/svg?seed=roy",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmQy3zsitgoyeDDCAJe9AkdjLrNsCgjYFmt3GiRLMMB59c"
+        }
       }
     ]
   },
