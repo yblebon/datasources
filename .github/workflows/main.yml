@@ -31,9 +31,13 @@ jobs:
         run: |
           wget -O /tmp/jdk-25_linux-x64_bin.deb \
             "https://download.oracle.com/java/25/latest/jdk-25_linux-x64_bin.deb"
-          sudo dpkg -i /tmp/jdk-25_linux-x64_bin.deb
-          sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-25/bin/java 1
-          sudo update-alternatives --set java /usr/lib/jvm/jdk-25/bin/java
+          sudo apt-get update
+          sudo apt-get install -y /tmp/jdk-25_linux-x64_bin.deb
+
+          # Adjust path to the real directory created by the .deb
+          sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-25.0.2-oracle-x64/bin/java 1
+          sudo update-alternatives --set java /usr/lib/jvm/jdk-25.0.2-oracle-x64/bin/java
+
           java --version
       
       - name: Install Digdag
