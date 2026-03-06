@@ -40,11 +40,13 @@ jobs:
 
           java --version
       
-      - name: Install Digdag
+      - name: Install digdag
         run: |
-          curl -o digdag https://dl.digdag.io/digdag-latest
-          chmod +x digdag
-          sudo mv digdag /usr/local/bin/
+          curl -o ~/bin/digdag --create-dirs -L "https://dl.digdag.io/digdag-latest"
+          chmod +x ~/bin/digdag
+          echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
+          export PATH="$HOME/bin:$PATH"
+          digdag --version
       
       - name: Run Digdag task
         run: |
