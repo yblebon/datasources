@@ -1,4 +1,4 @@
-name: Run Digdag Task
+name: Run Digdag Pipeline with Prebuilt Image
 
 on:
   push:
@@ -17,26 +17,11 @@ jobs:
       - name: Checkout main repository
         uses: actions/checkout@v4
       
-      - name: Set up Java
-        uses: actions/setup-java@v3
-        with:
-          java-version: '11'
-          distribution: 'temurin'
-
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-      
-      - name: Install Digdag
-        run: |
-          curl -o digdag https://dl.digdag.io/digdag-latest
-          chmod +x digdag
-          sudo mv digdag /usr/local/bin/
-          
       - name: Checkout external repository
         uses: actions/checkout@v4
         with:
-          repository: yblebon/datasources
-          path: datasources
+          repository: owner/external-repo-name
+          path: external-repo
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Run Digdag pipeline in Docker
@@ -50,10 +35,6 @@ jobs:
       - name: Upload logs
         if: always()
         uses: actions/upload-artifact@v4
-        with:
-          name: digdag-logs
-          path: .digdag/
-          retention-days: 30
         with:
           name: digdag-logs
           path: .digdag/
