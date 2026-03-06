@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-slim
+FROM openjdk:11
 
 # Install dependencies
 RUN apt-get update && \
