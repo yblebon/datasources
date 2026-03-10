@@ -174,5 +174,28 @@
         "score": "1.345"
       }
     }
+  ],
+  "2026-03-29": [
+    {
+      "match_title": "Main Event: Adesanya vs. Pyfer",
+      "date": "Sunday, March 29, 2026",
+      "location": "Climate Pledge Arena, Seattle, WA United States",
+      "fighter1": {
+        "name": "Israel_Adesanya",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/ADESANYA_ISRAEL_L_02-01.png?itok=WnxcXwhi",
+        "wiki": "https://en.wikipedia.org/wiki/Israel_Adesanya",
+        "stats": {
+        },
+        "score": "1.951"
+      },
+      "fighter2": {
+        "name": "Joe Pyfer",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-06/PYFER_JOE_L_06-29.png?itok=pKlOTvM6",
+        "wiki": "https://en.wikipedia.org/wiki/Joe_Pyfer",
+        "stats": {
+        },
+        "score": "3.457"
+      }
+    }
   ]
 }
