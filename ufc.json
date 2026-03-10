@@ -175,6 +175,29 @@
       }
     }
   ],
+  "2026-03-15": [
+    {
+      "match_title": "Main Event: Emmett vs. vallejos",
+      "date": "Sunday, March 15, 2026",
+      "location": "Meta APEX, Las Vegas United States",
+      "fighter1": {
+        "name": "Josh Emmett",
+        "icon": "https://ufc.com/images/styles/athlete_matchup_stats_full_body/s3/2025-10/EMMETT_JOSH_L_10-04.png?itok=Ex3aqwou",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4011299/josh-emmett",
+        "stats": {
+        },
+        "score": "1.523"
+      },
+      "fighter2": {
+        "name": "Kevin Vallejos",
+        "icon": "https://ufc.com/images/styles/athlete_matchup_stats_full_body/s3/2025-12/VALLEJOS_KEVIN_R_12-13.png?itok=_glGnmsL",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5145681/kevin-vallejos",
+        "stats": {
+        },
+        "score": "2.014"
+      }
+    }
+  ],
   "2026-03-29": [
     {
       "match_title": "Main Event: Adesanya vs. Pyfer",
