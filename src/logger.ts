@@ -72,6 +72,14 @@ export class Logger {
     );
   }
 
+  taskCachedAuto(name: string, succeededAt: string) {
+    const when = new Date(succeededAt).toLocaleString();
+    console.log(
+      `${STATUS_ICON.cached} ${C.blue}${name}${C.reset}` +
+      `${C.grey} — auto-cache hit (last succeeded ${when})${C.reset}`
+    );
+  }
+
   taskCachedLate(name: string, exitCode: number, hits: string[]) {
     console.log(
       `${STATUS_ICON.cached} ${C.blue}${name}${C.reset}` +

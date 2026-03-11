@@ -32,12 +32,13 @@ info    = "Install python requirements.txt"
 command = "source venv/bin/activate && cd tools && pip install -r requirements.txt"
 hook_id = "pip-install"
 wait    = ["clone-toolchain", "install-venv"]
-skip = false
+skip = true
 
 [[flow.step]]
 name    = "Load daily match"
 info    = "Load the matches for the current day"
-command = "source venv/bin/activate && cd tools/foot/fun/main.py"
+command = "source venv/bin/activate && python tools/foot/fun/main.py --token token --country france"
+hook_id = "load-matches"
 wait    = ["pip-install"]
 skip = false
 

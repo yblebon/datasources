@@ -104,7 +104,56 @@ function checkCache(paths: string[], workdir: string): string[] | null {
   return resolved;   // all paths present and non-empty → cache hit
 }
 
-// ─── Runner eval flag ────────────────────────────────────────────────────────
+// ─── Auto-cache marker ────────────────────────────────────────────────────────
+// On success, a JSON marker is written to {workdir}/.workflow-cache/{hook_id}.done
+// containing a hash of the command + runner. On next run, if the marker exists
+// and the hash still matches, the step is skipped automatically.
+
+interface MarkerData {
+  hookId: string;
+  commandHash: string;
+  runner: string;
+  succeededAt: string;
+}
+
+function commandHash(command: string, runner: string): string {
+  // Simple but sufficient: djb2-style hash over the combined string
+  const input = `${runner}::${command}`;
+  let h = 5381;
+  for (let i = 0; i < input.length; i++) {
+    h = ((h << 5) + h) ^ input.charCodeAt(i);
+    h = h >>> 0; // keep 32-bit unsigned
+  }
+  return h.toString(16).padStart(8, "0");
+}
+
+function markerPath(workdir: string, hookId: string): string {
+  return join(workdir, ".workflow-cache", `${hookId}.done`);
+}
+
+async function writeMarker(workdir: string, hookId: string, command: string, runner: string) {
+  const dir  = join(workdir, ".workflow-cache");
+  await mkdir(dir, { recursive: true });
+  const data: MarkerData = {
+    hookId,
+    commandHash: commandHash(command, runner),
+    runner,
+    succeededAt: new Date().toISOString(),
+  };
+  await writeFile(markerPath(workdir, hookId), JSON.stringify(data, null, 2), "utf-8");
+}
+
+function readMarker(workdir: string, hookId: string): MarkerData | null {
+  const p = markerPath(workdir, hookId);
+  if (!existsSync(p)) return null;
+  try {
+    return JSON.parse(require("fs").readFileSync(p, "utf-8")) as MarkerData;
+  } catch {
+    return null;
+  }
+}
+
+
 // Different interpreters use different flags to evaluate inline code.
 // Anything not listed here falls back to "-c".
 const RUNNER_EVAL_FLAG: Record<string, string> = {
@@ -335,7 +384,7 @@ export class WorkflowRunner {
       return result;
     }
 
-    // ── 3. Cache check ────────────────────────────────────────────────────
+    // ── 3. Manual cache check (explicit cache: [...] field) ──────────────
 
     if (!this.opts.noCache && step.cache?.length) {
       const hits = checkCache(step.cache, workdir);
@@ -352,11 +401,28 @@ export class WorkflowRunner {
       }
     }
 
-    // ── 3. Open log file immediately so tail -f works from step start ─────
-    const env = buildEnv(this.flow.env, step.env, step.bin);
-
+    // ── 4. Auto-cache check (marker written on previous successful run) ───
     // Step runner > flow runner > default "bash"
     const runner = step.runner ?? this.flow.runner ?? "bash";
+
+    if (!this.opts.noCache) {
+      const marker = readMarker(workdir, id);
+      if (marker && marker.commandHash === commandHash(step.command, runner)) {
+        const mFile = markerPath(workdir, id);
+        const result: TaskResult = {
+          hookId: id, name: step.name, status: "cached",
+          exitCode: null, startedAt: null, finishedAt: null,
+          durationMs: null, logFile, cacheHits: [mFile],
+        };
+        this.results.set(id, result);
+        await this.writeCacheLog(logFile, step, workdir, [mFile], marker.succeededAt);
+        this.logger.taskCachedAuto(step.name, marker.succeededAt);
+        return result;
+      }
+    }
+
+    // ── 5. Open log file immediately so tail -f works from step start ─────
+    const env = buildEnv(this.flow.env, step.env, step.bin);
 
     const ws = createWriteStream(logFile, { flags: "w" });
     const startedAt = new Date();
@@ -479,6 +545,11 @@ export class WorkflowRunner {
 
     await closeStream(ws);
 
+    // ── Write auto-cache marker on success ───────────────────────────────
+    if (status === "success" && !this.opts.noCache) {
+      await writeMarker(workdir, id, step.command, runner);
+    }
+
     const result: TaskResult = {
       hookId: id, name: step.name, status,
       exitCode, startedAt, finishedAt, durationMs, logFile,
@@ -500,7 +571,8 @@ export class WorkflowRunner {
     logFile: string,
     step: StepConfig,
     workdir: string,
-    hits: string[]
+    hits: string[],
+    succeededAt?: string
   ) {
     const lines = [
       `╔═══════════════════════════════════════════════════════════`,
@@ -508,6 +580,7 @@ export class WorkflowRunner {
       `  Status  : CACHED`,
       `  Time    : ${isoNow()}`,
       `  Workdir : ${workdir}`,
+      ...(succeededAt ? [`  Last run : ${succeededAt}`] : []),
       `╚═══════════════════════════════════════════════════════════`,
       ``,
       `── Cache paths (all present — step skipped) ────────────────`,
