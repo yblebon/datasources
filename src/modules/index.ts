@@ -28,9 +28,11 @@ export interface Module {
 // ─── Registry ─────────────────────────────────────────────────────────────────
 
 import { gitCloneModule } from "./git-clone";
+import { gitPushModule }  from "./git-push";
 
 const MODULES: Record<string, Module> = {
   [gitCloneModule.name]: gitCloneModule,
+  [gitPushModule.name]:  gitPushModule,
 };
 
 export function getModule(name: string): Module {

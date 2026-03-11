@@ -38,9 +38,26 @@ skip = false
 name    = "Load playlist"
 info    = "Load the list of singers"
 command = "source venv/bin/activate &&  cd tools/scrapers/playlist && scrapy crawl wiki_music_deaths_2025_2026_with_yt"
-hook_id = "load-matches"
+hook_id = "load-playlist"
 wait    = ["pip-install"]
 skip = false
+
+[[flow.step]]
+name    = "Publish playlist"
+module  = "git-push"
+hook_id = "publish"
+wait = ["load-playlist"]
+
+  [flow.step.params]
+  repo       = "git@github.com:yblebon/datasources.git"
+  branch     = "bot/test"
+  message    = "pipeline: updating playlist"
+  user_name  = "Pipeline Bot"
+  user_email = "ci@bot.com"
+
+  [flow.step.params.include]
+  "tools/scrapers/playlist/popular_music_deaths_2025_2026_with_youtube.json" = "playlist.json"
+
 
 
 

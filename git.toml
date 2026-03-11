@@ -24,3 +24,47 @@ hook_id = "clone-monorepo"
   branch  = "main"
   dir     = "monorepo"  # optional, defaults to repo name
   include = ["ufc", "requirements.txt"]
+
+
+# Push specific files to a branch
+
+[[flow.step]]
+name    = "Create file"
+info    = "Create an example file"
+command = "echo 'content' >> example-dir/output.txt"
+hook_id = "file-creation"
+skip = false
+wait = ["dir-creation"]
+
+[[flow.step]]
+name    = "Create directory"
+info    = "Create a directory example"
+command = "mkdir example-dir"
+hook_id = "dir-creation"
+skip = false
+
+
+[[flow.step]]
+name    = "Publish artifacts"
+module  = "git-push"
+hook_id = "publish"
+wait = ["file-creation"]
+
+  [flow.step.params]
+  repo       = "git@github.com:yblebon/tools.git"
+  branch     = "bot/test"
+  message    = "chore: publish artifacts [ci skip]"
+  user_name  = "CI Bot"
+  user_email = "ci@bot.com"
+  include    = ["example-dir/output.txt"]
+
+# # Push everything with force
+# [[flow.step]]
+# name   = "Force push to staging"
+# module = "git-push"
+
+#   [flow.step.params]
+#   repo    = "git@github.com:org/repo.git"
+#   branch  = "git@github.com:yblebon/tools.git"
+#   message = "deploy: staging release"
+#   force   = true
