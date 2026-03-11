@@ -1,0 +1,51 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Workflow definition file
+#  Run with: bun run index.ts playlist.toml
+# ─────────────────────────────────────────────────────────────────────────────
+
+[flow]
+name    = "Playlist workflow"
+
+  # Global environment variables — inherited by every step
+  [flow.env]
+
+
+[[flow.step]]
+name    = "Clone tools repository"
+info    = "Clone the tool chain"
+command = "git clone git@github.com:yblebon/tools.git"
+hook_id = "clone-toolchain"
+skip    = false
+cache = ["tools"]
+
+[[flow.step]]
+name    = "Install virtual env"
+info    = "Install python virtualenv"
+command = "python3 -m venv venv"
+hook_id = "install-venv"
+skip = false
+cache = ["venv"]
+
+[[flow.step]]
+name    = "Install requirements"
+info    = "Install python requirements.txt"
+command = "source venv/bin/activate && cd tools && pip install -r requirements.txt"
+hook_id = "pip-install"
+wait    = ["clone-toolchain", "install-venv"]
+skip = false
+
+[[flow.step]]
+name    = "Load playlist"
+info    = "Load the list of singers"
+command = "source venv/bin/activate &&  cd tools/scrapers/playlist && scrapy crawl wiki_music_deaths_2025_2026_with_yt"
+hook_id = "load-matches"
+wait    = ["pip-install"]
+skip = false
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+
+[flow]
+name    = "Git clone"
+
+# Full clone
+[[flow.step]]
+name    = "Clone tools"
+module  = "git-clone"
+hook_id = "clone-tools"
+
+  [flow.step.params]
+  repo   = "git@github.com:yblebon/tools.git"
+  branch = "main"
+  depth  = 1            # optional shallow clone
+
+# Sparse — only fetch specific dirs/files
+[[flow.step]]
+name    = "Clone monorepo (sparse)"
+module  = "git-clone"
+hook_id = "clone-monorepo"
+
+  [flow.step.params]
+  repo    = "git@github.com:yblebon/tools.git"
+  branch  = "main"
+  dir     = "monorepo"  # optional, defaults to repo name
+  include = ["ufc", "requirements.txt"]

@@ -1,6 +1,7 @@
 import { parse } from "smol-toml";
 import { readFileSync } from "fs";
 import type { WorkflowFile, StepConfig } from "./types";
+import { resolveModule } from "./modules/index";
 
 export function parseWorkflow(tomlPath: string): WorkflowFile {
   const raw = readFileSync(tomlPath, "utf-8");
@@ -20,7 +21,18 @@ export function parseWorkflow(tomlPath: string): WorkflowFile {
   // Validate + normalise steps
   const steps: StepConfig[] = flow.step.map((s: any, i: number) => {
     if (!s.name) throw new Error(`Step #${i + 1} is missing 'name'`);
-    if (!s.command) throw new Error(`Step '${s.name}' is missing 'command'`);
+
+    // ── Module resolution ────────────────────────────────────────────────
+    // If the step declares `module = "..."`, resolve it first so the
+    // generated fields (command, cache, info) are available for validation.
+    if (s.module) {
+      const generated = resolveModule(s.module, s.params ?? {}, s);
+      // Module-generated fields fill in gaps; step-level fields win except
+      // for `command` which is always owned by the module.
+      Object.assign(s, { ...generated, ...s, command: generated.command });
+    }
+
+    if (!s.command) throw new Error(`Step '${s.name}' is missing 'command' (and no module was specified)`);
 
     // Normalise wait → always string[]
     if (s.wait && typeof s.wait === "string") {

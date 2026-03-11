@@ -11,6 +11,13 @@ export interface StepConfig {
   env?: FlowEnv;
   hook_id?: string;
   wait?: string | string[];
+  /**
+   * Name of a built-in module that generates the command.
+   * When set, `command` is optional in the TOML — the module provides it.
+   */
+  module?: string;
+  /** Parameters passed to the module's resolve() function */
+  params?: Record<string, unknown>;
   /** Shell or interpreter used to run the command (default: "bash") */
   runner?: string;
   /** When true the step is skipped unconditionally regardless of dependencies */
