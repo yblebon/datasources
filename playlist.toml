@@ -11,12 +11,16 @@ name    = "Playlist workflow"
 
 
 [[flow.step]]
-name    = "Clone tools repository"
-info    = "Clone the tool chain"
-command = "git clone git@github.com:yblebon/tools.git"
-hook_id = "clone-toolchain"
-skip    = false
-cache = ["tools"]
+name    = "Clone tools"
+module  = "git-clone"
+hook_id = "clone-tools"
+
+  [flow.step.params]
+  repo    = "git@github.com:yblebon/tools.git"
+  branch  = "main"
+  dir     = "tools"
+  include = ["scrapers/playlist", "requirements.txt"]
+
 
 [[flow.step]]
 name    = "Install virtual env"
@@ -31,7 +35,7 @@ name    = "Install requirements"
 info    = "Install python requirements.txt"
 command = "source venv/bin/activate && cd tools && pip install -r requirements.txt"
 hook_id = "pip-install"
-wait    = ["clone-toolchain", "install-venv"]
+wait    = ["clone-tools", "install-venv"]
 skip = false
 
 [[flow.step]]
