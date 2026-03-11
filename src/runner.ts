@@ -322,7 +322,7 @@ export class WorkflowRunner {
     // ── 2. Explicit skip ─────────────────────────────────────────────────
     const workdir = resolve(step.workdir ?? this.flow.workdir!);
 
-    if (step.skip && !this.opts.full) {
+    if (step.skip && !this.opts.full && !this.activeSteps) {
       const result: TaskResult = {
         hookId: id, name: step.name, status: "skipped",
         skipReason: "explicit",
