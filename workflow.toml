@@ -1,0 +1,76 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Workflow definition file
+#  Run with: bun run index.ts workflow.toml
+# ─────────────────────────────────────────────────────────────────────────────
+
+[flow]
+name    = "CI Pipeline"
+workdir = "/tmp/workflow"
+
+  # Global environment variables — inherited by every step
+  [flow.env]
+  APP_ENV  = "ci"
+  LOG_LEVEL = "info"
+
+
+# ─── Step 1 ── runs immediately (no dependencies) ───────────────────────────
+
+[[flow.step]]
+name    = "Install dependencies"
+info    = "Install project packages"
+command = "echo 'Installing deps…' && sleep 0.3 && echo 'Done.'"
+hook_id = "install"
+
+  [flow.step.env]
+  NODE_ENV = "development"
+
+
+# ─── Step 2 ── runs immediately in parallel with step 1 ─────────────────────
+
+[[flow.step]]
+name    = "Lint code"
+info    = "Run the linter"
+command = "echo 'Linting…' && sleep 0.5 && echo 'No issues found.'"
+hook_id = "lint"
+
+
+# ─── Step 3 ── waits for both install + lint to finish ───────────────────────
+
+[[flow.step]]
+name    = "Run tests"
+info    = "Execute the test suite"
+command = "echo 'Running tests…' && sleep 0.4 && echo 'All tests passed.'"
+hook_id = "test"
+wait    = ["install", "lint"]
+
+  [flow.step.env]
+  TEST_REPORTER = "tap"
+
+
+# ─── Step 4 ── waits for tests only ─────────────────────────────────────────
+
+[[flow.step]]
+name    = "Build"
+info    = "Compile the production bundle"
+command = "echo 'Building…' && sleep 0.6 && echo 'Build complete.'"
+hook_id = "build"
+wait    = ["test"]
+
+
+# ─── Step 5 ── waits for build; intentionally fails ─────────────────────────
+
+[[flow.step]]
+name    = "Smoke test"
+info    = "Quick sanity check on the build"
+command = "echo 'Running smoke tests…' && exit 1"
+hook_id = "smoke"
+wait    = ["build"]
+
+
+# ─── Step 6 ── waits for smoke (will be skipped because smoke fails) ─────────
+
+[[flow.step]]
+name    = "Deploy"
+info    = "Deploy to staging environment"
+command = "echo 'Deploying…'"
+wait    = ["smoke"]

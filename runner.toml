@@ -1,0 +1,16 @@
+[flow]
+name   = "My pipeline"
+runner = "bash"          # optional — already the default
+
+[[flow.step]]
+name    = "Python script"
+runner  = "python3"      # overrides flow default for this step
+command = """
+import os
+print(os.getcwd())
+"""
+
+[[flow.step]]
+name    = "Node inline"
+runner  = "node"
+command = "console.log('hello from node', process.version)"

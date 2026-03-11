@@ -1,0 +1,50 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Workflow definition file
+#  Run with: bun run index.ts football.toml
+# ─────────────────────────────────────────────────────────────────────────────
+
+[flow]
+name    = "Football workflow"
+
+  # Global environment variables — inherited by every step
+  [flow.env]
+
+
+[[flow.step]]
+name    = "Clone tools repository"
+info    = "Clone the tool chain"
+command = "git clone git@github.com:yblebon/tools.git"
+hook_id = "clone-toolchain"
+skip    = true
+cache = ["tools"]
+
+[[flow.step]]
+name    = "Install virtual env"
+info    = "Install python virtualenv"
+command = "python3 -m venv venv"
+hook_id = "install-venv"
+skip = true
+cache = ["venv"]
+
+[[flow.step]]
+name    = "Install requirements"
+info    = "Install python requirements.txt"
+command = "source venv/bin/activate && cd tools && pip install -r requirements.txt"
+hook_id = "pip-install"
+wait    = ["clone-toolchain", "install-venv"]
+skip = false
+
+[[flow.step]]
+name    = "Load daily match"
+info    = "Load the matches for the current day"
+command = "source venv/bin/activate && cd tools/foot/fun/main.py"
+wait    = ["pip-install"]
+skip = false
+
+
+
+
+
+
+
+

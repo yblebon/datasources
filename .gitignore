@@ -1,3 +1,2 @@
-/.digdag-wrapper
-.digdag
 *.pyc
+workdir/
