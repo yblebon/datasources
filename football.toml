@@ -37,7 +37,7 @@ skip = true
 [[flow.step]]
 name    = "Load daily match"
 info    = "Load the matches for the current day"
-command = "source venv/bin/activate && python tools/foot/fun/main.py --token token --country france"
+command = "source venv/bin/activate && python tools/foot/fun/main.py --token token --country england"
 hook_id = "load-matches"
 wait    = ["pip-install"]
 skip = false
