@@ -1134,12 +1134,23 @@
       {
         "text": "J'te traite comme négro de plantation",
         "sender": "left",
-        "timestamp": "12:07 AM, Mar 12, 2026",
+        "timestamp": "12:07 PM, Mar 12, 2026",
         "username": "booba",
         "photoUrl": "https://via.placeholder.com/40?text=booba",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmSFBoCmHH3nRjviT9bhTaX4LLqKbQeV3pUdPsX7NHrHXY"
+        }
+      },
+      {
+        "text": "Ca joue les criminels, ca braque des foufounes",
+        "sender": "left",
+        "timestamp": "14:44 PM, Mar 12, 2026",
+        "username": "booba",
+        "photoUrl": "https://via.placeholder.com/40?text=booba",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmdNPUKsRn236EjyNgESHa1qnzFctJ1jbW2qUVhpxdGFa2"
         }
       }
     ]
