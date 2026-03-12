@@ -1118,6 +1118,22 @@
     ]
   },
   {
+    "name": "Lyrics",
+    "messages": [
+      {
+        "text": "400 ans d'fouet, t'as pas retenu la lecon?",
+        "sender": "left",
+        "timestamp": "11:27 AM, Mar 12, 2026",
+        "username": "booba",
+        "photoUrl": "https://via.placeholder.com/40?text=booba",
+        "attachment": {
+          "type": "image",
+          "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmWgNBZF25ncmDup4yRHw3HxCx1USaB2PcHMwyMiizZWQb"
+        }
+      }
+    ]
+  },
+  {
     "name": "Cleaning out my closet",
     "messages": [
       {
