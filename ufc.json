@@ -217,6 +217,27 @@
         },
         "score": "2.386"
       }
+    },
+    {
+      "match_title": "Main Event: Emmett vs. vallejos",
+      "date": "Sunday, March 15, 2026",
+      "location": "Meta APEX, Las Vegas United States",
+      "fighter1": {
+        "name": "Andre Fili",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-03/FILI_ANDRE_L_03-14.png?itok=ZAoPkZfP",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/3074464/andre-fili",
+        "stats": {
+        },
+        "score": "1.953"
+      },
+      "fighter2": {
+        "name": "Jose Miguel Delgado",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-10/DELGADO_JOSE_R_10-25.png?itok=UacPFPwy",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5223435/jose-miguel-delgado",
+        "stats": {
+        },
+        "score": "2.983"
+      }
     }
   ],
   "2026-03-29": [
