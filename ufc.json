@@ -196,6 +196,27 @@
         },
         "score": "2.014"
       }
+    },
+    {
+      "match_title": "Main Event: Emmett vs. vallejos",
+      "date": "Sunday, March 15, 2026",
+      "location": "Meta APEX, Las Vegas United States",
+      "fighter1": {
+        "name": "Ion Cutelaba",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-03/CUTELABA_ION_L_03-14.png?itok=4l6w5Jd9",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/3994033/ion-cutelaba",
+        "stats": {
+        },
+        "score": "2.061"
+      },
+      "fighter2": {
+        "name": "Oumar Sy",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/SY_OUMAR_L_09-06.png?itok=UdZiz0AJ",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5074120/oumar-sy",
+        "stats": {
+        },
+        "score": "2.386"
+      }
     }
   ],
   "2026-03-29": [
