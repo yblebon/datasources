@@ -1,14 +1,4 @@
 [
-	{
-  "name":        "Q3 Report",
-  "title":       "q3-report-2025",
-  "author":      "Finance Team",
-  "subject":     "Q3 Financial Report",
-  "keywords":    "finance, quarterly",
-  "content":     "Body text here…",
-  "leftMargin":  25,
-  "rightMargin": 25,
-  "topMargin":   35,
-  "fontSize":    12
-}
+  { "name": "Cover Letter", "author": "Jane Doe", "content": "Dear…", "fontSize": 11 },
+  { "name": "Invoice", "description": "billing template", "url": "https://…/invoice.json" }
 ]
