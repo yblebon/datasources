@@ -281,7 +281,28 @@
         },
         "score": "2.047"
       }
+    },{
+      "match_title": "Main Event: Evlovev vs. Murphy",
+      "date": "Sunday, March 21, 2026",
+      "location": "O2 Arena, London United Kingdoms",
+      "fighter1": {
+        "name": "Luke Riley",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-11/RILEY_LUKE_R_11-22.png?itok=GhSqLuKl",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5146696/luke-riley",
+        "stats": {
+        },
+        "score": "2.735"
+      },
+      "fighter2": {
+        "name": "Michael Aswell  Jr",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-05/ASWELL_MICHAEL_R_05-31.png?itok=8FI9O7b8",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5212738/michael-aswell",
+        "stats": {
+        },
+        "score": "2.281"
+      }
     }
+
   ],
   "2026-03-29": [
     {
