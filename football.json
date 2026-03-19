@@ -1106,6 +1106,108 @@
             "2003",
             "2004"
         ]
+    },
+        {
+        "date": "2026-03-19",
+        "name": "Santos FC",
+        "main": [
+            "Right Winger",
+            "Centre-Back",
+            "Midfield",
+            "Defence",
+            "Offence",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "SC Internacional",
+        "main": [
+            "Midfield",
+            "Centre-Forward",
+            "Defence",
+            "Offence",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "CR Vasco da Gama",
+        "main": [
+            "Midfield",
+            "Centre-Forward",
+            "Defence",
+            "Offence",
+            "Left Winger",
+            "Attacking Midfield",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "Fluminense FC",
+        "main": [
+            "Midfield",
+            "Centre-Forward",
+            "Defence",
+            "Offence",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "Gr\u00eamio FBPA",
+        "main": [
+            "Midfield",
+            "Centre-Forward",
+            "Defence",
+            "Defensive Midfield",
+            "Offence",
+            "Left Winger",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "EC Vit\u00f3ria",
+        "main": [
+            "Centre-Back",
+            "Left-Back",
+            "Midfield",
+            "Defence",
+            "Offence",
+            "Goalkeeper",
+            "Defensive Midfield"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "CR Flamengo",
+        "main": [
+            "Central Midfield",
+            "Centre-Back",
+            "Left-Back",
+            "Midfield",
+            "Defence",
+            "Defensive Midfield",
+            "Right-Back",
+            "Offence",
+            "Left Winger",
+            "Attacking Midfield",
+            "Goalkeeper"
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "name": "Clube do Remo",
+        "main": [
+            "Centre-Back",
+            "Left-Back",
+            "Midfield",
+            "Defence",
+            "Offence",
+            "Goalkeeper"
+        ]
     }
 
 ]

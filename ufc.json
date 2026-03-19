@@ -301,6 +301,26 @@
         },
         "score": "2.312"
       }
+    },{
+      "match_title": "Main Event: Evlovev vs. Murphy",
+      "date": "Sunday, March 21, 2026",
+      "location": "O2 Arena, London United Kingdoms",
+      "fighter1": {
+        "name": "Mario Pinto",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/PINTO_MARIO_R_03-01.png?itok=cOzsVSWx",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5218817/mario-pinto",
+        "stats": {
+        },
+        "score": "2.556"
+      },
+      "fighter2": {
+        "name": "Felipe Franco",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-02/FRANCO_FELIPE_L_09-09.png?itok=fnwSq35f",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5292014/felipe-franco",
+        "stats": {
+        },
+        "score": "2.312"
+      }
     }
 
   ],
