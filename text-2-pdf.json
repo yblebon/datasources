@@ -1,4 +1,5 @@
 [
+
   {
   "name": "Cover Letter FR",
   "title": "cover-letter-fr",
@@ -11,5 +12,17 @@
   "topMargin": 30,
   "fontSize": 12
 },
-  { "name": "Invoice", "description": "billing template"}
+{
+  "name": "cover-letter-en",
+  "title": "cover-letter-en",
+  "author": "Yasser B. Lebon",
+  "subject": "Application: ... position",
+  "keywords": "cover letter, en",
+  "content": "Hello,\n \n\nI am sending you my résumé to apply for the position of … posted on the … website. I believe my background could match the profile you are looking for perfectly.\n \nHoping for a reply from you, I remain, ladies and gentlemen, with my most respectful regards.\n \n\nSincerely,  \nYasser Lebon",
+  "leftMargin": 20,
+  "rightMargin": 20,
+  "topMargin": 30,
+  "fontSize": 14
+},
+  { "name": "Invoice", "description": "billing template"},
 ]
