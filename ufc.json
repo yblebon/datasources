@@ -346,5 +346,28 @@
         "score": "3.457"
       }
     }
+  ],
+  "2026-04-29": [
+    {
+      "match_title": "Main Event: Moicano vs. Duncan",
+      "date": "Sunday, April 05, 2026",
+      "location": "Meta APEX, Las Vegas United States ",
+      "fighter1": {
+        "name": "Virna Jandiroba",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-10/JANDIROBA_VIRNA_L_10-25.png?itok=slWfbeAH",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4289516/virna-jandiroba",
+        "stats": {
+        },
+        "score": "1.708"
+      },
+      "fighter2": {
+        "name": "Tabatha Ricci",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/RICCI_TABATHA_L_08-24.png?itok=gzAIb7jd",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4868095/tabatha-ricci",
+        "stats": {
+        },
+        "score": "1.279"
+      }
+    }
   ]
 }
