@@ -1,5 +1,4 @@
 [
-
   {
   "name": "Cover Letter FR",
   "title": "cover-letter-fr",
@@ -24,5 +23,5 @@
   "topMargin": 30,
   "fontSize": 14
 },
-  { "name": "Invoice", "description": "billing template"},
+  { "name": "Invoice", "description": "billing template"}
 ]
