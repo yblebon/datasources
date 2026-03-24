@@ -1,5 +1,37 @@
 [
   {
+    "name": "Victor Wembanyama",
+    "sex": "M",
+    "funnyFacts": [
+      "basketball player",
+      "french"
+    ],
+    "image": "",
+    "youtube": "",
+    "xLink": "https://x.com/wemby"
+  },
+  {
+    "name": "Valerie Pecresse",
+    "sex": "M",
+    "funnyFacts": [
+      "politicienne",
+      "french"
+    ],
+    "image": "",
+    "youtube": "",
+    "xLink": "https://x.com/vpecresse"
+  },{
+    "name": "Gerard Darmin",
+    "sex": "M",
+    "funnyFacts": [
+      "politicien",
+      "french"
+    ],
+    "image": "",
+    "youtube": "",
+    "xLink": "https://x.com/GDarmanin"
+  },
+  {
     "name": "Atsuko",
     "sex": "F",
     "funnyFacts": [
