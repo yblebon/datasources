@@ -1,5 +1,26 @@
 [
-  
+  {
+    "name": "Johannes Dale-Skjevdal o",
+    "sex": "M",
+    "funnyFacts": [
+      "biathlon",
+      "norvegien"
+    ],
+    "image": "",
+    "youtube": "",
+    "article": "https://www.espn.co.uk/olympics/story/_/id/47985997/norway-wins-17th-gold-medal-set-winter-olympics-record"
+  },
+  {
+    "name": "Roger Federer",
+    "sex": "M",
+    "funnyFacts": [
+      "tennis player",
+      "swiss"
+    ],
+    "image": "",
+    "youtube": "",
+    "xLink": "https://x.com/RogerFederer"
+  },
   {
     "name": "Pope Leo XIV",
     "sex": "M",
