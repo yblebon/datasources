@@ -345,6 +345,26 @@
         },
         "score": "3.457"
       }
+    },{
+      "match_title": "Main Event: Adesanya vs. Pyfer",
+      "date": "Sunday, March 29, 2026",
+      "location": "Climate Pledge Arena, Seattle, WA United States",
+      "fighter1": {
+        "name": "Terrance McKinney",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-12/MCKINNEY_TERRANCE_L_12-06.png?itok=JYl1VRcp",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4425604/terrance-mckinney",
+        "stats": {
+        },
+        "score": "3.069"
+      },
+      "fighter2": {
+        "name": "Kyle Nelson",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-10/NELSON_KYLE_L_10-18.png?itok=K1REGeZG",
+        "wiki": "https://www.ufc.com/athlete/kyle-nelson",
+        "stats": {
+        },
+        "score": "2.314"
+      }
     }
   ],
   "2026-05-05": [
