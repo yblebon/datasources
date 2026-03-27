@@ -1208,6 +1208,105 @@
             "Offence",
             "Goalkeeper"
         ]
+    },
+        {
+        "date": "2026-03-27",
+        "name": "Lyon",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "AS Monaco",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Marseille",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Lille",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Paris FC",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Le Havre AC",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Stade Rennais",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Metz",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Nantes",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Strasbourg",
+        "main": [
+            "Midfielder",
+            "Goalkeeper",
+            "Forward",
+            "Defender"
+        ]
     }
-
 ]
