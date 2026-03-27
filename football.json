@@ -1308,5 +1308,274 @@
             "Forward",
             "Defender"
         ]
+    },    {
+        "date": "2026-03-27",
+        "name": "Harrogate Town",
+        "main": [
+            "unknown",
+            "Guyana",
+            "Wales",
+            "England",
+            "New Zealand"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Notts County",
+        "main": [
+            "Norway",
+            "Gambia",
+            "Cameroon",
+            "unknown",
+            "Afghanistan",
+            "Cyprus",
+            "Zimbabwe",
+            "Bermuda",
+            "England",
+            "Scotland",
+            "Jamaica",
+            "Malta",
+            "Grenada"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Barnet",
+        "main": [
+            "Croatia",
+            "Antigua and Barbuda",
+            "Nigeria",
+            "Sierra Leone",
+            "Wales",
+            "Congo DR",
+            "England",
+            "Republic of Ireland",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Cambridge United",
+        "main": [
+            "Northern Ireland",
+            "Sierra Leone",
+            "Wales",
+            "Congo DR",
+            "Republic of Ireland",
+            "Scotland",
+            "England"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Barrow",
+        "main": [
+            "USA",
+            "Northern Ireland",
+            "Wales",
+            "England",
+            "Republic of Ireland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Bromley",
+        "main": [
+            "Grenada",
+            "Scotland",
+            "Congo",
+            "England"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Bristol Rovers",
+        "main": [
+            "Nigeria",
+            "Netherlands",
+            "Northern Ireland",
+            "Switzerland",
+            "Wales",
+            "Morocco",
+            "England",
+            "Republic of Ireland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Accrington Stanley",
+        "main": [
+            "Northern Ireland",
+            "unknown",
+            "England",
+            "Republic of Ireland",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Colchester United",
+        "main": [
+            "Northern Ireland",
+            "unknown",
+            "Zimbabwe",
+            "England",
+            "Grenada"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Walsall",
+        "main": [
+            "Australia",
+            "unknown",
+            "Poland",
+            "Ghana",
+            "Kenya",
+            "Montserrat",
+            "Sierra Leone",
+            "England",
+            "Scotland",
+            "St Kitts and Nevis",
+            "Jamaica"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Crawley Town",
+        "main": [
+            "Antigua and Barbuda",
+            "Nigeria",
+            "Northern Ireland",
+            "Australia",
+            "Albania",
+            "unknown",
+            "Ghana",
+            "Greece",
+            "England",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Gillingham",
+        "main": [
+            "Northern Ireland",
+            "Montserrat",
+            "Wales",
+            "England",
+            "Republic of Ireland",
+            "Jamaica",
+            "Grenada"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Crewe Alexandra",
+        "main": [
+            "Wales",
+            "Scotland",
+            "Slovakia",
+            "England"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Oldham Athletic",
+        "main": [
+            "Portugal",
+            "Australia",
+            "Cameroon",
+            "Montserrat",
+            "Wales",
+            "England",
+            "Republic of Ireland",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Newport County",
+        "main": [
+            "Cameroon",
+            "unknown",
+            "Austria",
+            "Ghana",
+            "Wales",
+            "England",
+            "Republic of Ireland",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Shrewsbury Town",
+        "main": [
+            "Netherlands",
+            "Wales",
+            "Belgium",
+            "England",
+            "Republic of Ireland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Salford City",
+        "main": [
+            "Tanzania",
+            "Nigeria",
+            "Netherlands",
+            "Australia",
+            "Congo",
+            "unknown",
+            "Sierra Leone",
+            "Uruguay",
+            "Wales",
+            "Italy",
+            "England",
+            "Canada",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Milton Keynes Dons",
+        "main": [
+            "Australia",
+            "France",
+            "Ghana",
+            "Wales",
+            "Guatemala",
+            "England",
+            "Republic of Ireland",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Swindon Town",
+        "main": [
+            "Germany",
+            "Wales",
+            "Gibraltar",
+            "Spain",
+            "England",
+            "Republic of Ireland",
+            "Canada",
+            "Scotland"
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "name": "Fleetwood Town",
+        "main": [
+            "Northern Ireland",
+            "Montserrat",
+            "Wales",
+            "Guyana",
+            "England",
+            "Republic of Ireland",
+            "Scotland"
+        ]
     }
 ]
