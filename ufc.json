@@ -409,6 +409,27 @@
         },
         "score": "3.955"
       }
+    },
+    {
+      "match_title": "Main Event: Moicano vs. Duncan",
+      "date": "Sunday, April 04, 2026",
+      "location": "Meta APEX, Las Vegas United States ",
+      "fighter1": {
+        "name": "Abdul Rakhman Yakhyaev",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-11/YAKHYAEV_ABDUL_RAKHMAN_L_11-22.png?itok=bSq-AvoW",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/5291025/abdul-rakhman-yakhyaev",
+        "stats": {
+        },
+        "score": "2.499"
+      },
+      "fighter2": {
+        "name": "Brendson Ribeiro",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-02/RIBEIRO_BRENDSON_L_02-17.png?itok=BZ9OFBxH",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4379328/brendson-ribeiro",
+        "stats": {
+        },
+        "score": "2.631"
+      }
     }
   ]
 }
