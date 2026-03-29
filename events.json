@@ -2,82 +2,82 @@
   {"date": "2025-01-31",
     "time": "00:00",
     "event": "Marilyn Manson - One Assassination Under God",
-    "source": "Youtube",
-    "group": "Clips"
+    "type": "Youtube",
+    "tags": ["Clips"]
   },
     {
     "date": "2025-06-08",
     "time": "17:00",
     "event": "Robin Maxime, Abbaye de Tournus",
-    "source": "concert",
-    "group": "Saone et Loire"
+    "type": "concert",
+    "tags": ["Saone et Loire"]
   },
 {
     "date": "2025-06-08",
     "time": "10:00",
     "event": "Festi Palestine, Morlay",
-    "source": "concert",
-    "group": "Saone et Loire"
+    "type": "concert",
+    "tags": ["Saone et Loire"]
   },
 {
     "date": "2025-05-30",
     "time": "18:30",
     "event": "Festival Grange ta cour",
-    "source": "concert",
-    "group": "Saone et Loire"
+    "type": "concert",
+    "tags": ["Saone et Loire"]
   },
     {
     "date": "2025-05-31",
     "time": "21:00",
     "event": "UEFA Final Champions League Men",
-    "source": "sport",
-    "group": "Paris"
+    "type": "sport",
+    "tags": ["Paris"]
   }, {
     "date": "2025-05-24",
     "time": "18:00",
     "event": "UEFA Final Champions League Women",
-    "source": "sport",
-    "group": "Lisbon"
+    "type": "sport",
+    "tags": ["Lisbon"]
   }, {
     "date": "2025-05-01",
     "time": "08:00",
     "event": "Puces des Quais",
-    "source": "market",
-    "group": "Tournus"
+    "type": "market",
+    "tags": ["Tournus"]
   }
     , {
     "date": "2025-05-03",
     "time": "14:00",
     "event": "Desamorcez la bombe",
-    "source": "social",
-    "group": "Tournus"
+    "type": "social",
+    "tags": ["Tournus"]
   }
     , {
     "date": "2025-05-26",
     "time": "20:30",
     "event": "Bergers",
-    "source": "cinema",
-    "group": "Tournus"
+    "type": "cinema",
+    "tags": ["Tournus"]
   }
      , {
     "date": "2025-06-02",
     "time": "20:30",
     "event": "Echapée belle",
-    "source": "cinema",
-    "group": "Tournus"
+    "type": "cinema",
+    "tags": ["Tournus"]
   },
      {
     "date": "2025-06-03",
     "time": "20:30",
     "event": "Coup de Coeur Afcae",
-    "source": "cinema",
-    "group": "Tournus"
+    "type": "cinema",
+    "tags": ["Tournus"]
   },
      {
     "date": "2025-05-27",
     "time": "00:00",
     "event": "Dubai - Madagascar Business Forum",
-    "source": "forum",
-    "group": "Dubai"
+    "type": "forum",
+    "tags": ["Dubai"]
   }
 ]
