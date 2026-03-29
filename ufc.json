@@ -367,10 +367,10 @@
       }
     }
   ],
-  "2026-05-05": [
+  "2026-04-04": [
     {
       "match_title": "Main Event: Moicano vs. Duncan",
-      "date": "Sunday, April 05, 2026",
+      "date": "Sunday, April 04, 2026",
       "location": "Meta APEX, Las Vegas United States ",
       "fighter1": {
         "name": "Virna Jandiroba",
@@ -387,6 +387,27 @@
         "stats": {
         },
         "score": "1.279"
+      }
+    },
+    {
+      "match_title": "Main Event: Moicano vs. Duncan",
+      "date": "Sunday, April 04, 2026",
+      "location": "Meta APEX, Las Vegas United States ",
+      "fighter1": {
+        "name": "Renato Moicano",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/12/MOICANO_RENATO_L_09-28.png?itok=TW7G5eLx",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/3028863/renato-moicano",
+        "stats": {
+        },
+        "score": "2.125"
+      },
+      "fighter2": {
+        "name": "Chris Duncan",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-07/DUNCAN_CHRIS_L_07-22.png?itok=GgFULkKw",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4868095/tabatha-ricci",
+        "stats": {
+        },
+        "score": "3.955"
       }
     }
   ]
