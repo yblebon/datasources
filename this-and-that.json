@@ -3256,10 +3256,21 @@
         "sender": "left",
         "timestamp": "09:44 AM, Mar 04, 2026",
         "username": "Them",
-        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Abdulwahab",
+        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Them",
         "attachment": {
           "type": "image",
           "url": "https://tragic-amethyst-crayfish.myfilebase.com/ipfs/QmQd9Sn3gpcMpem71zFpBVZEpfMdrGYAKsA12CGn1aPZpZ"
+        }
+      },
+      {
+        "text": "Bouterse said on 26 November 2007, four days before the commencement of the trial, that Santokhi wanted to 'imprison and kill him'. On 29 November 2019, Bouterse had been sentenced to 20 years' imprisonment. Santokhi died on 30 March 2026. He was pronounced dead at the hospital",
+        "sender": "left",
+        "timestamp": "20:20 PM, Mar 30, 2026",
+        "username": "Them",
+        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage-backend-7yao.onrender.com/file/gJ-ELetpRkK3fILyn-S_w"
         }
       }
     ]
