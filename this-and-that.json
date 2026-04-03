@@ -1354,12 +1354,23 @@
       {
         "text": "ndo mody, kara fody. vody, tia vonantody. mizodidozy, tsisy audi.world citizen, tsy nipody",
         "sender": "left",
-        "timestamp": "10:39 1M, Apr 03, 2026",
+        "timestamp": "10:39 AM, Apr 03, 2026",
         "username": "me",
         "photoUrl": "https://via.placeholder.com/40?text=me",
         "attachment": {
           "type": "image",
           "url": "https://storage-backend-7yao.onrender.com/file/Z8mvyyNK9D4KCOdZcZpAv"
+        }
+      },
+      {
+        "text": "ah j'ai envie d'un d'etre un peu marrant. quand tu penses que tu as le temps. ils vont dire que je suis non chalant. alors tous les matins j'essaye toujours d'etre partant, avec deux trois pas en dansant",
+        "sender": "left",
+        "timestamp": "10:50 AM, Apr 03, 2026",
+        "username": "me",
+        "photoUrl": "https://via.placeholder.com/40?text=me",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage-backend-7yao.onrender.com/file/-OQJcidULsIb3Fceg8oqk"
         }
       }
     ]
