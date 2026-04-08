@@ -1545,5 +1545,125 @@
             "2003-08-21",
             "2001-12-20"
         ]
+    },
+     {
+        "date": "2026-04-10",
+        "name": "West Ham United",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Wolverhampton Wanderers",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Real Madrid",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Girona",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "FC Augsburg",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "TSG Hoffenheim",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Paris FC",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "AS Monaco",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Marseille",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Metz",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "AS Roma",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "name": "Pisa",
+        "main": [
+            "Defender",
+            "Forward",
+            "Goalkeeper",
+            "Midfielder"
+        ]
     }
 ]
