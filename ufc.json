@@ -453,6 +453,27 @@
         },
         "score": "3.877"
       }
+    },
+     {
+      "match_title": "Main Event: Procházka  vs. Ulberg",
+      "date": "Sunday, April 11, 2026",
+      "location": "Kaseya Center, Miami United States",
+      "fighter1": {
+        "name": "Dominick Reyes",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-04/REYES_DOMINICK_L_04-11.png?itok=NyATj3dB",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4233039/dominick-reyes",
+        "stats": {
+        },
+        "score": "3.204"
+      },
+      "fighter2": {
+        "name": "Johnny Walker",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-08/WALKER_JOHNNY_L_08-23.png?itok=JTGJfTnu",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/3146944/johnny-walker",
+        "stats": {
+        },
+        "score": "2.082"
+      }
     }
   ]
 }
