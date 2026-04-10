@@ -431,5 +431,28 @@
         "score": "2.631"
       }
     }
+  ],
+  "2026-04-11": [
+    {
+      "match_title": "Main Event: Procházka  vs. Ulberg",
+      "date": "Sunday, April 11, 2026",
+      "location": "Kaseya Center, Miami United States",
+      "fighter1": {
+        "name": "Jiří Procházka",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2026-04/PROCHAZKA_JIRI_L_04-11.png?itok=7xtzA6Jt",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/3156612/jiri-prochazka",
+        "stats": {
+        },
+        "score": "3.754"
+      },
+      "fighter2": {
+        "name": "Carlos Ulberg",
+        "icon": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-09/ULBERG_CARLOS_L_09-27.png?itok=mTdNyLu-",
+        "wiki": "https://www.espn.com/mma/fighter/_/id/4695736/carlos-ulberg",
+        "stats": {
+        },
+        "score": "3.877"
+      }
+    }
   ]
 }
