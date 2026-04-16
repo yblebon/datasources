@@ -475,5 +475,254 @@
         "score": "2.082"
       }
     }
-  ]
+  ],
+  "2026-04-18": [
+{
+  "match_title": "Welterweight Bout | Main Event: Gilbert Burns vs. Mike Malott",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Gilbert Burns",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/BURNS_GILBERT_L.png?itok=__VhVKcg",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Mike Malott",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/MALOTT_MIKE_R_10-18.png?itok=f4W7WbWC",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Bantamweight Bout | Fight 2: Kyler Phillips vs. Charles Jourdain",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Kyler Phillips",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/PHILLIPS_KYLER_L_07-19.png?itok=Lm7sNu8r",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Charles Jourdain",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/JOURDAIN_CHARLES_R_06-29.png?itok=S-kZzgOt",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Lightweight Bout | Fight 3: Mandel Nallo vs. Jai Herbert",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Mandel Nallo",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/NALLO_MANDEL_L_09-02.png?itok=QAvLmfr_",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Jai Herbert",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-04/HERBERT_JAI_R_03-18.png?itok=mudszMhD",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Women's Flyweight Bout | Fight 4: Jasmine Jasudavicius vs. Karine Silva",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Jasmine Jasudavicius",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/JASUDAVICIUS_JASMINE_L_02-01.png?itok=yBpp1wlF",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Karine Silva",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/SILVA_KARINE_R_12-06.png?itok=A0Js2XHI",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Lightweight Bout | Fight 5: Thiago Moisés vs. Gauge Young",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Thiago Moisés",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/13/MOISES_THIAGO_L_01-11.png?itok=g4_4mlRo",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Gauge Young",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/YOUNG_GAUGE_R_08-23.png?itok=SR9-iA8O",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Featherweight Bout | Fight 6: Dennis Buzukja vs. Marcio Barbosa",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Dennis Buzukja",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-08/BUZUKJA_DENNIS_L_08-24.png?itok=IeKtOufx",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Marcio Barbosa",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/BARBOSA_MARCIO_R_08-26.png?itok=88TlpFfY",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Middleweight Bout | Fight 7: Julien Leblanc vs. Robert Valentin",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Julien Leblanc",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=blUYyBFe",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Robert Valentin",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/VALENTIN_ROBERT_R_07-19.png?itok=zoEzAqvC",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Heavyweight Bout | Fight 8: Tanner Boser vs. Gokhan Saricam",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Tanner Boser",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-08/BOSER_TANNER_L_08-05.png?itok=kKsltV2R",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Gokhan Saricam",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=EnM2XdIL",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Women's Bantamweight Bout | Fight 9: Melissa Croden vs. Daria Zhelezniakova",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Melissa Croden",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/CRODEN_MELISSA_L_10-18.png?itok=kEeFvdiU",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Daria Zhelezniakova",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-09/ZHELEZNIAKOVA_DARIA_R_09-28.png?itok=lVXcssR0",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Flyweight Bout | Fight 10: Mitch Raposo vs. Allan Nascimento",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Mitch Raposo",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-05/RAPOSO_MITCH_L_06-01.png?itok=bkazA5Mj",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Allan Nascimento",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/NASCIMENTO_ALLAN_R_05-31.png?itok=GUeWo4CP",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Women's Flyweight Bout | Fight 11: JJ Aldrich vs. Jamey-Lyn Horth",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "JJ Aldrich",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/ALDRICH_JJ_L_05-11.png?itok=jP4beoPF",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Jamey-Lyn Horth",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-12/HORTH_JAMEY-LYN_R_12-14.png?itok=O5RGvooE",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Bantamweight Bout | Fight 12: John Castaneda vs. Mark Vologdin",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "John Castaneda",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/CASTANEDA_JOHN_L_06-08.png?itok=wpurNmND",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Mark Vologdin",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/VOLOGDIN_MARK_R_10-07.png?itok=ItvMklMY",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Bantamweight Bout | Fight 13: Jamie Siraj vs. John Yannis",
+  "date": "",
+  "location": "Canada Life Centre, Winnipeg Canada Canada Life Centre, Winnipeg Canada",
+  "fighter1": {
+    "name": "Jamie Siraj",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=blUYyBFe",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "John Yannis",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/YANNIS_JOHN_R_08-02.png?itok=mOPDMqZx",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+}
+]
 }
