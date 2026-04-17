@@ -1665,5 +1665,25 @@
             "Goalkeeper",
             "Midfielder"
         ]
-    }
+    },
+    {
+    "date": "2026-04-17",
+    "name": "Lens",
+    "main": [
+      "Midfielder",
+      "Forward",
+      "Defender",
+      "Goalkeeper"
+    ]
+  },
+  {
+    "date": "2026-04-17",
+    "name": "Toulouse",
+    "main": [
+      "Midfielder",
+      "Forward",
+      "Defender",
+      "Goalkeeper"
+    ]
+  }
 ]
