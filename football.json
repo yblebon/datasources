@@ -1686,5 +1686,105 @@
       "Goalkeeper"
     ],
     "bonus": ["Midfielder"]
+  },
+   {
+    "date": "2026-04-21",
+    "name": "Brighton & Hove Albion",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Chelsea",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Athletic Club",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Osasuna",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Mallorca",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Valencia",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Girona",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Real Betis",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Real Madrid",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Alaves",
+    "main": [
+      "Defender",
+      "Goalkeeper",
+      "Midfielder",
+      "Forward"
+    ]
   }
 ]
