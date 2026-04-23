@@ -1787,5 +1787,117 @@
       "Forward"
     ],
     "bonus": ["Midfielder"]
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Levante",
+    "main": [
+      "Panama",
+      "Germany",
+      "Australia",
+      "France",
+      "Honduras",
+      "Cameroon",
+      "Ghana",
+      "Israel",
+      "Argentina",
+      "Spain",
+      "Venezuela",
+      "Uruguay"
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Sevilla",
+    "main": [
+      "Norway",
+      "Greece",
+      "Serbia",
+      "Switzerland",
+      "France",
+      "Argentina",
+      "Portugal",
+      "Chile",
+      "Nigeria",
+      "Spain",
+      "Brazil",
+      "Belgium"
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Rayo Vallecano",
+    "main": [
+      "Brazil",
+      "Italy",
+      "Morocco",
+      "France",
+      "Romania",
+      "Albania",
+      "Ghana",
+      "Argentina",
+      "Senegal",
+      "Angola",
+      "Spain",
+      "Uruguay",
+      "Netherlands"
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Espanyol",
+    "main": [
+      "Germany",
+      "Morocco",
+      "Serbia",
+      "France",
+      "England",
+      "Congo DR",
+      "Spain",
+      "Uruguay",
+      "Belgium"
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Real Oviedo",
+    "main": [
+      "Morocco",
+      "Serbia",
+      "Ivory Coast",
+      "Romania",
+      "Ghana",
+      "Angola",
+      "Argentina",
+      "Niger",
+      "England",
+      "Senegal",
+      "Egypt",
+      "Ecuador",
+      "Spain",
+      "Uruguay",
+      "Belgium"
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Villarreal",
+    "main": [
+      "Georgia",
+      "Ivory Coast",
+      "Mali",
+      "France",
+      "Cape Verde Islands",
+      "Ghana",
+      "Senegal",
+      "Argentina",
+      "USA",
+      "Portugal",
+      "Canada",
+      "Spain",
+      "Uruguay",
+      "Brazil"
+    ]
   }
+
 ]
