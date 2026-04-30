@@ -1899,6 +1899,406 @@
       "Uruguay",
       "Brazil"
     ]
+  },
+
+  {
+    "date": "2026-05-04",
+    "name": "Chelsea",
+    "main": [
+      "France",
+      "Argentina",
+      "Senegal",
+      "Ecuador",
+      "England",
+      "Denmark",
+      "Brazil",
+      "Ukraine",
+      "USA",
+      "Belgium",
+      "Portugal",
+      "Netherlands",
+      "Spain"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Nottingham Forest",
+    "main": [
+      "France",
+      "Argentina",
+      "Serbia",
+      "New Zealand",
+      "England",
+      "Germany",
+      "Brazil",
+      "Italy",
+      "Belgium",
+      "Ivory Coast",
+      "Nigeria",
+      "Wales",
+      "Switzerland",
+      "Scotland"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Everton",
+    "main": [
+      "France",
+      "Argentina",
+      "Northern Ireland",
+      "Senegal",
+      "England",
+      "Germany",
+      "Ukraine",
+      "Guinea-Bissau",
+      "Republic of Ireland",
+      "Wales",
+      "Morocco",
+      "Scotland"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Manchester City",
+    "main": [
+      "France",
+      "Croatia",
+      "England",
+      "Ghana",
+      "Egypt",
+      "Uzbekistan",
+      "Italy",
+      "Brazil",
+      "Portugal",
+      "Belgium",
+      "Netherlands",
+      "Spain",
+      "Algeria",
+      "Norway"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Sevilla",
+    "main": [
+      "France",
+      "Argentina",
+      "Serbia",
+      "Chile",
+      "Greece",
+      "Nigeria",
+      "Brazil",
+      "Portugal",
+      "Belgium",
+      "Switzerland",
+      "Spain",
+      "Norway"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Real Sociedad",
+    "main": [
+      "France",
+      "Venezuela",
+      "Russia",
+      "Croatia",
+      "Brazil",
+      "Kenya",
+      "Portugal",
+      "Japan",
+      "Spain",
+      "Iceland"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Cremonese",
+    "main": [
+      "France",
+      "Argentina",
+      "Bosnia and Herzegovina",
+      "Cameroon",
+      "Senegal",
+      "England",
+      "Lithuania",
+      "Nigeria",
+      "Italy",
+      "Belgium",
+      "Indonesia",
+      "Paraguay",
+      "Morocco",
+      "Slovakia",
+      "Norway"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Lazio",
+    "main": [
+      "France",
+      "Serbia",
+      "Senegal",
+      "Poland",
+      "Albania",
+      "Croatia",
+      "Denmark",
+      "Nigeria",
+      "Italy",
+      "Montenegro",
+      "Portugal",
+      "Netherlands",
+      "Spain",
+      "Morocco"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "AS Roma",
+    "main": [
+      "France",
+      "Gambia",
+      "Argentina",
+      "Serbia",
+      "Senegal",
+      "Poland",
+      "Greece",
+      "Italy",
+      "Brazil",
+      "Ukraine",
+      "USA",
+      "Ivory Coast",
+      "Republic of Ireland",
+      "T\u00fcrkiye",
+      "Netherlands",
+      "Spain",
+      "Morocco"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Fiorentina",
+    "main": [
+      "Venezuela",
+      "Israel",
+      "Croatia",
+      "Ghana",
+      "Denmark",
+      "Germany",
+      "England",
+      "Brazil",
+      "Italy",
+      "Spain",
+      "Morocco",
+      "Iceland",
+      "Switzerland"
+    ]
+  },
+
+  {
+    "date": "2026-05-01",
+    "name": "Leeds United",
+    "main": [
+      "1998",
+      "1993",
+      "1997",
+      "2003",
+      "2004",
+      "1999",
+      "1990",
+      "2006",
+      "2007",
+      "2000"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Burnley",
+    "main": [
+      "1998",
+      "1997",
+      "1996",
+      "2003",
+      "2002",
+      "2004",
+      "2005",
+      "1999",
+      "1990",
+      "1995",
+      "1994",
+      "2006",
+      "2007",
+      "2001",
+      "2008",
+      "2000",
+      "1989"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Girona",
+    "main": [
+      "1993",
+      "1997",
+      "1986",
+      "2003",
+      "1988",
+      "1992",
+      "2002",
+      "2004",
+      "1999",
+      "1990",
+      "2000",
+      "1995",
+      "2006",
+      "2001",
+      "2005",
+      "2007",
+      "1989"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Mallorca",
+    "main": [
+      "1993",
+      "1997",
+      "2003",
+      "2002",
+      "1992",
+      "2005",
+      "2004",
+      "1999",
+      "1995",
+      "1994",
+      "2006",
+      "2007",
+      "2001",
+      "2000",
+      "1991",
+      "1984"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Pisa",
+    "main": [
+      "1998",
+      "1993",
+      "1997",
+      "1996",
+      "2003",
+      "1988",
+      "2004",
+      "1990",
+      "1985",
+      "2001",
+      "2006",
+      "2005",
+      "2008",
+      "2000",
+      "2007",
+      "2009"
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Lecce",
+    "main": [
+      "1998",
+      "1997",
+      "1996",
+      "2003",
+      "2002",
+      "2004",
+      "1999",
+      "1995",
+      "2001",
+      "2005",
+      "2008",
+      "2000"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Celta Vigo",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Elche",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Getafe",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Rayo Vallecano",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Real Betis",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Real Oviedo",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Espanyol",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Real Madrid",
+    "main": [
+      "Forward",
+      "Defender",
+      "Goalkeeper",
+      "Midfielder"
+    ]
   }
 
 ]
