@@ -105,5 +105,82 @@
   {"date":"2026-07-09","time":"00:00","event":"Quarterfinals (start)","type":"knockout","tags":["Quarterfinals"]},
   {"date":"2026-07-14","time":"00:00","event":"Semifinals","type":"knockout","tags":["Semifinals"]},
   {"date":"2026-07-18","time":"00:00","event":"Third place match","type":"knockout","tags":["Third place"]},
-  {"date":"2026-07-19","time":"20:00","event":"Final — MetLife Stadium: Final match","type":"final","tags":["Final","MetLife Stadium","East Rutherford"]}
+  {"date":"2026-07-19","time":"20:00","event":"Final — MetLife Stadium: Final match","type":"final","tags":["Final","MetLife Stadium","East Rutherford"]},
+  {
+    "date": "2026-02-18",
+    "time": "21:00",
+    "event": "PSG 5-4 Monaco (Agg); Real Madrid 3-1 Benfica (Agg)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "knockout play-offs"]
+  },
+  {
+    "date": "2026-02-24",
+    "time": "21:00",
+    "event": "Atlético 7-4 Club Brugge (Agg); Inter 2-5 Bodø/Glimt (Agg)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "knockout play-offs"]
+  },
+  {
+    "date": "2026-03-11",
+    "time": "21:00",
+    "event": "PSG 5-2 Chelsea; Real Madrid 3-0 Man City",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "round of 16"]
+  },
+  {
+    "date": "2026-03-18",
+    "time": "21:00",
+    "event": "Bayern 10-2 Atalanta (Agg); Barcelona 8-3 Newcastle (Agg)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "round of 16"]
+  },
+  {
+    "date": "2026-04-08",
+    "time": "21:00",
+    "event": "Barcelona 0-2 Atlético; PSG 2-0 Liverpool",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "quarter-finals"]
+  },
+  {
+    "date": "2026-04-15",
+    "time": "21:00",
+    "event": "Bayern 6-4 Real Madrid (Agg); Arsenal 1-0 Sporting (Agg)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "quarter-finals"]
+  },
+  {
+    "date": "2026-04-28",
+    "time": "21:00",
+    "event": "PSG 5-4 Bayern Munich (Semi-final Leg 1)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "semi-finals"]
+  },
+  {
+    "date": "2026-04-29",
+    "time": "21:00",
+    "event": "Atlético Madrid 1-1 Arsenal (Semi-final Leg 1)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "semi-finals"]
+  },
+  {
+    "date": "2026-05-05",
+    "time": "21:00",
+    "event": "Arsenal vs Atlético Madrid (Upcoming)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "semi-finals"]
+  },
+  {
+    "date": "2026-05-06",
+    "time": "21:00",
+    "event": "Bayern Munich vs PSG (Upcoming)",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "semi-finals"]
+  },
+  {
+    "date": "2026-05-30",
+    "time": "21:00",
+    "event": "Final (Budapest) - TBD vs TBD",
+    "type": "UEFA Champions League",
+    "tags": ["uefa", "champions league", "final"]
+  }
 ]
