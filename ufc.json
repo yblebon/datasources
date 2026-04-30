@@ -840,6 +840,25 @@
       "stats": {},
       "score": "0.946"
     }
+  },
+    {
+    "match_title": "Heavyweight Bout | Fight 6: Tai Tuivasa vs. Louie Sutherland",
+    "date": "",
+    "location": "RAC Arena, Perth Australia RAC Arena, Perth Australia",
+    "fighter1": {
+      "name": "Tai Tuivasa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/TUIVASA_TAI_L_01-31.png?itok=r5gNaHRn",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/3722422/tai-tuivasa",
+      "stats": {},
+      "score": "0.987"
+    },
+    "fighter2": {
+      "name": "Louie Sutherland",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/SUTHERLAND_LOUIE_R_10-25.png?itok=oRul5khf",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/5080572/louie-sutherland",
+      "stats": {},
+      "score": "1.013"
+    }
   }
 ]
 }
