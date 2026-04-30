@@ -744,7 +744,25 @@
     "stats": {},
     "score": "1.559"
   }
-},
+},  {
+    "match_title": "Heavyweight - | Fight 6: Tai Tuivasa vs. Louie Sutherland",
+    "date": "",
+    "location": "RAC Arena, Perth Australia RAC Arena, Perth Australia",
+    "fighter1": {
+      "name": "Tai Tuivasa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/TUIVASA_TAI_L_01-31.png?itok=r5gNaHRn",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Louie Sutherland",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/SUTHERLAND_LOUIE_R_10-25.png?itok=oRul5khf",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
 {
   "match_title": "Poids coq féminins - | Fight 2: Norma Dumont vs. Joselyne Edwards",
   "date": "",
@@ -773,14 +791,14 @@
     "fighter1": {
       "name": "Jack Della Maddalena",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DELLA_MADDALENA_JACK_L.png?itok=Z-VmdwDn",
-      "wiki": "",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/4828707/jack-della-maddalena",
       "stats": {},
       "score": "0.0"
     },
     "fighter2": {
       "name": "Carlos Prates",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/PRATES_CARLOS_R_11-15.png?itok=BfNE-F7t",
-      "wiki": "",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/4294832/carlos-prates",
       "stats": {},
       "score": "0.0"
     }
@@ -792,14 +810,14 @@
     "fighter1": {
       "name": "Jonathan Micallef",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/MICALLEF_JONATHAN_L_01-31.png?itok=k167Xukx",
-      "wiki": "",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/5236142/jonathan-micallef",
       "stats": {},
       "score": "0.0"
     },
     "fighter2": {
       "name": "Themba Gorimbo",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/GORIMBO_THEMBA_R_11-01.png?itok=lIHAWaBC",
-      "wiki": "",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/4963269/themba-gorimbo",
       "stats": {},
       "score": "0.0"
     }
@@ -811,14 +829,14 @@
     "fighter1": {
       "name": "Dom Mar Fan",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/MAR_FAN_DOM_R_01-31.png?itok=e2kXIpZ9",
-      "wiki": "",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/5157806/dom-mar-fan",
       "stats": {},
       "score": "0.0"
     },
     "fighter2": {
       "name": "Kody Steele",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/STEELE_KODY_R_02-08.png?itok=OLAiL9Qe",
-      "wiki": "",
+      "wiki": "https://www.espn.com/mma/fighter/_/id/5212351/kody-steele",
       "stats": {},
       "score": "0.0"
     }
