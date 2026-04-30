@@ -764,5 +764,64 @@
     "score": "1.044"
   }
 }
+],
+"2026-05-02":[
+  {
+    "match_title": "Poids mi-moyens - | Main Event: Jack Della Maddalena vs. Carlos Prates",
+    "date": "",
+    "location": "RAC Arena, Perth Australia RAC Arena, Perth Australia",
+    "fighter1": {
+      "name": "Jack Della Maddalena",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DELLA_MADDALENA_JACK_L.png?itok=Z-VmdwDn",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Carlos Prates",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/PRATES_CARLOS_R_11-15.png?itok=BfNE-F7t",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mi-moyens - | Fight 12: Jonathan Micallef vs. Themba Gorimbo",
+    "date": "",
+    "location": "RAC Arena, Perth Australia RAC Arena, Perth Australia",
+    "fighter1": {
+      "name": "Jonathan Micallef",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/MICALLEF_JONATHAN_L_01-31.png?itok=k167Xukx",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Themba Gorimbo",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/GORIMBO_THEMBA_R_11-01.png?itok=lIHAWaBC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids légers - | Fight 13: Dom Mar Fan vs. Kody Steele",
+    "date": "",
+    "location": "RAC Arena, Perth Australia RAC Arena, Perth Australia",
+    "fighter1": {
+      "name": "Dom Mar Fan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/MAR_FAN_DOM_R_01-31.png?itok=e2kXIpZ9",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Kody Steele",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/STEELE_KODY_R_02-08.png?itok=OLAiL9Qe",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  }
 ]
 }
