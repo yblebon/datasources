@@ -634,12 +634,23 @@
       {
         "text": "Expect no collaboration. No need to call the cops. I'd rather self police.",
         "sender": "left",
-        "timestamp": "13:07 AM, May 01, 2026",
+        "timestamp": "13:07 PM, May 01, 2026",
         "username": "Me",
         "photoUrl": "https://via.placeholder.com/40?text=Me",
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/NKaMBs6L08i8RR8fb9sx7"
+        }
+      },
+      {
+        "text": "Suis je le gardien de mon frère ?",
+        "sender": "left",
+        "timestamp": "13:17 PM, May 01, 2026",
+        "username": "Me",
+        "photoUrl": "https://via.placeholder.com/40?text=Me",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/56_jJDKuhniG_vl5SdJag"
         }
       }
     ]
