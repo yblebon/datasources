@@ -860,5 +860,254 @@
       "score": "1.013"
     }
   }
+],
+"2026-05-07": [
+  {
+    "match_title": "Poids moyens Combat de championnat | Main Event: Khamzat Chimaev vs. Sean Strickland",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Khamzat Chimaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/CHIMAEV_KHAMZAT_L_BELTMOCK.png?itok=G1DHu_1h",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Sean Strickland",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/STRICKLAND_SEAN_R_02-08.png?itok=Gac6RDCr",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mouche Combat de championnat | Fight 2: Joshua Van vs. Tatsuro Taira",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Joshua Van",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/VAN_JOSHUA_L_BELTMOCK.png?itok=VKeeA1Lg",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Tatsuro Taira",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/TAIRA_TATSURO_R_12-06.png?itok=-OvJtJUB",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight - | Fight 3: Alexander Volkov vs. Waldo Cortes Acosta",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Alexander Volkov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/VOLKOV_ALEXANDER_L_10-25.png?itok=RgikZRlQ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Waldo Cortes Acosta",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/CORTES-ACOSTA_WALDO_R_08-23.png?itok=rZlV_gFx",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mi-moyens - | Fight 4: Sean Brady vs. Joaquin Buckley",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Sean Brady",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/BRADY_SEAN_L_11-15.png?itok=CHSxdxZr",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Joaquin Buckley",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/BUCKLEY_JOAQUIN_R_06-14.png?itok=Wf5kGgXr",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids légers - | Fight 5: King Green vs. Jeremy Stephens",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "King Green",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/GREEN_KING_L_12-13.png?itok=QdS8MtlK",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Jeremy Stephens",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2021-07/STEPHENS_JEREMY_R_04-17.png?itok=ELyfC7wZ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids moyens - | Fight 6: Ateba Gautier vs. Ozzy Diaz",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Ateba Gautier",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/GAUTIER_ATEBA_L_01-24.png?itok=f01rUphw",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Ozzy Diaz",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/DIAZ_OZZY_R_03-08.png?itok=XpfZvCfv",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mi-moyens - | Fight 7: Joel Álvarez vs. Yaroslav Amosov",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Joel Álvarez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/2/ALVAREZ_JOEL_L_12-14.png?itok=tT7ZBs4V",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Yaroslav Amosov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/AMOSOV_YAROSLAV_R_12-13.png?itok=rtb-enhJ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids légers - | Fight 8: Grant Dawson vs. Mateusz Rębecki",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Grant Dawson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/DAWSON_GRANT_L_12-06.png?itok=MB_BRjRK",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Mateusz Rębecki",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/REBECKI_MATEUSZ_R_10-25.png?itok=ekkoc8Mn",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids légers - | Fight 9: Jim Miller vs. Jared Gordon",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Jim Miller",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-04/MILLER_JIM_L_04-12.png?itok=GKmZyopz",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Jared Gordon",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/GORDON_JARED_R_09-13.png?itok=IqbGqn-X",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids moyens - | Fight 10: Roman Kopylov vs. Marco Tulio",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Roman Kopylov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/KOPYLOV_ROMAN_L_11-15.png?itok=JRVCPHmW",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Marco Tulio",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/TULIO_MARCO_R_11-08.png?itok=nkNdf0fA",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids plume - | Fight 11: Pat Sabatini vs. William Gomis",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Pat Sabatini",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/SABATINI_PAT_L_11-15.png?itok=q1C0rdxM",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "William Gomis",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/GOMIS_WILLIAM_R_03-01.png?itok=Ukf1SlOp",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids moyens - | Fight 12: Baisangur Susurkaev vs. Djorden Santos",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Baisangur Susurkaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/SUSURKAEV_BAISANGUR_L_11-15.png?itok=BiP_clYC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Djorden Santos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/SANTOS_DJORDEN_R_10-18.png?itok=VeyUUXHc",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mouche - | Fight 13: Clayton Carpenter vs. Jose Ochoa",
+    "date": "",
+    "location": "Prudential Center, Newark United States Prudential Center, Newark United States",
+    "fighter1": {
+      "name": "Clayton Carpenter",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/6/CARPENTER_CLAYTON_L_10-12.png?itok=qrzB8Ise",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Jose Ochoa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/OCHOA_JOSE_R_07-26.png?itok=WE5U1kJm",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  }
 ]
 }
