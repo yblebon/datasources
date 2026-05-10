@@ -2300,6 +2300,85 @@
       "Goalkeeper",
       "Midfielder"
     ]
+  },
+   {
+    "date": "2026-05-10",
+    "name": "Burnley",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Aston Villa",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Crystal Palace",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Everton",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Nottingham Forest",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Newcastle United",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "West Ham United",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Arsenal",
+    "main": [
+      "Forward",
+      "Midfielder",
+      "Goalkeeper",
+      "Defender"
+    ]
   }
-
 ]
