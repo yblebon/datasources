@@ -259,5 +259,131 @@
     "event": "Giorgio Armani Superyacht Regatta — Awards Ceremony (Piazza Azzurra)",
     "type": "regatta",
     "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "ceremony"]
+  },
+  {
+    "date": "2026-05-18",
+    "time": "10:00",
+    "event": "Roland Garros — Qualifying Rounds begin",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "qualifying"]
+  },
+  {
+    "date": "2026-05-21",
+    "time": "18:00",
+    "event": "Roland Garros — Draw Ceremony (Men's & Women's Singles)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "draw"]
+  },
+  {
+    "date": "2026-05-21",
+    "time": "20:00",
+    "event": "Roland Garros — 'Gaël & Friends' Special Evening Show (conceived by Gaël Monfils)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "special event"]
+  },
+  {
+    "date": "2026-05-24",
+    "time": "10:00",
+    "event": "Roland Garros — Main Draw begins: 1st Round (Day 1)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "1st round"]
+  },
+  {
+    "date": "2026-05-25",
+    "time": "10:00",
+    "event": "Roland Garros — 1st Round (Day 2)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "1st round"]
+  },
+  {
+    "date": "2026-05-26",
+    "time": "10:00",
+    "event": "Roland Garros — 1st Round (Day 3)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "1st round"]
+  },
+  {
+    "date": "2026-05-27",
+    "time": "10:00",
+    "event": "Roland Garros — 2nd Round (Day 4)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "2nd round"]
+  },
+  {
+    "date": "2026-05-28",
+    "time": "10:00",
+    "event": "Roland Garros — 2nd Round (Day 5)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "2nd round"]
+  },
+  {
+    "date": "2026-05-29",
+    "time": "10:00",
+    "event": "Roland Garros — 2nd Round (Day 6)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "2nd round"]
+  },
+  {
+    "date": "2026-05-30",
+    "time": "10:00",
+    "event": "Roland Garros — 3rd Round (Day 7)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "3rd round"]
+  },
+  {
+    "date": "2026-05-31",
+    "time": "10:00",
+    "event": "Roland Garros — 3rd Round (Day 8)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "3rd round"]
+  },
+  {
+    "date": "2026-06-01",
+    "time": "10:00",
+    "event": "Roland Garros — Round of 16 (Day 9)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "round of 16"]
+  },
+  {
+    "date": "2026-06-02",
+    "time": "10:00",
+    "event": "Roland Garros — Round of 16 (Day 10)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "round of 16"]
+  },
+  {
+    "date": "2026-06-03",
+    "time": "10:00",
+    "event": "Roland Garros — Quarterfinals (Day 11)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "quarterfinals"]
+  },
+  {
+    "date": "2026-06-04",
+    "time": "14:00",
+    "event": "Roland Garros — Women's Semifinals + Mixed Doubles Final (Day 12)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "semifinals", "women"]
+  },
+  {
+    "date": "2026-06-05",
+    "time": "14:30",
+    "event": "Roland Garros — Men's Semifinals (Day 13)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "semifinals", "men"]
+  },
+  {
+    "date": "2026-06-06",
+    "time": "15:00",
+    "event": "Roland Garros — Women's Singles Final (Day 14)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "final", "women"]
+  },
+  {
+    "date": "2026-06-07",
+    "time": "15:00",
+    "event": "Roland Garros — Men's Singles Final (Day 15)",
+    "type": "tennis",
+    "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "final", "men"]
   }
 ]
