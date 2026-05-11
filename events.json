@@ -385,5 +385,236 @@
     "event": "Roland Garros — Men's Singles Final (Day 15)",
     "type": "tennis",
     "tags": ["French Open", "Roland Garros", "Grand Slam", "Paris", "final", "men"]
+  },
+  {
+    "date": "2026-06-12",
+    "time": "18:30",
+    "event": "WT20 WC — England vs Sri Lanka (Group 2, Opening Match)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Edgbaston", "Birmingham"]
+  },
+  {
+    "date": "2026-06-13",
+    "time": "10:30",
+    "event": "WT20 WC — Scotland vs Ireland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Old Trafford Cricket Ground", "Manchester"]
+  },
+  {
+    "date": "2026-06-13",
+    "time": "14:30",
+    "event": "WT20 WC — Australia vs South Africa (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Old Trafford Cricket Ground", "Manchester"]
+  },
+  {
+    "date": "2026-06-13",
+    "time": "18:30",
+    "event": "WT20 WC — West Indies vs New Zealand (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Hampshire Bowl", "Southampton"]
+  },
+  {
+    "date": "2026-06-14",
+    "time": "10:30",
+    "event": "WT20 WC — Bangladesh vs Netherlands (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Edgbaston", "Birmingham"]
+  },
+  {
+    "date": "2026-06-14",
+    "time": "14:30",
+    "event": "WT20 WC — India vs Pakistan (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Edgbaston", "Birmingham"]
+  },
+  {
+    "date": "2026-06-16",
+    "time": "14:30",
+    "event": "WT20 WC — New Zealand vs Sri Lanka (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Hampshire Bowl", "Southampton"]
+  },
+  {
+    "date": "2026-06-16",
+    "time": "18:30",
+    "event": "WT20 WC — England vs Ireland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Hampshire Bowl", "Southampton"]
+  },
+  {
+    "date": "2026-06-17",
+    "time": "10:30",
+    "event": "WT20 WC — Australia vs Bangladesh (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Headingley", "Leeds"]
+  },
+  {
+    "date": "2026-06-17",
+    "time": "14:30",
+    "event": "WT20 WC — India vs Netherlands (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Headingley", "Leeds"]
+  },
+  {
+    "date": "2026-06-17",
+    "time": "18:30",
+    "event": "WT20 WC — South Africa vs Pakistan (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Edgbaston", "Birmingham"]
+  },
+  {
+    "date": "2026-06-18",
+    "time": "18:30",
+    "event": "WT20 WC — West Indies vs Scotland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Headingley", "Leeds"]
+  },
+  {
+    "date": "2026-06-19",
+    "time": "18:30",
+    "event": "WT20 WC — New Zealand vs Ireland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Hampshire Bowl", "Southampton"]
+  },
+  {
+    "date": "2026-06-20",
+    "time": "10:30",
+    "event": "WT20 WC — Australia vs Netherlands (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Hampshire Bowl", "Southampton"]
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:30",
+    "event": "WT20 WC — Pakistan vs Bangladesh (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Hampshire Bowl", "Southampton"]
+  },
+  {
+    "date": "2026-06-20",
+    "time": "18:30",
+    "event": "WT20 WC — England vs Scotland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Headingley", "Leeds"]
+  },
+  {
+    "date": "2026-06-21",
+    "time": "10:30",
+    "event": "WT20 WC — West Indies vs Sri Lanka (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Bristol County Ground", "Bristol"]
+  },
+  {
+    "date": "2026-06-21",
+    "time": "14:30",
+    "event": "WT20 WC — South Africa vs India (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Old Trafford Cricket Ground", "Manchester"]
+  },
+  {
+    "date": "2026-06-23",
+    "time": "10:30",
+    "event": "WT20 WC — New Zealand vs Scotland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Bristol County Ground", "Bristol"]
+  },
+  {
+    "date": "2026-06-23",
+    "time": "14:30",
+    "event": "WT20 WC — Sri Lanka vs Ireland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Bristol County Ground", "Bristol"]
+  },
+  {
+    "date": "2026-06-23",
+    "time": "18:30",
+    "event": "WT20 WC — Australia vs Pakistan (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Headingley", "Leeds"]
+  },
+  {
+    "date": "2026-06-24",
+    "time": "18:30",
+    "event": "WT20 WC — England vs West Indies (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Lord's Cricket Ground", "London"]
+  },
+  {
+    "date": "2026-06-25",
+    "time": "14:30",
+    "event": "WT20 WC — India vs Bangladesh (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Old Trafford Cricket Ground", "Manchester"]
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:30",
+    "event": "WT20 WC — South Africa vs Netherlands (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Bristol County Ground", "Bristol"]
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:30",
+    "event": "WT20 WC — Sri Lanka vs Scotland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Old Trafford Cricket Ground", "Manchester"]
+  },
+  {
+    "date": "2026-06-27",
+    "time": "10:30",
+    "event": "WT20 WC — Pakistan vs Netherlands (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Bristol County Ground", "Bristol"]
+  },
+  {
+    "date": "2026-06-27",
+    "time": "14:30",
+    "event": "WT20 WC — West Indies vs Ireland (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "Bristol County Ground", "Bristol"]
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:30",
+    "event": "WT20 WC — England vs New Zealand (Group 2)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 2", "The Oval", "London"]
+  },
+  {
+    "date": "2026-06-28",
+    "time": "10:30",
+    "event": "WT20 WC — South Africa vs Bangladesh (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Lord's Cricket Ground", "London"]
+  },
+  {
+    "date": "2026-06-28",
+    "time": "14:30",
+    "event": "WT20 WC — Australia vs India (Group 1)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Group 1", "Lord's Cricket Ground", "London"]
+  },
+  {
+    "date": "2026-06-30",
+    "time": "14:30",
+    "event": "WT20 WC — Semi Final 1 (TBC vs TBC)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Semi Final", "The Oval", "London"]
+  },
+  {
+    "date": "2026-07-02",
+    "time": "18:30",
+    "event": "WT20 WC — Semi Final 2 (TBC vs TBC)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Semi Final", "The Oval", "London"]
+  },
+  {
+    "date": "2026-07-05",
+    "time": "14:30",
+    "event": "WT20 WC — FINAL (TBC vs TBC)",
+    "type": "cricket",
+    "tags": ["ICC Women's T20 World Cup", "Final", "Lord's Cricket Ground", "London"]
   }
 ]
