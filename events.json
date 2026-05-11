@@ -182,5 +182,82 @@
     "event": "Final (Budapest) - TBD vs TBD",
     "type": "UEFA Champions League",
     "tags": ["uefa", "champions league", "final"]
+  },
+  {
+    "date": "2026-05-26",
+    "time": "10:00",
+    "event": "Giorgio Armani Superyacht Regatta — Opening Day / Giorgio Armani Mare Pop-Up opens (Piazza Azzurra)",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS"]
+  },
+  {
+    "date": "2026-05-26",
+    "time": "09:00",
+    "event": "Giorgio Armani Superyacht Regatta — All Together Coffee at Giorgio Armani Mare pop-up",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "social"]
+  },
+  {
+    "date": "2026-05-27",
+    "time": "09:00",
+    "event": "Giorgio Armani Superyacht Regatta — All Together Coffee at Giorgio Armani Mare pop-up",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "social"]
+  },
+  {
+    "date": "2026-05-27",
+    "time": "12:00",
+    "event": "Giorgio Armani Superyacht Regatta — Racing Day 1 (first start signal)",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "racing"]
+  },
+  {
+    "date": "2026-05-28",
+    "time": "09:00",
+    "event": "Giorgio Armani Superyacht Regatta — All Together Coffee at Giorgio Armani Mare pop-up",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "social"]
+  },
+  {
+    "date": "2026-05-28",
+    "time": "12:00",
+    "event": "Giorgio Armani Superyacht Regatta — Racing Day 2 (first start signal)",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "racing"]
+  },
+  {
+    "date": "2026-05-29",
+    "time": "09:00",
+    "event": "Giorgio Armani Superyacht Regatta — All Together Coffee at Giorgio Armani Mare pop-up",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "social"]
+  },
+  {
+    "date": "2026-05-29",
+    "time": "12:00",
+    "event": "Giorgio Armani Superyacht Regatta — Racing Day 3 (first start signal)",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "racing"]
+  },
+  {
+    "date": "2026-05-30",
+    "time": "09:00",
+    "event": "Giorgio Armani Superyacht Regatta — All Together Coffee at Giorgio Armani Mare pop-up",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "social"]
+  },
+  {
+    "date": "2026-05-30",
+    "time": "12:00",
+    "event": "Giorgio Armani Superyacht Regatta — Racing Day 4 (first start signal)",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "racing"]
+  },
+  {
+    "date": "2026-05-30",
+    "time": "18:00",
+    "event": "Giorgio Armani Superyacht Regatta — Awards Ceremony (Piazza Azzurra)",
+    "type": "regatta",
+    "tags": ["Giorgio Armani Superyacht Regatta", "Porto Cervo", "Costa Smeralda", "YCCS", "ceremony"]
   }
 ]
