@@ -1400,5 +1400,24 @@
     "score": "0.0"
   }
 }
-]
+],
+"2026-06-14": [{
+  "match_title": "Poids légers Combat de championnat | Main Event: Ilia Topuria vs. Justin Gaethje",
+  "date": "",
+  "location": "The White House, Washington United States The White House, Washington United States",
+  "fighter1": {
+    "name": "Ilia Topuria",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/TOPURIA_ILIA_L_BELT_10-26.png?itok=mEE3JDpc",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Justin Gaethje",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/GAETHJE_JUSTIN_R_BELTMOCK2.png?itok=E_l_mrGj",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+}]
 }
