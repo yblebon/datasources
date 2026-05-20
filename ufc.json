@@ -1379,7 +1379,26 @@
     "score": "0.0"
   }
 }
-
+],
+"2026-06-06": [
+{
+  "match_title": "Poids mi-moyens - | Main Event: Belal Muhammad vs. Gabriel Bonfim",
+  "date": "",
+  "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+  "fighter1": {
+    "name": "Belal Muhammad",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/MUHAMMAD_BELAL_L_11-22.png?itok=d1wIUxOj",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Gabriel Bonfim",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/BONFIM_GABRIEL_R_07-12.png?itok=T_hI4Eh8",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+}
 ]
-
 }
