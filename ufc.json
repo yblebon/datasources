@@ -1358,6 +1358,28 @@
       "score": "0.0"
     }
   }
+],
+"2026-05-30": [
+  {
+  "match_title": "Poids coq - | Main Event: Song Yadong vs. Deiveson Figueiredo",
+  "date": "",
+  "location": "Galaxy Arena, Macao Galaxy Arena, Macao",
+  "fighter1": {
+    "name": "Song Yadong",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/YADONG_SONG_L_03-09.png?itok=_rhgCmEU",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Deiveson Figueiredo",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/FIGUEIREDO_DEIVESON_R_01-24.png?itok=4cU79AcZ",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+}
+
 ]
 
 }
