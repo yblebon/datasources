@@ -2942,6 +2942,22 @@
       }
     ]
   },
+   {
+    "name": "'Boss' Awards",
+    "messages": [
+      {
+        "text": "Greg Hyman, an electronics wizard and toy inventor who was a creator of Tickle Me Elmo, the giggling red plush Muppet that crushed sales records when it appeared in 1996. After Tyco Toys won the license to produce plush toys based on Sesame Street, Dubren and Hyman focused on developing an Elmo toy, which would vibrate three times and say 'That Tickles!' when squeezed",
+        "sender": "left",
+        "timestamp": "13:15 PM, Mar 25, 2026",
+        "username": "Winner",
+        "photoUrl": "https://via.placeholder.com/40?text=Winner",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/6BcaXHv2_b0gYKjuBQmAu"
+        }
+      }
+    ]
+  },
   {
     "name": "Human Rights",
     "messages": [
