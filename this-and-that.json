@@ -3684,9 +3684,9 @@
       {
         "text": "Q est une condition nécessaire pour avoir P si dès que P est vraie, alors nécessairement, forcément, obligatoirement Q est vraie: avoir deux pieds est une condition nécessaire pour jouer aux foots; toutes personnes avec deux pieds ne sont pas nécessairement des joueurs de foots.",
         "sender": "left",
-        "timestamp": "23:59 PM, Jul 14, 2021",
+        "timestamp": "23:59 PM, Jun 14, 2026",
         "username": "Math",
-        "photoUrl": "https://via.placeholder.com/40?text=Booba",
+        "photoUrl": "https://via.placeholder.com/40?text=Math",
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/XOIofx2vMNL1Oy8RMF3bF"
@@ -3695,12 +3695,23 @@
       {
         "text": "Q est une condition suffisante pour avoir P s'il suffit que Q soit vraie pour que P soit vraie: avoir un ballon est une condition suffisante pour jouer au foot; si il y a jeu de foot c'est qu'il y a forcément.",
         "sender": "left",
-        "timestamp": "23:59 PM, Jul 14, 2021",
+        "timestamp": "23:59 PM, Jun 14, 2026",
         "username": "Math",
-        "photoUrl": "https://via.placeholder.com/40?text=Booba",
+        "photoUrl": "https://via.placeholder.com/40?text=Math",
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/dy_2UBxEa39RISXzV9BN7"
+        }
+      },
+      {
+        "text": "Lorsqu'une condition est à la fois nécessaire et suffisante, on dit que c'est une condition nécessaire et suffisante, et on est autorisé à employer la formule magique: on peut jouer au foot si et seulement si on a deux pieds et un ballon.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jun 14, 2026",
+        "username": "Math",
+        "photoUrl": "https://via.placeholder.com/40?text=Math",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/0UiOna0nSgChMSqVd9YYs"
         }
       }
     ]
