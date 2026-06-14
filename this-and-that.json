@@ -3739,12 +3739,23 @@
       {
         "text": "Une proposition est un énoncé mathématique complet qui est soit vrai soit faux: quand il y a penalty soit c'est un but ou non, il n'y a pas de hors-jeu",
         "sender": "left",
-        "timestamp": "23:59 PM, Jun 14, 2026",
+        "timestamp": "23:59 PM, Jun 13, 2026",
         "username": "Math",
         "photoUrl": "https://via.placeholder.com/40?text=Math",
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/vH3oin1B2VdGE0ozbuORZ"
+        }
+      },
+      {
+        "text": "L'implication logique est une opération binaire qui a deux arguments : l'argument de gauche est l’impliquant et l'argument de droite est l’impliqué: si le résultat officiel d'un match est 1-1 et que la vidéo sur youtube affiche 3-1 implique que ce n'est pas la bonne vidéo",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jun 13, 2026",
+        "username": "Math",
+        "photoUrl": "https://via.placeholder.com/40?text=Math",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/emjKkFpRP8c2PuhRtYdKr"
         }
       }
     ]
