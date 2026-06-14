@@ -3724,6 +3724,17 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/RxEfdGsgIHY5OCpOUDX1c"
         }
+      },
+      {
+        "text": "Le raisonnement par récurrence est une méthode de démonstration mathématique utilisée pour prouver qu'une propriété P(n) est vraie pour tout entier naturel n. Il repose sur trois étapes indissociables : l'initialisation, l'hérédité et la conclusion.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jun 14, 2026",
+        "username": "Math",
+        "photoUrl": "https://via.placeholder.com/40?text=Math",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/XZa_kNnqvJn3RYghN5Vyl"
+        }
       }
     ]
   }
