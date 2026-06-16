@@ -3779,6 +3779,17 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/SQEHGo_xAjnWvUHGNCQo2"
         }
+      },
+      {
+        "text": "Soit A = (2, 2), B = (1, 1), C = (1, 1) trois vecteus de R2; on dit que le vecteur D est une combinaison lineaire de A, B et C s'il existe des coefficents x, y, z tel que D = xA + yB + zC.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jun 16, 2026",
+        "username": "Math",
+        "photoUrl": "https://via.placeholder.com/40?text=Math",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/Z08WbPqWLblZZk7K_2KDm"
+        }
       }
     ]
   }
