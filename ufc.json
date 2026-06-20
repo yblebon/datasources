@@ -1535,5 +1535,63 @@
       "score": "0.0"
     }
   }
+],
+  "2026-06-20": [{
+    "match_title": "Poids mouche - | Main Event: Manel Kape vs. Kyoji Horiguchi",
+    "date": "",
+    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Manel Kape",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/KAPE_MANEL_L_06-20.png?itok=f7IUvEZ6",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Kyoji Horiguchi",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/HORIGUCHI_KYOJI_R_11-22.png?itok=qRrP_oHZ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+  "match_title": "Poids mi-lourds - | Fight 2: Ion Cutelaba vs. Navajo Stirling",
+  "date": "",
+  "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+  "fighter1": {
+    "name": "Ion Cutelaba",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/CUTELABA_ION_L_06-20.png?itok=IdXMRy_8",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Navajo Stirling",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/STIRLING_NAVAJO_R_06-20.png?itok=ywLXLCuc",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+},
+{
+  "match_title": "Poids plume - | Fight 5: Vinicius Oliveira vs. Andre Fili",
+  "date": "",
+  "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+  "fighter1": {
+    "name": "Vinicius Oliveira",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/OLIVEIRA_VINICIUS_L_06-20.png?itok=o-BgMfa5",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  },
+  "fighter2": {
+    "name": "Andre Fili",
+    "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/FILI_ANDRE_R_06-20.png?itok=Qxk6EUU0",
+    "wiki": "",
+    "stats": {},
+    "score": "0.0"
+  }
+}
 ]
 }
