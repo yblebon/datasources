@@ -3712,7 +3712,7 @@
     ]
   },
   {
-    "name": "Maths by World Cup 2026",
+    "name": "Science by World Cup 2026",
     "messages": [
       {
         "text": "Q est une condition nécessaire pour avoir P si dès que P est vraie, alors nécessairement, forcément, obligatoirement Q est vraie: avoir deux pieds est une condition nécessaire pour jouer aux foots; toutes personnes avec deux pieds ne sont pas nécessairement des joueurs de foots.",
@@ -3811,6 +3811,17 @@
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/Z08WbPqWLblZZk7K_2KDm"
+        }
+      },
+      {
+        "text": "La limite d'élasticité est la contrainte à partir de laquelle un matériau arrête de se déformer dʼune manière élastique, réversible et commence donc à se déformer de manière irréversible. our un matériau fragile, c'est la contrainte à laquelle le matériau se rompt, notamment du fait de ses micro-fissures internes",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jun 17, 2026",
+        "username": "Physique",
+        "photoUrl": "https://via.placeholder.com/40?text=Physique",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/62dKJWb1eoN5FvNGNOrw7"
         }
       }
     ]
