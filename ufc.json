@@ -1615,4 +1615,274 @@
     }
   }
 ]
+,
+"2026-07-11":[
+  {
+    "match_title": "Poids mi-moyens - | Main Event: Conor McGregor vs. Max Holloway",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Conor McGregor",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2021-07/MCGREGOR_CONOR_L_07-10.png?itok=AeRNVasI",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Max Holloway",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-04/HOLLOWAY_MAX_R_04-13.png?itok=ObYNLZoC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids légers - | Fight 2: Benoît Saint Denis vs. Paddy Pimblett",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Benoît Saint Denis",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/SAINT_DENIS_BENOIT_L_09-06.png?itok=jJrV9e1x",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Paddy Pimblett",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/PIMBLETT_PADDY_R_01-24.png?itok=jWXElKK7",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids coq - | Fight 3: Cory Sandhagen vs. Mario Bautista",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Cory Sandhagen",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/SANDHAGEN_CORY_L_05-03.png?itok=qWMzf5uF",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Mario Bautista",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/BAUTISTA_MARIO_R_10-25.png?itok=GGtQ8jXs",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mouche - | Fight 4: Brandon Royval vs. Lone’er Kavanagh",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Brandon Royval",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/ROYVAL_BRANDON_L_12-13.png?itok=b1XHUl35",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Lone’er Kavanagh",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/KAVANAGH_LONEER_R_02-28.png?itok=CnRFQ0ix",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids légers - | Fight 5: King Green vs. Terrance McKinney",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "King Green",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/GREEN_KING_L_05-09.png?itok=yT3TPnQ5",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Terrance McKinney",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/MCKINNEY_TERRANCE_R_05-11.png?itok=0cKrYOhW",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mi-lourds - | Fight 6: Robert Whittaker vs. Nikita Krylov",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Robert Whittaker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/WHITTAKER_ROBERT_L_07-26.png?itok=fF-D_SvA",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Nikita Krylov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/KRYLOV_NIKITA_R_02-25.png?itok=xtB7RQKB",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight - | Fight 7: Gable Steveson vs. Elisha Ellison",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Gable Steveson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Elisha Ellison",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/ELLISON_ELISHA_R_09-27.png?itok=7QLhbSrx",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids coq - | Fight 8: Cody Garbrandt vs. Adrian Yanez",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Cody Garbrandt",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/GARBRANDT_CODY_L_03-07.png?itok=uc4sDabD",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Adrian Yanez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/YANEZ_ADRIAN_R_03-28.png?itok=LTqzEbrl",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids plume - | Fight 9: Luke Riley vs. Kai Kamaka III",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Luke Riley",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/RILEY_LUKE_L_03-21.png?itok=rARunrGT",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Kai Kamaka III",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/KAMAKA_KAI_R_05-01.png?itok=LYlUUnv0",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mouche féminins - | Fight 10: Tracy Cortez vs. Wang Cong",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Tracy Cortez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/CORTEZ_TRACY_L_07-13.png?itok=IA9rQcdw",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Wang Cong",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/CONG_WANG_R_06-07.png?itok=Z01b2Nwm",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids moyens - | Fight 11: Damian Pinas vs. Cesar Almeida",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Damian Pinas",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/PINAS_DAMIAN_L_02-28.png?itok=c2DfCnpH",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Cesar Almeida",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/9/ALMEIDA_CESAR_R_04-06.png?itok=p8rgH3Vi",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids coq - | Fight 12: Farid Basharat vs. Ethyn Ewing",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Farid Basharat",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/2/BASHARAT_FARID_L_10-26.png?itok=xA1nmQQb",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Ethyn Ewing",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/EWING_ETHYN_R_11-15.png?itok=Oggk8fu6",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids moyens - | Fight 13: Ryan Gandra vs. Zachary Reese",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Ryan Gandra",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/GANDRA_RYAN_L_02-28.png?itok=Z10BepIC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Zachary Reese",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/REESE_ZACHARY_R_01-18.png?itok=fHQnGPkV",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Poids mouche - | Fight 14: Ode' Osbourne vs. Cody Durden",
+    "date": "",
+    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
+    "fighter1": {
+      "name": "Ode' Osbourne",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/OSBOURNE_ODE_L_02-21.png?itok=pUwfN9BO",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Cody Durden",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DURDEN_CODY_R_04-25.png?itok=Nyv9o-uv",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  }
+]
+
 }
