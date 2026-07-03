@@ -3847,5 +3847,21 @@
         }
       }
     ]
+  },
+  {
+    "name": "Bad intentions",
+    "messages": [
+      {
+        "text": "El banco se encuentra en el mirador Campo da Rata y no siempre está en perfecto estado, ya que a veces sufre daños o incluso desaparece. Para llegar no hay señalización específica, de modo que muchos viajeros se apoyan en aplicaciones de mapas o en las indicaciones de la gente de la zona, que suele conocer bien el camino.",
+        "sender": "left",
+        "timestamp": "16:09 PM, Jul 03, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/V2XWKZdG1LE2TSVtxyFrS"
+        }
+      }
+    ]
   }
 ]
