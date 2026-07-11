@@ -1732,44 +1732,6 @@
     }
   },
   {
-    "match_title": "Heavyweight - | Fight 7: Gable Steveson vs. Elisha Ellison",
-    "date": "",
-    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
-    "fighter1": {
-      "name": "Gable Steveson",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    },
-    "fighter2": {
-      "name": "Elisha Ellison",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/ELLISON_ELISHA_R_09-27.png?itok=7QLhbSrx",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    }
-  },
-  {
-    "match_title": "Poids coq - | Fight 8: Cody Garbrandt vs. Adrian Yanez",
-    "date": "",
-    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
-    "fighter1": {
-      "name": "Cody Garbrandt",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/GARBRANDT_CODY_L_03-07.png?itok=uc4sDabD",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    },
-    "fighter2": {
-      "name": "Adrian Yanez",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/YANEZ_ADRIAN_R_03-28.png?itok=LTqzEbrl",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    }
-  },
-  {
     "match_title": "Poids plume - | Fight 9: Luke Riley vs. Kai Kamaka III",
     "date": "",
     "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
@@ -1805,82 +1767,6 @@
       "wiki": "",
       "stats": {},
       "score": "1.0"
-    }
-  },
-  {
-    "match_title": "Poids moyens - | Fight 11: Damian Pinas vs. Cesar Almeida",
-    "date": "",
-    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
-    "fighter1": {
-      "name": "Damian Pinas",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/PINAS_DAMIAN_L_02-28.png?itok=c2DfCnpH",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    },
-    "fighter2": {
-      "name": "Cesar Almeida",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/9/ALMEIDA_CESAR_R_04-06.png?itok=p8rgH3Vi",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    }
-  },
-  {
-    "match_title": "Poids coq - | Fight 12: Farid Basharat vs. Ethyn Ewing",
-    "date": "",
-    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
-    "fighter1": {
-      "name": "Farid Basharat",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/2/BASHARAT_FARID_L_10-26.png?itok=xA1nmQQb",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    },
-    "fighter2": {
-      "name": "Ethyn Ewing",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/EWING_ETHYN_R_11-15.png?itok=Oggk8fu6",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    }
-  },
-  {
-    "match_title": "Poids moyens - | Fight 13: Ryan Gandra vs. Zachary Reese",
-    "date": "",
-    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
-    "fighter1": {
-      "name": "Ryan Gandra",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/GANDRA_RYAN_L_02-28.png?itok=Z10BepIC",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    },
-    "fighter2": {
-      "name": "Zachary Reese",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/REESE_ZACHARY_R_01-18.png?itok=fHQnGPkV",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    }
-  },
-  {
-    "match_title": "Poids mouche - | Fight 14: Ode' Osbourne vs. Cody Durden",
-    "date": "",
-    "location": "T-Mobile Arena, Las Vegas United States T-Mobile Arena, Las Vegas United States",
-    "fighter1": {
-      "name": "Ode' Osbourne",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/OSBOURNE_ODE_L_02-21.png?itok=pUwfN9BO",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
-    },
-    "fighter2": {
-      "name": "Cody Durden",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DURDEN_CODY_R_04-25.png?itok=Nyv9o-uv",
-      "wiki": "",
-      "stats": {},
-      "score": "0.0"
     }
   }
 ]
