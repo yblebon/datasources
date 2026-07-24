@@ -667,6 +667,100 @@
     ]
   },
   {
+    "name": "Quasimodo",
+    "messages": [
+      {
+        "text": "Quasimodo is a 'hunchback' with physical deformities",
+        "sender": "left",
+        "timestamp": "14:57 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      },
+      {
+        "text": "He is half-blind",
+        "sender": "left",
+        "timestamp": "14:58 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      },
+      {
+        "text": "He is almost completely deaf",
+        "sender": "left",
+        "timestamp": "14:59 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      },
+      {
+        "text": "Deaf, the latter from all the years ringing the bells of the church",
+        "sender": "left",
+        "timestamp": "15:00 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      }
+      ,
+      {
+        "text": "Abandoned by his mother as a baby",
+        "sender": "left",
+        "timestamp": "15:01 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      },
+      {
+        "text": "He was adopted by Claude Frollo.",
+        "sender": "left",
+        "timestamp": "15:02 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      },
+      {
+        "text": "He rarely ventures outside the Cathedral because the citizens of Paris despise and shun him for his appearance.",
+        "sender": "left",
+        "timestamp": "15:03 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      },
+      {
+        "text": "The notable occasions when he does leave include taking part in the Festival of Fools .",
+        "sender": "left",
+        "timestamp": "15:04 PM, Jul, 2026",
+        "username": "Plotter",
+        "photoUrl": "https://via.placeholder.com/40?text=Plotter",
+        "attachment": {
+          "type": "image",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
     "name": "V: son cynisme renforce notre heroisme",
     "messages": [
       {
@@ -3125,7 +3219,7 @@
         }
       },
       {
-        "text": "Il a vécu plus de vies que n’importe quel être humain, c’était un mec hors norme. D’abord dans l’entreprise familiale de viande lancée par son père Jean dans le quartier du Vernet à Perpignan.Comme toute la famille, Jean-Jacques Naudo a attrapé tout petit le virus du rugby à XIII. Alors que son frère Michel lance l’aventure du Naudo Beach Club, lui ouvre le Tio Pepe. Rue de la Barre à Perpignan, le bar devient le lieu de toutes les troisièmes mi-temps d’ovalie.  Il est soupçonné d’être un membre de la Dream Team. Condamné à 13 ans de détention, il 's’évade' derrière les barreaux grâce à la peinture, sa nouvelle passion. Il a payé ses erreurs de jeunesse, mais sa reconversion est un exemple. ffectivement son bar-restaurant à Canet-en-Roussillon, le Fried Bar devient un classique de la rue de la Soif.",
+        "text": "Il a vécu plus de vies que n’importe quel être humain, c’était un mec hors norme. D’abord dans l’entreprise familiale de viande lancée par son père Jean dan le qua"tier du Vernet à Perpignan.Comme toute la famille, Jean-Jacques Naudo a attrapé tout petit le virus du rugby à XIII. Alors que son frère Michel lance l’aventure du Naudo Beach Club, lui ouvre le Tio Pepe. Rue de la Barre à Perpignan, le bar devient le lieu de toutes les troisièmes mi-temps d’ovalie.  Il est soupçonné d’être un membre de la Dream Team. Condamné à 13 ans de détention, il 's’évade' derrière les barreaux grâce à la peinture, sa nouvelle passion. Il a payé ses erreurs de jeunesse, mais sa reconversion est un exemple. ffectivement son bar-restaurant à Canet-en-Roussillon, le Fried Bar devient un classique de la rue de la Soif.",
         "sender": "left",
         "timestamp": "23:59 PM, Jul 16, 2026",
         "username": "Winner",
