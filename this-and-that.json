@@ -1560,6 +1560,22 @@
     ]
   },
   {
+    "name": "Born on this date",
+    "messages": [
+      {
+        "text": "Le théorème de Bernoulli explique la lévitation ou la déviation d'une balle dans un flux d'air grâce à la relation entre la vitesse d'un fluide et sa pression. Lorsqu'un air rapide s'écoule autour d'une balle, il crée une zone de basse pression qui maintient ou pousse l'objet.",
+        "sender": "left",
+        "timestamp": "08:33 AM, Jul 27, 2026",
+        "username": "Famous",
+        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Famous",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/8CzJtEJfPmXikKZfTh_tF"
+        }
+      }
+    ]
+  },
+  {
     "name": "Cleaning out my closet",
     "messages": [
       {
