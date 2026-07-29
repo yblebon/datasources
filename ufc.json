@@ -1830,5 +1830,274 @@
       "score": "1.035"
     }
   }
+],
+"2026-08-01": [
+  {
+    "match_title": "Welterweight Bout | Main Event: Uroš Medić vs. Daniel Rodriguez",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Uroš Medić",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/MEDIC_UROS_L_08-09.png?itok=NhjxzwwA",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Daniel Rodriguez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/RODRIGUEZ_DANIEL_R_07-19.png?itok=ZvAdoA3Y",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 2: Jan Błachowicz vs. Navajo Stirling",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Jan Błachowicz",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/BLACHOWICZ_JAN_L_12-06.png?itok=a4qtC1H4",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Navajo Stirling",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/STIRLING_NAVAJO_R_06-20.png?itok=ywLXLCuc",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 3: Aleksandar Rakić vs. Marcin Tybura",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Aleksandar Rakić",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/RAKIC_ALEKSANDAR_L_10-25.png?itok=pNB4of98",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Marcin Tybura",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/TYBURA_MARCIN_R_08-10.png?itok=rmAIMOk1",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 4: Duško Todorović vs. Robert Valentin",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Duško Todorović",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2022-08/4526cb41-c0d2-423a-ad18-d8efe88477f3%252FTODOROVIC_DUSKO_L_05-21.png?itok=X_i1JCsW",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Robert Valentin",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/VALENTIN_ROBERT_R_04-18.png?itok=nW_3T2ql",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 5: Vlasto Čepo vs. Gilbert Urbina",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Vlasto Čepo",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Gilbert Urbina",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/URBINA_GILBERT_R_08-09.png?itok=LK2Qt52r",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 6: Miloš Janičić vs. Noah Gugnon",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Miloš Janičić",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Noah Gugnon",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 7: Ludovít Klein vs. Tofiq Musayev",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Ludovít Klein",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/KLEIN_LUDOVIT_L_10-25.png?itok=ZfDcpZTn",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Tofiq Musayev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/MUSAYEV_TOFIQ_R_03-28.png?itok=a48E7pEb",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 8: Oban Elliott vs. Michael Oliveira",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Oban Elliott",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/ELLIOTT_OBAN_L_01-31.png?itok=Vi_Zhh5F",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Michael Oliveira",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/OLIVEIRA_MICHAEL_L.png?itok=oCkagqMy",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 9: Borislav Nikolić vs. Mark Vologdin",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Borislav Nikolić",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Mark Vologdin",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/VOLOGDIN_MARK_R_04-18.png?itok=pluLxRwh",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 10: Dennis Buzukja vs. Bogdan Grad",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Dennis Buzukja",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BUZUKJA_DENNIS_L_04-18.png?itok=HcNLwExk",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Bogdan Grad",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/GRAD_BOGDAN_R_06-21.png?itok=dR7Yl73u",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 11: Mateusz Rębecki vs. Kyle Prepolec",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Mateusz Rębecki",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/REBECKI_MATEUSZ_L_08-02.png?itok=TKcg8cRm",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Kyle Prepolec",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/PREPOLEC_KYLE_R_05-10.png?itok=9SlhvoGn",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 12: Nina Milošević vs. Hailey Cowan",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Nina Milošević",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/2022-02/womens-silhouette-RED-corner.png?itok=19Mm2aKC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Hailey Cowan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/COWAN_HAILEY_R_04-04.png?itok=yUdOqO92",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 13: Jovan Leka vs. Alexander Poppeck",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Jovan Leka",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/LEKA_JOVAN_R.png?itok=RGYFLh2B",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Alexander Poppeck",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2022-03/fe063916-a811-481f-9b3e-204197e1c557%252FPOPPECK_ALEXANDER_R.png?itok=mEJIS9DQ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Women's Strawweight Bout | Fight 14: Marina Spasić vs. Stephanie Luciano",
+    "date": "",
+    "location": "Belgrade Arena, BG Serbia Belgrade Arena, BG Serbia",
+    "fighter1": {
+      "name": "Marina Spasić",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/2022-02/womens-silhouette-RED-corner.png?itok=19Mm2aKC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Stephanie Luciano",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-08/LUCIANO_STEPHANIE_R_08-10.png?itok=_4Ggl2WJ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  }
 ]
+
 }
