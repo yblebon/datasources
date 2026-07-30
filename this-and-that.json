@@ -4081,5 +4081,32 @@
         }
       }
     ]
+  },
+  {
+    "name": "Gladiators",
+    "messages": [
+      {
+        "text": "Gladiators shifted from private funeral rites to giant public events used by politicians to buy votes and show power.Gladiatorial games in the Western Roman Empire ended in 404 AD after an eastern monk named Saint Telemachus jumped into a fighting ring to stop a match and was stoned to death by an angry crowd.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jul 24, 2025",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/gRNtQ_fA4KoCjQM6e94oC"
+        }
+      },
+      {
+        "text": "Tássio Maia dos Santos, un ancien joueur de Botafogo, est l'une des victimes mortelles de la chute de mur par le vent. Vandré Cordeiro, qui était avec son ami, n'a pas non plus pu résister aux blessures de l'acciden",
+        "sender": "left",
+        "timestamp": "23:59 PM, Jul 29, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/_YdhV7YWSCy1hOYuPOlEP"
+        }
+      }
+    ]
   }
 ]
