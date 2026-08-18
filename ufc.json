@@ -1912,6 +1912,255 @@
       "score": "0.943"
     }
   }
+],
+"2026-08-22": [
+  {
+    "match_title": "Middleweight Bout | Main Event: Anthony Hernandez vs. Gregory Rodrigues",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Anthony Hernandez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/HERNANDEZ_ANTHONY_L_10-19.png?itok=2VtXaJuU",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Gregory Rodrigues",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/RODRIGUES_GREGORY_R_11-15.png?itok=Gl1SSe1L",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 2: Serghei Spivac vs. Vitor Petrino",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Serghei Spivac",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/SPIVAC_SERGHEI_L_02-21.png?itok=HFMrh8LQ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Vitor Petrino",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-05/PETRINO_VITOR_R_05-04.png?itok=6hayH1Vr",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 3: Reinier de Ridder vs. Roman Dolidze",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Reinier de Ridder",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/DE-RIDDER_REINIER_L_10-18.png?itok=SFV30e0x",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Roman Dolidze",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/DOLIDZE_ROMAN_R_03-15.png?itok=_aZZPJwu",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 4: MarQuel Mederos vs. Mason Jones",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "MarQuel Mederos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/MEDEROS_MARQUEL_L_06-07.png?itok=4tuBmlV5",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Mason Jones",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/JONES_MASON_R_09-06.png?itok=kkBRhHQ0",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Women's Flyweight Bout | Fight 5: Carli Judice vs. Jeisla Chaves",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Carli Judice",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/JUDICE_CARLI_L_07-19.png?itok=_sbMF-Pb",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Jeisla Chaves",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/CHAVES_JEISLA_L_06-06.png?itok=l4X_-5QD",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 6: Kennedy Nzechukwu vs. Shamil Gaziev",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Kennedy Nzechukwu",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/NZECHUKWU_KENNEDY_L_12-13.png?itok=t4fUjxtK",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Shamil Gaziev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/GAZIEV_SHAMIL_R_11-22.png?itok=8shokFdY",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 7: Wes Schultz vs. Jackson McVey",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Wes Schultz",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/SHULTZ_WESLEY_R_05-02.png?itok=1w37TTKs",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Jackson McVey",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/MCVEY_JACKSON_R_07-19.png?itok=X6TCMEkc",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 8: Chris Padilla vs. Nasrat Haqparast",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Chris Padilla",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/PADILLA_CHRIS_L_04-11.png?itok=CZk-i8VG",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Nasrat Haqparast",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/HAQPARAST_NASRAT_R_06-22.png?itok=GOlvps5f",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 9: Gauge Young vs. Stan Dorsainvil",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Gauge Young",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/YOUNG_GAUGE_R_08-23.png?itok=bs8W9DCO",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Stan Dorsainvil",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 10: Jamall Emmers vs. Lerryan Douglas",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Jamall Emmers",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/EMMERS_JAMALL_L_03-29.png?itok=ahN1Nl9M",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Lerryan Douglas",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/DOUGLAS_LERRYAN_R_03-28.png?itok=6gnR7f2X",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Women's Strawweight Bout | Fight 11: Shanelle Dyer vs. Elise Reed",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Shanelle Dyer",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/DYER_SHANELLE_L_03-21.png?itok=l8k_idJ4",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Elise Reed",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/5/REED_ELISE_R_10-19.png?itok=g773jT7T",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 12: Marcio Barbosa vs. Ryan Kuse",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Marcio Barbosa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BARBOSA_MARCIO_R_04-18.png?itok=u-X4l5hg",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Ryan Kuse",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 13: Terrance Chatman vs. Anthony Wint",
+    "date": "",
+    "location": "Golden 1 Center, Sacramento United States Golden 1 Center, Sacramento United States",
+    "fighter1": {
+      "name": "Terrance Chatman",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Anthony Wint",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/WINT_ANTHONY_L_08-11.png?itok=xPRtyEnQ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  }
 ]
 
 }
