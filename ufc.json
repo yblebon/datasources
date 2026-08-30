@@ -2030,5 +2030,273 @@
       "score": "0.970"
     }
   }
+],
+"2026-09-05": [
+  {
+    "match_title": "Lightweight Bout | Main Event: Dan Hooker vs. Salahdine Parnasse",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Dan Hooker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/HOOKER_DAN_L_01-31.png?itok=bsWjjIC3",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Salahdine Parnasse",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/PARNASSE_SALAHDINE_R.png?itok=5wqPKJKU",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 2: Farès Ziam vs. Axel Sola",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Farès Ziam",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/ZIAM_FARES_L_06-06.png?itok=tf2Ah716",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Axel Sola",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/SOLA_AXEL_R_07-25.png?itok=oHaeNIVN",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 3: Michael Venom Page vs. Nursulton Ruziboev",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Michael Venom Page",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/PAGE_MICHAEL_L_03-21.png?itok=KaBIKspC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Nursulton Ruziboev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/RUZIBOEV_NURSULTON_R_08-16.png?itok=s6uyY65s",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 4: Daniil Donchenko vs. Punahele Soriano",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Daniil Donchenko",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/DONCHENKO_DANIIL_L_06-27.png?itok=Feabe1MP",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Punahele Soriano",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/SORIANO_PUNAHELE_R_02-21.png?itok=9JGXMpKD",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 5: Morgan Charriere vs. Felipe Lima",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Morgan Charriere",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-09/CHARRIERE_MORGAN_L_09-28.png?itok=bBIY8iTi",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Felipe Lima",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/LIMA_FELIPE_R_06-28.png?itok=0aDDkOVY",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 6: Losene Keita vs. Muhammad Naimov",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Losene Keita",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/KEITA_LOSENE_R_03-21.png?itok=FsuKPcwQ",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Muhammad Naimov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/NAIMOV_MUHAMMAD_R_06-22.png?itok=n2jBXgOR",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 7: Mario Pinto vs. Ryan Spann",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Mario Pinto",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/PINTO_MARIO_L_03-21.png?itok=CvvKJCrb",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Ryan Spann",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/SPANN_RYAN_R_04-25.png?itok=BZVAxi7T",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 8: Kurtis Campbell vs. Trevor Peek",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Kurtis Campbell",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/CAMPBELL_KURTIS_L_03-21.png?itok=1z13pd6j",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Trevor Peek",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-09/PEEK_TREVOR_R_04-06.png?itok=qG2VxiB9",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 9: Oumar Sy vs. Modestas Bukauskas",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Oumar Sy",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/SY_OUMAR_L_09-06.png?itok=GFh1099t",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Modestas Bukauskas",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/BUKAUSKAS_MODESTAS_R_01-24.png?itok=JFY-sAli",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 10: Nathaniel Wood vs. Mairon Santos",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Nathaniel Wood",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/WOOD_NATHANIEL_L_10-25.png?itok=IxjIQdGP",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Mairon Santos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/SANTOS_MAIRON_R_12-06.png?itok=4gX50t2A",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 11: Michael Aljarouj vs. Fabia Sintes",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Michael Aljarouj",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Fabia Sintes",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 12: Nora Cornolle vs. Klaudia Sygula",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Nora Cornolle",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/CORNOLLE_NORA_L_02-21.png?itok=6jm14YFw",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Klaudia Sygula",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/SYGULA_KLAUDIA_R_06-21.png?itok=IcANukGC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 13: Matthieu Letho Duclos vs. Luis Felipe Dias",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Matthieu Letho Duclos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/DUCLOS_MATTHIEU_R.png?itok=zNWFGLI_",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Luis Felipe Dias",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/FELIPE_DIAS_LUIS_R_05-30.png?itok=tJBBsuvl",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  },
+  {
+    "match_title": "Women's Strawweight Bout | Fight 14: Delphine Benouaich vs. Sofia Montenegro",
+    "date": "",
+    "location": "Accor Arena, Paris France Accor Arena, Paris France",
+    "fighter1": {
+      "name": "Delphine Benouaich",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/2022-02/womens-silhouette-RED-corner.png?itok=19Mm2aKC",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    },
+    "fighter2": {
+      "name": "Sofia Montenegro",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/MONTENEGRO_SOFIA_R.png?itok=qnzjnSix",
+      "wiki": "",
+      "stats": {},
+      "score": "0.0"
+    }
+  }
 ]
 }
