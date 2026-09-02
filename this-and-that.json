@@ -4196,5 +4196,22 @@
         }
       }
     ]
+  },
+  {
+    "name": "Iphone Foldable",
+    "description": "Apple has been working on a foldable iPhone for more than a decade, and we've been hearing rumors about foldables for at least that long. It's finally time for an iPhone with a folding mechanism to launch, and we're expecting the first foldable iPhone to come out this year.",
+    "messages": [
+      {
+        "text": "We also aren't sure what Apple plans to call the foldable iPhone, but rumors suggest it could be named the iPhone Ultra.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Sept 02, 2026",
+        "username": "Apple",
+        "photoUrl": "https://via.placeholder.com/40?text=Apple",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/KUXKZPydfkoUzyyYqQgTw"
+        }
+      }
+    ]
   }
 ]
