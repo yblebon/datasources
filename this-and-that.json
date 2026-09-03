@@ -3841,9 +3841,20 @@
         "photoUrl": "https://via.placeholder.com/40?text=Bob",
         "attachment": {
           "type": "xPost",
-          "embedCode": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The future is multiplanetary! <a href=\"https://t.co/8a3Nq9Eh3z\">https://t.co/8a3Nq9Eh3z</a></p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1848142850220077478?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+          "link": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The future is multiplanetary! <a href=\"https://t.co/8a3Nq9Eh3z\">https://t.co/8a3Nq9Eh3z</a></p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1848142850220077478?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
         }
       },
+      {
+  "text": "This is wild, worth a read 🧵",
+  "sender": "left",
+  "timestamp": "2:14 PM, Sep 3, 2026",
+  "username": "Maya",
+  "photoUrl": "https://via.placeholder.com/40?text=Maya",
+  "attachment": {
+    "type": "xPost",
+    "link": "https://x.com/OpenAI/status/1794958040927285698"
+  }
+},
       {
         "text": "Just wanted to check out this cool timeline chat thing!",
         "sender": "left",
