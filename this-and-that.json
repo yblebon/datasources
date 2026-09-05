@@ -4246,5 +4246,22 @@
         }
       }
     ]
+  },
+  {
+    "name": "X Bookmarks",
+    "description": "A collection of X posts",
+    "messages": [
+      {
+          "text": "",
+  "sender": "left",
+  "timestamp": "15:40 PM, Sep 5, 2026",
+  "username": "Maya",
+  "photoUrl": "https://via.placeholder.com/40?text=X",
+  "attachment": {
+    "type": "xPost",
+    "link": "https://x.com/YasserLebon/status/2096231781653438786?s=20"
+  }
+      }
+    ]
   }
 ]
