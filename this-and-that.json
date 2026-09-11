@@ -4295,6 +4295,7 @@
         "timestamp": "23:59 PM, Sept 11, 2026",
         "username": "Apple",
         "photoUrl": "https://via.placeholder.com/40?text=Apple",
+        "tags": ["norway", "royal"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/TRouR5uj7Dw44J2pe3XrY"
