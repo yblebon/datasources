@@ -4328,7 +4328,17 @@
         "type": "xPost",
         "link": "https://x.com/YasserLebon/status/2098057041411445047?s=20"
         }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "12:14 PM, Sep 12, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2098716290898682124?s=20"
+        }
       }
-    ]
   }
 ]
