@@ -3467,6 +3467,18 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/GaaUKYIhiAUlqs6qulk9c"
         }
+      },
+      {
+        "text": "De retour aux États-Unis, Elaine Mokhtefi accompagne les combats des Black Panthers et s’investit dans de nombreuses initiatives internationalistes de soutien aux peuples colonisés.",
+        "sender": "left",
+        "timestamp": "23:59 AM, Sept 12, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "tags": ["documentary", "Elaine Mokhtefi", "colonialism"],
+        "attachment": {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=BIZ9lUxuqkM"
+        }
       }
     ]
   },
