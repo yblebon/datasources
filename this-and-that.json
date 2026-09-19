@@ -678,6 +678,24 @@
     ]
   },
   {
+    "name": "Game of Thrones: Birthdays",
+    "description": "Stripped completely naked with her hair shaved off, Cersei walked through the city of King’s Landing, to the taunts and jeers of the peasants, who threw all manner of vegetables and bodily fluids at her, as she passed. According to the New Testament Gospels, Jesus' walk through the crowded streets of Jerusalem to Golgotha was systematically designed by Roman authorities to be a public ritual of absolute degradation and shame",
+    "messages": [
+      {
+        "text": "Walk of Shame",
+        "sender": "left",
+        "timestamp": "14:55 PM, Sept 19, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "tags": ["cersei Lannister"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/rpUmhz979de8sQyT_eFMs"
+        }
+      }
+    ]
+  },
+  {
     "name": "Quasimodo",
     "messages": [
       {
