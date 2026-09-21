@@ -2121,7 +2121,8 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/VAN_JOSHUA_L_BELT_05-09.png?itok=WS-OTlne",
       "wiki": "",
       "stats": {},
-      "score": "0.963"
+      "score": "0.963",
+      "winner": true
     },
     "fighter2": {
       "name": "Alexandre Pantoja",
@@ -2140,7 +2141,8 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/PITBULL_PATRICIO_L_04-11.png?itok=XjZvtIWm",
       "wiki": "",
       "stats": {},
-      "score": "0.957"
+      "score": "0.957",
+      "winner": false
     },
     "fighter2": {
       "name": "Dooho Choi",
