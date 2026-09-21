@@ -2153,191 +2153,214 @@
 ],
 "2026-09-26":[
   {
-    "match_title": "Poids coq | UFC Fight Night",
+    "match_title": "Bantamweight Bout | Fight 1: Raul Rosas Jr. vs. Fighter portrait of Raoni Barcelos",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Raul Rosas Jr.",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/ROSAS_JR_RAUL_L_03-29.png?itok=2Lx20dNt",
       "ufc_profile": "https://www.ufc.com/athlete/raul-rosas-jr",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Fighter portrait of Raoni Barcelos",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BARCELOS_RAONI_R_04-25.png?itok=Ylns3N1J",
       "ufc_profile": "https://www.ufc.com/athlete/raoni-barcelos",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids moyens | UFC Fight Night",
+    "match_title": "Middleweight Bout | Fight 2: Fighter portrait of Rodolfo Vieira vs. Robert Bryczek",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Fighter portrait of Rodolfo Vieira",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/VIEIRA_RODOLFO_L_04-25.png?itok=wu2rJ2xD",
       "ufc_profile": "https://www.ufc.com/athlete/rodolfo-vieira",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Robert Bryczek",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BRYZCEK_ROBERT_R_05-02.png?itok=vAIBw6xs",
       "ufc_profile": "https://www.ufc.com/athlete/robert-bryczek",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids coq | UFC Fight Night",
+    "match_title": "Bantamweight Bout | Fight 3: Brady Hiestand vs. Rinya Nakamura",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Brady Hiestand",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-04/HIESTAND_BRADY_L_04-22.png?itok=Ykvj5KuR",
       "ufc_profile": "https://www.ufc.com/athlete/brady-hiestand",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Rinya Nakamura",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-02/NAKAMURA_RINYA_R_02-04.png?itok=Z46l1C6Q",
       "ufc_profile": "https://www.ufc.com/athlete/rinya-nakamura",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids coq | UFC Fight Night",
+    "match_title": "Bantamweight Bout | Fight 4: Men's full body silhouette image vs. Men's full body silhouette image",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Men's full body silhouette image",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
       "ufc_profile": "https://www.ufc.com/athlete/mehemmedeli-osmanli",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Men's full body silhouette image",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
       "ufc_profile": "https://www.ufc.com/athlete/ilimbek-akylbek",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids paille féminins | UFC Fight Night",
+    "match_title": "Women's Strawweight Bout | Fight 5: Silhouette of a woman standing in a fighting stance facing the left vs. Norma Dyumont Viana",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Silhouette of a woman standing in a fighting stance facing the left",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/2022-02/womens-silhouette-RED-corner.png?itok=19Mm2aKC",
       "ufc_profile": "https://www.ufc.com/athlete/melissa-amaya",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Norma Dyumont Viana",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2021-10/71799%252Fprofile-galery%252Ffullbodyright-picture%252FMACHADO_VALESCA_R.png?itok=JR_GYUCp",
       "ufc_profile": "https://www.ufc.com/athlete/norma-dyumont-viana-1",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids légers | UFC Fight Night",
+    "match_title": "Lightweight Bout | Fight 6: Josiah Harrell vs. Elves Brener",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Josiah Harrell",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-07/HARRELL_JOSIAH_L_07-08.png?itok=ulflvLgz",
       "ufc_profile": "https://www.ufc.com/athlete/josiah-harrell",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Elves Brener",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-08/BRENNER_ELVES_R_08-03.png?itok=nDoyeDiy",
       "ufc_profile": "https://www.ufc.com/athlete/elves-brener",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids mi-lourds | UFC Fight Night",
+    "match_title": "Light Heavyweight Bout | Fight 7: Rodolfo Bellato vs. Christian Edwards",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Rodolfo Bellato",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/BELLATO_RODOLFO_L.png?itok=p0TMDzxL",
       "ufc_profile": "https://www.ufc.com/athlete/rodolfo-bellato",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Christian Edwards",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/EDWARDS_CHRISTIAN_R_05-16.png?itok=u6kieGxg",
       "ufc_profile": "https://www.ufc.com/athlete/christian-edwards",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids coq | UFC Fight Night",
+    "match_title": "Bantamweight Bout | Fight 8: Fighter portrait of Montel Jackson vs. Ricky Simon",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Fighter portrait of Montel Jackson",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/JACKSON_MONTEL_L_04-25.png?itok=yyPXKtq8",
       "ufc_profile": "https://www.ufc.com/athlete/montel-jackson",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Ricky Simon",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/SIMON_RICKY_R_06-29.png?itok=jr2lPLOJ",
       "ufc_profile": "https://www.ufc.com/athlete/ricky-simon",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids coq | UFC Fight Night",
+    "match_title": "Bantamweight Bout | Fight 9: John Castaneda vs. Alatengheili",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "John Castaneda",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/CASTANEDA_JOHN_L_04-18.png?itok=VbRTGXsX",
       "ufc_profile": "https://www.ufc.com/athlete/john-castaneda",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Alatengheili",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-04/ALATENGHEILI_R_04-26.png?itok=MzfEm4mB",
       "ufc_profile": "https://www.ufc.com/athlete/heili-alateng",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids coq féminins | UFC Fight Night",
+    "match_title": "Women's Bantamweight Bout | Fight 10: Fighter portrait of Norma Dumont vs. Ailin Perez",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Fighter portrait of Norma Dumont",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DUMONT_NORMA_L_04-25.png?itok=C_y-J4nN",
       "ufc_profile": "https://www.ufc.com/athlete/norma-dumont",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Ailin Perez",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/7/PEREZ_AILIN_R_01-18.png?itok=9XiXSeQF",
       "ufc_profile": "https://www.ufc.com/athlete/ailin-perez",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   },
   {
-    "match_title": "Poids paille féminins | UFC Fight Night",
+    "match_title": "Women's Strawweight Bout | Fight 11: Vanessa Demopoulos vs. Yazmin Jauregui",
     "date": "",
-    "location": "Meta APEX, Las Vegas United States Meta APEX, Las Vegas United States",
+    "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "",
+      "name": "Vanessa Demopoulos",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-04/DEMOPOULOS_VANESSA_L_04-05.png?itok=VLjHgxVq",
       "ufc_profile": "https://www.ufc.com/athlete/vanessa-demopulos",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     },
     "fighter2": {
-      "name": "",
+      "name": "Yazmin Jauregui",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-02/JAUREGUI_YAZMIN_R_02-24.png?itok=4C_17jp-",
       "ufc_profile": "https://www.ufc.com/athlete/yazmin-jauregui",
-      "score": "0.0"
+      "score": "0.0",
+      "winner": false
     }
   }
 ]
+
 }
