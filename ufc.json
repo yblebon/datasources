@@ -2162,14 +2162,14 @@
       "name": "Raul Rosas Jr.",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/ROSAS_JR_RAUL_L_03-29.png?itok=2Lx20dNt",
       "ufc_profile": "https://www.ufc.com/athlete/raul-rosas-jr",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     },
     "fighter2": {
       "name": "Fighter portrait of Raoni Barcelos",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BARCELOS_RAONI_R_04-25.png?itok=Ylns3N1J",
       "ufc_profile": "https://www.ufc.com/athlete/raoni-barcelos",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     }
   },
