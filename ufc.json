@@ -2363,6 +2363,282 @@
       "winner": false
     }
   }
+],
+"2026-10-03":[
+  {
+    "match_title": "Women's Flyweight Title Bout | Fight 1: Natalia Silva vs. Wang Cong",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Natalia Silva",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/SILVA_NATALIA_L_01-24.png?itok=Qy3gFmB9",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/natalia-silva",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Wang Cong",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/CONG_WANG_R_07-11.png?itok=Vg-5jO1x",
+      "country": "China",
+      "ufc_profile": "https://www.ufc.com/athlete/wang-cong",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 2: Deiveson Figueiredo vs. Payton Talbott",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Deiveson Figueiredo",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/FIGUEIREDO_DEIVESON_L_10-11.png?itok=mPs2s2ip",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/deiveson-figueiredo",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Payton Talbott",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/TALBOTT_PAYTON_R_12-06.png?itok=s5Il5DRf",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/payton-talbott",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 3: Bobby Green vs. Esteban Ribovics",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Bobby Green",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/GREEN_KING_L_07-11.png?itok=0YbR_taW",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/bobby-green",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Esteban Ribovics",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/RIBOVICS_ESTEBAN_R_08-15.png?itok=Q6Mm8LjS",
+      "country": "Argentina",
+      "ufc_profile": "https://www.ufc.com/athlete/esteban-ribovics",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 4: Roberto Soldic vs. Khaos Williams",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Roberto Soldic",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_RED.png?VersionId=0NwYm4ow5ym9PWjgcpd05ObDBIC5pBtX&itok=CFBkG7gS",
+      "country": "Croatia",
+      "ufc_profile": "https://www.ufc.com/athlete/roberto-soldic",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Khaos Williams",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/WILLIAMS_KHAOS_R_05-16.png?itok=TAsqbgPh",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/khaos-williams",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 5: Ateba Gautier vs. Roman Kopylov",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Ateba Gautier",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/GAUTIER_ATEBA_L_05-09.png?itok=LsHVwg8j",
+      "country": "Cameroon",
+      "ufc_profile": "https://www.ufc.com/athlete/ateba-gautier",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Roman Kopylov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/KOPYLOV_ROMAN_R_07-19.png?itok=ayOFildI",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/roman-kopylov",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 6: Imanol Rodriguez vs. Alden Coria",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Imanol Rodriguez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/RODRIGUEZ_IMANOL_L_02-28.png?itok=9Q0EjUWH",
+      "country": "Mexico",
+      "ufc_profile": "https://www.ufc.com/athlete/imanol-rodriguez",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Alden Coria",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/CORIA_ALDEN_R_09-13.png?itok=2NPk0xA_",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/alden-coria",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 7: Damian Pinas vs. Andrey Pulyaev",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Damian Pinas",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/PINAS_DAMIAN_L_07-11.png?itok=pAu6EpFH",
+      "country": "Aruba",
+      "ufc_profile": "https://www.ufc.com/athlete/damian-pinas",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Andrey Pulyaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/PULYAEV_ANDREY_R_03-22.png?itok=k_ywuCt3",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/andrey-pulyaev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 8: Marcus Mcghee vs. Benardo Sopaj",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Marcus Mcghee",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/MCGHEE_MARCUS_L_06-06.png?itok=mF0odJ-g",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/marcus-mcghee",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Benardo Sopaj",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/SOPAJ_BENARDO_R_05-16.png?itok=RWibPYE0",
+      "country": "Albania",
+      "ufc_profile": "https://www.ufc.com/athlete/benardo-sopaj",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 10: Johnny Walker vs. Mick Parkin",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Johnny Walker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/WALKER_JOHNNY_L_08-23.png?itok=McJFYr4n",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/johnny-walker",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Mick Parkin",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/PARKIN_MICK_R_03-22.png?itok=hGjuVIVW",
+      "country": "England",
+      "ufc_profile": "https://www.ufc.com/athlete/mick-parkin",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 11: Rafael Dos Anjos vs. Alexander Hernandez",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Rafael Dos Anjos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/5/DOS_ANJOS_RAFAEL_L_12-03.png?itok=yp2ViwgI",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/rafael-dos-anjos",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Alexander Hernandez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/HERNANDEZ_ALEXANDER_R_04-25.png?itok=3G3KJcyi",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/alexander-hernandez",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 12: Marvin Vettori vs. Ismail Naurdiev",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Marvin Vettori",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/VETTORI_MARVIN_L_12-06.png?itok=PW8ISl7u",
+      "country": "Italy",
+      "ufc_profile": "https://www.ufc.com/athlete/marvin-vettori",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ismail Naurdiev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-11/NAURDIEV_ISMAIL_R_10-26.png?itok=Z3iuHwEd",
+      "country": "Morocco",
+      "ufc_profile": "https://www.ufc.com/athlete/ismail-naurdiev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 13: Court Mcgee vs. Eric Nolan",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Court Mcgee",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-10/MCGEE_COURT_L_10-05.png?itok=neZczUdE",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/court-mcgee",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Eric Nolan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/NOLAN_ERIC_R_06-27.png?itok=r8g29eqf",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/eric-nolan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 9: Anthony Wint vs. Lucas Armand",
+    "date": "Sat, Oct 3, 7:00 PM CDT",
+    "location": "Delta Center, Salt Lake City United States",
+    "fighter1": {
+      "name": "Anthony Wint",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/WINT_ANTHONY_L_08-22.png?itok=xWUSNw1q",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/anthony-wint",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Lucas Armand",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "country": "",
+      "ufc_profile": "https://www.ufc.com/athlete/lucas-armand",
+      "score": "0.0",
+      "winner": false
+    }
+  }
 ]
+
 
 }
