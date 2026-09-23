@@ -2638,7 +2638,260 @@
       "winner": false
     }
   }
-]
+],
+"2026-11-14":[
+  {
+    "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Ciryl Gane",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/GANE_CIRYL_L_BELT_01-22.png?itok=QXhpvQW9",
+      "country": "France",
+      "ufc_profile": "https://www.ufc.com/athlete/ciryl-gane",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Josh Hokit",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/HOKIT_JOSH_R_04-11.png?itok=WDowTRJ1",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/josh-hokit",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Title Bout | Fight 2: Kayla Harrison vs. Amanda Nunes",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Kayla Harrison",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/HARRISON_KAYLA_L_BELTMOCK.png?itok=-XWMU7JN",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/kayla-harrison",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Amanda Nunes",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/NUNES_AMANDA_R.png?itok=0Bzy1bDh",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/amanda-nunes",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 3: Caio Borralho vs. Yousri Belgaroui",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Caio Borralho",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/BORRALHO_CAIO_L_03-07.png?itok=XZzf6qOy",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/caio-borralho",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Yousri Belgaroui",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/BELGAROUI_YOUSRI_R_03-28.png?itok=j4xfZKK0",
+      "country": "Netherlands",
+      "ufc_profile": "https://www.ufc.com/athlete/yousri-belgaroui",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 4: Uros Medic vs. Kevin Holland",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Uros Medic",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MEDIC_UROS_L_08-01.png?itok=zwilKCqc",
+      "country": "Serbia",
+      "ufc_profile": "https://www.ufc.com/athlete/uros-medic",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Kevin Holland",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/HOLLAND_KEVIN_R_06-07.png?itok=6HhhRcJ0",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/kevin-holland",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 5: Bilal Hasan vs. Luis Gurule",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Bilal Hasan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/HASAN_BILAL_L_08-29.png?itok=a9CuzxKQ",
+      "country": "Indonesia",
+      "ufc_profile": "https://www.ufc.com/athlete/bilal-hasan",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Luis Gurule",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/GURULE_LUIS_R_09-13.png?itok=ZE3etFBY",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/luis-gurule",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 6: Drew Dober vs. Chris Duncan",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Drew Dober",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/DOBER_DREW_L_03-07.png?itok=u0F2_xRk",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/drew-dober",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Chris Duncan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DUNCAN_CHRIS_R_04-04.png?itok=YU8j0ez-",
+      "country": "Scotland",
+      "ufc_profile": "https://www.ufc.com/athlete/chris-duncan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 7: Stephen Thompson vs. Charles Radtke",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Stephen Thompson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/THOMPSON_STEPHEN_L_07-12.png?itok=Ajtw3HXf",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/stephen-thompson",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Charles Radtke",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/RADTKE_CHARLES_R_05-10.png?itok=xzXwORTy",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/charles-radtke",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 8: Donte Johnson vs. Baisangur Susurkaev",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Donte Johnson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/JOHNSON_DONTE_L_08-15.png?itok=awe7gXvr",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/donte-johnson",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Baisangur Susurkaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/SUSURKAEV_BAISANGUR_L_11-15.png?itok=agTj8rgW",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/baisangur-susurkaev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 9: Jim Miller vs. Terrance Mckinney",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Jim Miller",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/MILLER_JIM_L_05-09.png?itok=SiMm1t27",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/jim-miller",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Terrance Mckinney",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MCKINNEY_TERRANCE_R_07-11.png?itok=02qG21Ri",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/terrance-mckinney",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 10: Macy Chiasson vs. Bia Mesquita",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Macy Chiasson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/CHIASSON_MACY_L_10-04.png?itok=TqnkpI-p",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/macy-chiasson",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Bia Mesquita",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/MESQUITA_BIA_L_10-11.png?itok=VXhZyQHp",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/bia-mesquita",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 11: Adrian Yanez vs. Juan Diaz",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Adrian Yanez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-12/YANEZ_ADRIAN_L_12-14.png?itok=srBVixfR",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/adrian-yanez",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Juan Diaz",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/DIAS_JUAN_R_05-16.png?itok=m9FpleGz",
+      "country": "Peru",
+      "ufc_profile": "https://www.ufc.com/athlete/juan-diaz",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 12: Nazim Sadykhov vs. Jefferson Nascimento",
+    "date": "Sat, Nov 14, 8:00 PM CDT",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Nazim Sadykhov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/SADYKHOV_NAZIM_L_12-06.png?itok=MAI4pwNU",
+      "country": "Azerbaijan",
+      "ufc_profile": "https://www.ufc.com/athlete/nazim-sadykhov",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Jefferson Nascimento",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/NASCIMENTO_JEFFERSON_R_06-27.png?itok=8W8eq1TW",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/jefferson-nascimento",
+      "score": "0.0",
+      "winner": false
+    }
+  
 
 
 }
