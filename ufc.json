@@ -2295,14 +2295,14 @@
       "name": "Fighter portrait of Montel Jackson",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/JACKSON_MONTEL_L_04-25.png?itok=yyPXKtq8",
       "ufc_profile": "https://www.ufc.com/athlete/montel-jackson",
-      "score": "0.0",
+      "score": "1.094",
       "winner": false
     },
     "fighter2": {
       "name": "Ricky Simon",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/SIMON_RICKY_R_06-29.png?itok=jr2lPLOJ",
       "ufc_profile": "https://www.ufc.com/athlete/ricky-simon",
-      "score": "0.0",
+      "score": "0.913",
       "winner": false
     }
   },
@@ -2352,14 +2352,14 @@
       "name": "Vanessa Demopoulos",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-04/DEMOPOULOS_VANESSA_L_04-05.png?itok=VLjHgxVq",
       "ufc_profile": "https://www.ufc.com/athlete/vanessa-demopulos",
-      "score": "0.0",
+      "score": "0.921",
       "winner": false
     },
     "fighter2": {
       "name": "Yazmin Jauregui",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-02/JAUREGUI_YAZMIN_R_02-24.png?itok=4C_17jp-",
       "ufc_profile": "https://www.ufc.com/athlete/yazmin-jauregui",
-      "score": "0.0",
+      "score": "1.084",
       "winner": false
     }
   }
