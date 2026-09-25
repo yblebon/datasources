@@ -4536,5 +4536,23 @@
     "description": "The brand of the missing usb drive",
     "messages": [
     ]
+  },
+  {
+    "name": "Negro de Plantations",
+    "description": "",
+    "messages": [
+      {
+        "text": "Anastasios holds the all-time record for the most total games as a head coach, in the history of the Greek Championship. His most remarkable success was the acquisition of the FIBA Korać Cup title, while with PAOK, in the 1993–94 season.He was also named the Greek League Best Coach in 2014. Markopoulos' son, Charis, is also a professional basketball coach, and former professional basketball player. Soulis Markopoulos died on 25 September 2026, at the age of 77",
+        "sender": "left",
+        "timestamp": "23:59 PM, Sept 25, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Apple",
+        "tags": ["greece", "basketball"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/yRrBU_T1nNuPBqhrCsctQ
+        }
+      }
+    ]
   }
 ]
