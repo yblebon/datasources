@@ -4558,11 +4558,23 @@
         "sender": "left",
         "timestamp": "23:59 PM, Sept 25, 2026",
         "username": "Them",
-        "photoUrl": "https://via.placeholder.com/40?text=Apple",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
         "tags": ["greece", "basketball"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/yRrBU_T1nNuPBqhrCsctQ"
+        }
+      },
+      {
+        "text": "Annette Saint-Pierre was a Canadian educator, writer and publisher. Between 1950 and 1970, Saint-Pierre taught elementary and high school in Manitoba. Saint-Pierre founded several publishing houses, a research centre and a literary magazine with the aim of promoting the French-language literature of Western Canada. In 2004, she was named to the Order of Canada. Saint-Pierre turned 100 on 29 August 2025 and died on 1 September 2026, three days after her 101st birthday.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Sept 01, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "tags": ["canada", "author", "writer", "publisher"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/8c8r99NLfytwTyZZxi9rJ"
         }
       }
     ]
