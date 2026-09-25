@@ -4530,5 +4530,11 @@
         }
       }
     ]
+  },
+  {
+    "name": "USB Stick Brand",
+    "description": "The brand of the missing usb drive",
+    "messages": [
+    ]
   }
 ]
