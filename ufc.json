@@ -2166,7 +2166,7 @@
       "winner": true
     },
     "fighter2": {
-      "name": "Fighter portrait of Raoni Barcelos",
+      "name": "Raoni Barcelos",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BARCELOS_RAONI_R_04-25.png?itok=Ylns3N1J",
       "ufc_profile": "https://www.ufc.com/athlete/raoni-barcelos",
       "score": "1.0",
@@ -2174,11 +2174,11 @@
     }
   },
   {
-    "match_title": "Bantamweight Bout | Fight 8: Fighter portrait of Montel Jackson vs. Ricky Simon",
+    "match_title": "Bantamweight Bout | Fight 8: Montel Jackson vs. Ricky Simon",
     "date": "",
     "location": "Meta APEX, Las Vegas United States",
     "fighter1": {
-      "name": "Fighter portrait of Montel Jackson",
+      "name": "Montel Jackson",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/JACKSON_MONTEL_L_04-25.png?itok=yyPXKtq8",
       "ufc_profile": "https://www.ufc.com/athlete/montel-jackson",
       "score": "1.094",
