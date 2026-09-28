@@ -4619,6 +4619,30 @@
         "type": "xPost",
         "link": "https://x.com/YasserLebon/status/2104622847125774662?s=20"
         }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "19:20 PM, Sep 28, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2104615438109790528?s=20"
+        }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "19:00 PM, Sep 28, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2104496550278045865?s=20"
+        }
       }
     ]
   },
