@@ -2270,7 +2270,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/WALKER_JOHNNY_L_08-23.png?itok=McJFYr4n",
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/johnny-walker",
-      "score": "0.0",
+      "score": "1.037",
       "winner": false
     },
     "fighter2": {
@@ -2278,7 +2278,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/PARKIN_MICK_R_03-22.png?itok=hGjuVIVW",
       "country": "England",
       "ufc_profile": "https://www.ufc.com/athlete/mick-parkin",
-      "score": "0.0",
+      "score": "0.963",
       "winner": false
     }
   },
