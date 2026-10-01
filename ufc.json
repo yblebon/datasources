@@ -2226,7 +2226,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/SILVA_NATALIA_L_01-24.png?itok=Qy3gFmB9",
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/natalia-silva",
-      "score": "0.0",
+      "score": "0.992",
       "winner": false
     },
     "fighter2": {
@@ -2234,7 +2234,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/CONG_WANG_R_07-11.png?itok=Vg-5jO1x",
       "country": "China",
       "ufc_profile": "https://www.ufc.com/athlete/wang-cong",
-      "score": "0.0",
+      "score": "1.00",
       "winner": false
     }
   },
@@ -2248,7 +2248,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/PINAS_DAMIAN_L_07-11.png?itok=pAu6EpFH",
       "country": "Aruba",
       "ufc_profile": "https://www.ufc.com/athlete/damian-pinas",
-      "score": "0.0",
+      "score": "1.019",
       "winner": false
     },
     "fighter2": {
@@ -2256,7 +2256,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/PULYAEV_ANDREY_R_03-22.png?itok=k_ywuCt3",
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/andrey-pulyaev",
-      "score": "0.0",
+      "score": "0.981",
       "winner": false
     }
   },
@@ -2292,7 +2292,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/VETTORI_MARVIN_L_12-06.png?itok=PW8ISl7u",
       "country": "Italy",
       "ufc_profile": "https://www.ufc.com/athlete/marvin-vettori",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     },
     "fighter2": {
@@ -2300,7 +2300,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-11/NAURDIEV_ISMAIL_R_10-26.png?itok=Z3iuHwEd",
       "country": "Morocco",
       "ufc_profile": "https://www.ufc.com/athlete/ismail-naurdiev",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     }
   }
