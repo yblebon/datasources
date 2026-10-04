@@ -2227,7 +2227,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/natalia-silva",
       "score": "0.992",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Wang Cong",
@@ -2249,7 +2249,7 @@
       "country": "Aruba",
       "ufc_profile": "https://www.ufc.com/athlete/damian-pinas",
       "score": "1.019",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Andrey Pulyaev",
@@ -2271,7 +2271,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/johnny-walker",
       "score": "1.037",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Mick Parkin",
@@ -2301,7 +2301,7 @@
       "country": "Morocco",
       "ufc_profile": "https://www.ufc.com/athlete/ismail-naurdiev",
       "score": "1.0",
-      "winner": false
+      "winner": true
     }
   }
 ],
