@@ -1452,6 +1452,47 @@
     ]
   },
   {
+    "name": "Dynamic",
+    "messages": [
+      {
+        "text": "La rivière Cávado divise la municipalité de Barcelos en deux environ, sur son chemin vers l'Atlantique. Ce parcours baigne 14 paroisses créant, le long de ces espaces à fort potentiel touristique, des lieux d'accès piétons, à travers des itinéraires naturels dotés d'une beauté singulière.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Oct 30, 2026",
+        "username": "art",
+        "photoUrl": "https://via.placeholder.com/40?text=art",
+        "tags": ["portugal", "tragic"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/cZUNfUDXTAeRUha_Z2h-_"
+        }
+      },
+      {
+        "text": "Prainha est une crique charmante qui, comme la plupart des choses charmantes, est difficile d'accès. Pas de parking proche, il faut bien connaître pour trouver puis traverser le village touristique de Prainha, dont les occupants constituent la majorité des visiteurs de la plage.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Sept 30, 2026",
+        "username": "art",
+        "photoUrl": "https://via.placeholder.com/40?text=art",
+        "tags": ["portugal", "tragic"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/QzABhKCwA-bxZXUAuOu_c"
+        }
+      },
+      {
+        "text": "La magnifique plage de Pintadinho près de Ferragudo est située à environ 10 minutes à l’ouest de Carvoeiro. Il s’agit d’un endroit idéal pour commencer des cours de plongée ou perfectionner vos compétences, avec une profondeur maximale de 10 mètres.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Sept 27, 2026",
+        "username": "art",
+        "photoUrl": "https://via.placeholder.com/40?text=art",
+        "tags": ["portugal", "tragic"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/tFqxc3r-ggTNPHGv6k0dX"
+        }
+      }
+    ]
+  },
+  {
     "name": "Thousands Of Words",
     "messages": [
       {
