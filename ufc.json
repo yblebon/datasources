@@ -2310,6 +2310,7 @@
     "match_title": "Middleweight Bout | Fight 1: Brendan Allen vs. Christian Leroy Duncan",
     "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
     "location": "Meta APEX, Las Vegas United States",
+    "youtube": "https://www.youtube.com/watch?v=LgYgd1abn9U",
     "fighter1": {
       "name": "Brendan Allen",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/ALLEN_BRENDAN_L_06-06.png?itok=cjSneQ6n",
@@ -2373,6 +2374,7 @@
     "match_title": "Featherweight Bout | Fight 4: Andre Fili vs. Kai Kamaka",
     "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
     "location": "Meta APEX, Las Vegas United States",
+    "youtube": "https://www.youtube.com/watch?v=4uGK1VantX4",
     "fighter1": {
       "name": "Andre Fili",
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/FILI_ANDRE_L_03-14.png?itok=EI8OaSkp",
