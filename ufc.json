@@ -2316,7 +2316,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/ALLEN_BRENDAN_L_06-06.png?itok=cjSneQ6n",
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/brendan-allen",
-      "score": "0.0",
+      "score": "0.949",
       "winner": false
     },
     "fighter2": {
@@ -2324,7 +2324,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/DUNCAN_CHRISTIAN_LEROY_R_07-18.png?itok=-Qt73IKv",
       "country": "England",
       "ufc_profile": "https://www.ufc.com/athlete/christian-leroy-duncan",
-      "score": "0.0",
+      "score": "1.053",
       "winner": false
     }
   },
