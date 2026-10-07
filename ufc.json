@@ -2305,6 +2305,260 @@
     }
   }
 ],
+"2026-10-10": [
+  {
+    "match_title": "Middleweight Bout | Fight 1: Brendan Allen vs. Christian Leroy Duncan",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Brendan Allen",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/ALLEN_BRENDAN_L_06-06.png?itok=cjSneQ6n",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/brendan-allen",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Christian Leroy Duncan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/DUNCAN_CHRISTIAN_LEROY_R_07-18.png?itok=-Qt73IKv",
+      "country": "England",
+      "ufc_profile": "https://www.ufc.com/athlete/christian-leroy-duncan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 2: Matheus Camilo vs. Jai Herbert",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Matheus Camilo",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/CAMILO_MATHEUS_R.png?itok=2DfH0HEr",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/matheus-camilo",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Jai Herbert",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/HERBERT_JAI_R_04-18.png?itok=_2rjWA4-",
+      "country": "England",
+      "ufc_profile": "https://www.ufc.com/athlete/jai-herbert",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Strawweight Bout | Fight 3: Loopy Godinez vs. Ketlen Souza",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Loopy Godinez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/GODINEZ_LOOPY_L_03-29.png?itok=oWRCjGaO",
+      "country": "Mexico",
+      "ufc_profile": "https://www.ufc.com/athlete/loopy-godinez",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ketlen Souza",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/SOUZA_KETLEN_R_02-07.png?itok=FjVgpmuV",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/ketlen-souza",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 4: Andre Fili vs. Kai Kamaka",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Andre Fili",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/FILI_ANDRE_L_03-14.png?itok=EI8OaSkp",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/andre-fili",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Kai Kamaka",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/KAMAKA_KAI_R_07-11.png?itok=YvgMgAXn",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/kai-kamaka",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 5: Malcolm Wellmaker vs. Otari Tanzilovi",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Malcolm Wellmaker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/WELLMAKER_MALCOM_L_05-16.png?itok=dEafqrQy",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/malcolm-wellmaker",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Otari Tanzilovi",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/TANZILOVI_OTARI_R_06-20.png?itok=ZniOIwvD",
+      "country": "Georgia",
+      "ufc_profile": "https://www.ufc.com/athlete/otari-tanzilovi",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 6: Julius Walker vs. Gerald Meerschaert",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Julius Walker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/WALKER_JULIUS_L_08-09.png?itok=qDUL7Dmb",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/julius-walker",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Gerald Meerschaert",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/MEERSCHAERT_GERALD_R_05-02.png?itok=FAxnnhKv",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/gerald-meerschaert",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 7: Francisco Prado vs. Ismael Bonfim",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Francisco Prado",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/PRADO_FRANCISCO_L_07-19.png?itok=C0_X1OYl",
+      "country": "Argentina",
+      "ufc_profile": "https://www.ufc.com/athlete/francisco-prado",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ismael Bonfim",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/BONFIM_ISMAEL_R_11-08.png?itok=paipEYll",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/ismael-bonfim",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 8: Niko Price vs. Leon Shahbazyan",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Niko Price",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/PRICE_NIKO_L_06-28.png?itok=0HLKEtKC",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/niko-price",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Leon Shahbazyan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/SHAHBAZYAN_LEON_L_06-20.png?itok=0BDlzTa8",
+      "country": "Armenia",
+      "ufc_profile": "https://www.ufc.com/athlete/leon-shahbazyan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 9: Felipe Franco vs. Brendson Ribeiro",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Felipe Franco",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/FRANCO_FELIPE_R_03-21.png?itok=Pb4xswY2",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/felipe-franco",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Brendson Ribeiro",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/RIBEIRO_BRENDSON_R_07-25.png?itok=c31-UgFp",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/brendson-ribeiro",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 10: Allen Frye Jr vs. Rj Harris",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Allen Frye Jr",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/FRYE_ALLEN_L_12-13.png?itok=SBzhvOqV",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/allen-frye-jr",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Rj Harris",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/HARRIS_RJ_L_07-18.png?itok=D1Bf-wPO",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/rj-harris",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 11: Alice Pereira vs. Dariya Zheleznyakova",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Alice Pereira",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/PEREIRA_ALICE_L_04-04.png?itok=A45X3rs7",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/alice-pereira",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Dariya Zheleznyakova",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/ZHELEZNIAKOVA_DARIA_R_04-18.png?itok=0CG0RrC_",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/dariya-zheleznyakova",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Flyweight Bout | Fight 12: Ernesta Kareckaite vs. Melissa Gatto",
+    "date": "Sat, Oct 10, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Ernesta Kareckaite",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/9/KARECKAITE_ERNESTA_L_01-11.png?itok=P9bM3yQi",
+      "country": "Lithuania",
+      "ufc_profile": "https://www.ufc.com/athlete/ernesta-kareckaite",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Melissa Gatto",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/GATTO_MELISSA_R_04-04.png?itok=xPWhL6mM",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/melissa-gatto",
+      "score": "0.0",
+      "winner": false
+    }
+  }
+],
 "2026-11-14":[
   {
     "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
