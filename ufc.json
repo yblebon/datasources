@@ -2338,7 +2338,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/FILI_ANDRE_L_03-14.png?itok=EI8OaSkp",
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/andre-fili",
-      "score": "0.0",
+      "score": "1.072",
       "winner": false
     },
     "fighter2": {
@@ -2346,7 +2346,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/KAMAKA_KAI_R_07-11.png?itok=YvgMgAXn",
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/kai-kamaka",
-      "score": "0.0",
+      "score": "0.932",
       "winner": false
     }
   },
@@ -2359,7 +2359,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/PEREIRA_ALICE_L_04-04.png?itok=A45X3rs7",
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/alice-pereira",
-      "score": "0.0",
+      "score": "1.044",
       "winner": false
     },
     "fighter2": {
@@ -2367,7 +2367,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/ZHELEZNIAKOVA_DARIA_R_04-18.png?itok=0CG0RrC_",
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/dariya-zheleznyakova",
-      "score": "0.0",
+      "score": "0.957",
       "winner": false
     }
   }
