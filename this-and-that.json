@@ -735,10 +735,22 @@
         "timestamp": "23:59 PM, Sept 29, 2026",
         "username": "Them",
         "photoUrl": "https://via.placeholder.com/40?text=Them",
-        "tags": ["Kalki Bhagwan", "robert baratheon"],
+        "tags": ["Kalki Bhagwan", "Khal Drogo"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/bGst9GnEkOxDixbjSaHyz"
+        }
+      },
+      {
+        "text": "'Bachir’s memoir is a vivid testament to his remarkable journey through life, interwoven with stories of his interactions with some of Hollywood’s most iconic names. However, Bachir’s story isn’t confined to the glamour of Hollywood. An accomplished entrepreneur, he made his mark in publishing as the publisher of Canada’s first consumer video magazine, Videomania, and founded the trade publication Premiere. His 16-year tenure as the president of Cineplex Media and head of Cineplex Magazine, with over 4.3 million readers per issue at its zenith, speaks volumes of his influence.'",
+        "sender": "left",
+        "timestamp": "23:59 PM, Oct 08, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "tags": ["salah bachir", "robert baratheon"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/LRmD68tX42hK33sBqaM7N"
         }
       }
     ]
@@ -4482,6 +4494,24 @@
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/b3HXVXym2oNZCqOwSOVws"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Motherfuckers",
+    "description": "A vulgar English slang term for a mean, despicable, or vicious person, or a very difficult, frustrating, or intense situation or object.",
+    "messages": [
+      {
+        "text": "At the time of her death, Saint was one of the earliest and oldest living Academy Award winners and one of the last surviving stars from the Golden Age of Hollywood. In 1986, Saint returned to the big screen for the first time in over a decade in Nothing in Common, in which she played the mother of Tom Hanks's character; it was directed by Garry Marshall.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Oct 05, 2026",
+        "username": "Them",
+        "tags": ["mf"],
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/file/YYrexTM3w_Zfe51W4jYBl"
         }
       }
     ]
