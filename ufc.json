@@ -2382,7 +2382,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/BUCKLEY_JOAQUIN_L_05-11.png?itok=bprERCvC",
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/joaquin-buckley",
-      "score": "0.0",
+      "score": "1.040",
       "winner": false
     },
     "fighter2": {
@@ -2390,7 +2390,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/MALOTT_MIKE_R_04-18.png?itok=GoMs8zVq",
       "country": "Canada",
       "ufc_profile": "https://www.ufc.com/athlete/mike-malott",
-      "score": "0.0",
+      "score": "0.96",
       "winner": false
     }
   },
