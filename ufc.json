@@ -2317,7 +2317,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/brendan-allen",
       "score": "0.949",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Christian Leroy Duncan",
@@ -2339,7 +2339,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/andre-fili",
       "score": "1.072",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Kai Kamaka",
@@ -2360,7 +2360,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/alice-pereira",
       "score": "1.044",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Dariya Zheleznyakova",
