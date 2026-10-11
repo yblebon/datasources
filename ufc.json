@@ -2487,7 +2487,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/NALLO_MANDEL_L_04-18.png?itok=3tfqsJM2",
       "country": "Canada",
       "ufc_profile": "https://www.ufc.com/athlete/mandel-nallo",
-      "score": "0.0",
+      "score": "1.04",
       "winner": false
     },
     "fighter2": {
@@ -2495,7 +2495,7 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/LANDWEHR_NATE_R_04-11.png?itok=6tYHw-sB",
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/nate-landwehr",
-      "score": "0.0",
+      "score": "0.96",
       "winner": false
     }
   },
