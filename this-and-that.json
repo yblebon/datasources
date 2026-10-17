@@ -4907,6 +4907,30 @@
       {
         "text": "",
         "sender": "left",
+        "timestamp": "23:59 AM, Oct 11, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2109306062985658678?s=20"
+        }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "11:50 AM, Oct 14, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2110365441793159225?s=20"
+        }
+      },
+      {
+        "text": "",
+        "sender": "left",
         "timestamp": "11:50 AM, Oct 15, 2026",
         "username": "X",
         "photoUrl": "https://via.placeholder.com/40?text=X",
@@ -4914,6 +4938,30 @@
         "attachment": {
         "type": "xPost",
         "link": "https://x.com/YasserLebon/status/2106661777979441385?s=20"
+        }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "11:50 AM, Oct 16, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2111160517288972770?s=20"
+        }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "11:00 AM, Oct 17, 2026",
+        "username": "X",
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2110648581413572845?s=20"
         }
       }
     ]
