@@ -2498,7 +2498,7 @@
       "country": "England",
       "ufc_profile": "https://www.ufc.com/athlete/loneer-kavanagh",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5147737/loneer-kavanagh",
-      "score": "0.0",
+      "score": "0.940",
       "winner": false
     },
     "fighter2": {
@@ -2507,7 +2507,7 @@
       "country": "Uzbekistan",
       "ufc_profile": "https://www.ufc.com/athlete/ramazan-temirov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4895691/ramazan-temirov",
-      "score": "0.0",
+      "score": "0.940",
       "winner": false
     }
   },
