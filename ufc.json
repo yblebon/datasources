@@ -2392,7 +2392,7 @@
       "country": "Canada",
       "ufc_profile": "https://www.ufc.com/athlete/mike-malott",
       "score": "0.96",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2406,7 +2406,7 @@
       "country": "Canada",
       "ufc_profile": "https://www.ufc.com/athlete/mandel-nallo",
       "score": "1.04",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Nate Landwehr",
