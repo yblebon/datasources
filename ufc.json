@@ -2429,7 +2429,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/petr-yan",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4293517/petr-yan",
-      "score": "0.0",
+      "score": "0.985",
       "winner": false
     },
     "fighter2": {
@@ -2438,7 +2438,7 @@
       "country": "Georgia",
       "ufc_profile": "https://www.ufc.com/athlete/merab-dvalishvili",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3948572/merab-dvalishvili",
-      "score": "0.0",
+      "score": "1.01",
       "winner": false
     }
   },
