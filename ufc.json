@@ -2475,7 +2475,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/azamat-murzakanov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4227265/azamat-murzakanov",
-      "score": "0.0",
+      "score": "0.928",
       "winner": false
     },
     "fighter2": {
@@ -2484,7 +2484,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/dominick-reyes",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4233039/dominick-reyes",
-      "score": "0.0",
+      "score": "1.077",
       "winner": false
     }
   },
