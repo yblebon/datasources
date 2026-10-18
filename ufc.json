@@ -2418,6 +2418,261 @@
     }
   }
 ],
+"2026-10-24":[
+  {
+    "match_title": "Bantamweight Title Bout | Fight 2: Petr Yan vs. Merab Dvalishvili",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Petr Yan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/YAN_PETR_L_BELT_04-09.png?itok=JNq7gX3A",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/petr-yan",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4293517/petr-yan",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Merab Dvalishvili",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2022-08/DVALISHVILI_MERAB_R_08-20.png?itok=zSea1zIt",
+      "country": "Georgia",
+      "ufc_profile": "https://www.ufc.com/athlete/merab-dvalishvili",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3948572/merab-dvalishvili",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Featherweight Title Bout | Fight 1: Alexander Volkanovski vs. Movsar Evloev",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Alexander Volkanovski",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/VOLKANOVSKI_ALEXANDER_L_BELT_01-31.png?itok=3qNxrgq4",
+      "country": "Australia",
+      "ufc_profile": "https://www.ufc.com/athlete/alexander-volkanovski",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3949584/alexander-volkanovski",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Movsar Evloev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/EVLOEV_MOVSAR_R_01-20.png?itok=cpiJumzn",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/movsar-evloev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4029275/movsar-evloev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 6: Azamat Murzakanov vs. Dominick Reyes",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Azamat Murzakanov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/MURZAKANOV_AZAMAT_L_04-11.png?itok=Ivep7_PI",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/azamat-murzakanov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4227265/azamat-murzakanov",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Dominick Reyes",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/REYES_DOMINICK_R_09-27.png?itok=Svdf4K4D",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/dominick-reyes",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4233039/dominick-reyes",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 3: Loneer Kavanagh vs. Ramazan Temirov",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Loneer Kavanagh",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/KAVANAGH_LONEER_L_03-22.png?itok=_veRL6Og",
+      "country": "England",
+      "ufc_profile": "https://www.ufc.com/athlete/loneer-kavanagh",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5147737/loneer-kavanagh",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ramazan Temirov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/TEMIROV_RAMAZAN_R_07-25.png?itok=mTV8xLSo",
+      "country": "Uzbekistan",
+      "ufc_profile": "https://www.ufc.com/athlete/ramazan-temirov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4895691/ramazan-temirov",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 7: Nikita Krylov vs. Abdulrakhman Yakhyaev",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Nikita Krylov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/KRYLOV_NIKITA_L_07-11.png?itok=QAVNE3gG",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/nikita-krylov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3026263/nikita-krylov",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Abdulrakhman Yakhyaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/YAKHYAEV_ABDUL_RAKHMAN_L_06-27.png?itok=5uUIUgLu",
+      "country": "Turkey",
+      "ufc_profile": "https://www.ufc.com/athlete/abdulrakhman-yakhyaev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5291025/abdul-rakhman-yakhyaev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 4: Alexander Volkov vs. Rizvan Kuniev",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Alexander Volkov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/VOLKOV_ALEXANDER_L_05-09.png?itok=kdHGCtDI",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/alexander-volkov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/2993650/alexander-volkov",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Rizvan Kuniev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/KUNIEV_RIZVAN_R_02-07.png?itok=qMQIRmwO",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/rizvan-kuniev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4001837/rizvan-kuniev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 8: Abus Magomedov vs. Cam Rowston",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Abus Magomedov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/MAGOMEDOV_ABUS_L_06-27.png?itok=xmOlGKCh",
+      "country": "Germany",
+      "ufc_profile": "https://www.ufc.com/athlete/abus-magomedov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3077822/abus-magomedov",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Cam Rowston",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/ROWSTON_CAM_L_05-02.png?itok=JIk0-RqX",
+      "country": "Australia",
+      "ufc_profile": "https://www.ufc.com/athlete/cam-rowston",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4694832/cam-rowston",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 11: Abubakar Vagaev vs. Jacob Malkoun",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Abubakar Vagaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/VAGAEV_ABUBAKAR_L_07-25.png?itok=zGrbs9xS",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/abubakar-vagaev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3960340/abubakar-vagaev",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Jacob Malkoun",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/MALKOUN_JACOB_R_01-31.png?itok=QRiNqiy2",
+      "country": "Australia",
+      "ufc_profile": "https://www.ufc.com/athlete/jacob-malkoun",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4687434/jacob-malkoun",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 5: Aaron Pico vs. Losene Keita",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Aaron Pico",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/PICO_AARON_R_08-16.png?itok=c4FjhSRf",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/aaron-pico",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4199009/aaron-pico",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Losene Keita",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/KEITA_LOSENE_R_03-21.png?itok=FsuKPcwQ",
+      "country": "Belgium",
+      "ufc_profile": "https://www.ufc.com/athlete/losene-keita",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5192314/losene-keita",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 9: Grant Dawson vs. Nurullo Aliev",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Grant Dawson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/DAWSON_GRANT_L_05-09.png?itok=aw_R2HhN",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/grant-dawson",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3931156/grant-dawson",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Nurullo Aliev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/2/ALIEV_NURULLO_R_01-11.png?itok=CbowQZhN",
+      "country": "Tajikistan",
+      "ufc_profile": "https://www.ufc.com/athlete/nurullo-aliev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5092398/nurullo-aliev",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 10: Colby Thicknesse vs. Asaf Chopurov",
+    "date": "Sat, Oct 24, 1:00 PM CDT",
+    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
+    "fighter1": {
+      "name": "Colby Thicknesse",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/THICKNESSE_COLBY_L_05-02.png?itok=yt5lSRWc",
+      "country": "Australia",
+      "ufc_profile": "https://www.ufc.com/athlete/colby-thicknesse",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5264462/colby-thicknesse",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Asaf Chopurov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "country": "",
+      "ufc_profile": "https://www.ufc.com/athlete/asaf-chopurov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5454811/asaf-chopurov",
+      "score": "0.0",
+      "winner": false
+    }
+  }
+],
 "2026-11-14":[
   {
     "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
