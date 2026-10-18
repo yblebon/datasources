@@ -2544,7 +2544,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/alexander-volkov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/2993650/alexander-volkov",
-      "score": "0.0",
+      "score": "1.052",
       "winner": false
     },
     "fighter2": {
@@ -2553,7 +2553,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/rizvan-kuniev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4001837/rizvan-kuniev",
-      "score": "0.0",
+      "score": "0.949",
       "winner": false
     }
   },
