@@ -2521,7 +2521,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/nikita-krylov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3026263/nikita-krylov",
-      "score": "0.0",
+      "score": "0.993",
       "winner": false
     },
     "fighter2": {
@@ -2530,7 +2530,7 @@
       "country": "Turkey",
       "ufc_profile": "https://www.ufc.com/athlete/abdulrakhman-yakhyaev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5291025/abdul-rakhman-yakhyaev",
-      "score": "0.0",
+      "score": "1.006",
       "winner": false
     }
   },
