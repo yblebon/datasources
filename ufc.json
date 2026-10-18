@@ -2452,7 +2452,7 @@
       "country": "Australia",
       "ufc_profile": "https://www.ufc.com/athlete/alexander-volkanovski",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3949584/alexander-volkanovski",
-      "score": "0.0",
+      "score": "0.985",
       "winner": false
     },
     "fighter2": {
@@ -2461,7 +2461,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/movsar-evloev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4029275/movsar-evloev",
-      "score": "0.0",
+      "score": "1.014",
       "winner": false
     }
   },
