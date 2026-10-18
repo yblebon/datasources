@@ -2567,7 +2567,7 @@
       "country": "Germany",
       "ufc_profile": "https://www.ufc.com/athlete/abus-magomedov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3077822/abus-magomedov",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     },
     "fighter2": {
@@ -2576,7 +2576,7 @@
       "country": "Australia",
       "ufc_profile": "https://www.ufc.com/athlete/cam-rowston",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4694832/cam-rowston",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     }
   },
