@@ -2590,7 +2590,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/abubakar-vagaev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3960340/abubakar-vagaev",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     },
     "fighter2": {
@@ -2599,7 +2599,7 @@
       "country": "Australia",
       "ufc_profile": "https://www.ufc.com/athlete/jacob-malkoun",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4687434/jacob-malkoun",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     }
   },
