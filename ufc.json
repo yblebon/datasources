@@ -2430,7 +2430,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/petr-yan",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4293517/petr-yan",
       "score": "0.985",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Merab Dvalishvili",
@@ -2453,7 +2453,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/alexander-volkanovski",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3949584/alexander-volkanovski",
       "score": "0.985",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Movsar Evloev",
@@ -2485,7 +2485,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/dominick-reyes",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4233039/dominick-reyes",
       "score": "1.077",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2499,7 +2499,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/loneer-kavanagh",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5147737/loneer-kavanagh",
       "score": "0.940",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Ramazan Temirov",
@@ -2531,7 +2531,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/abdulrakhman-yakhyaev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5291025/abdul-rakhman-yakhyaev",
       "score": "1.006",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2545,7 +2545,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/alexander-volkov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/2993650/alexander-volkov",
       "score": "1.052",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Rizvan Kuniev",
@@ -2568,7 +2568,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/abus-magomedov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3077822/abus-magomedov",
       "score": "1.0",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Cam Rowston",
@@ -2591,7 +2591,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/abubakar-vagaev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3960340/abubakar-vagaev",
       "score": "1.0",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Jacob Malkoun",
@@ -2613,8 +2613,8 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/aaron-pico",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4199009/aaron-pico",
-      "score": "0.0",
-      "winner": false
+      "score": "0.979",
+      "winner": true
     },
     "fighter2": {
       "name": "Losene Keita",
@@ -2622,7 +2622,7 @@
       "country": "Belgium",
       "ufc_profile": "https://www.ufc.com/athlete/losene-keita",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5192314/losene-keita",
-      "score": "0.0",
+      "score": "1.021",
       "winner": false
     }
   },
@@ -2636,8 +2636,8 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/grant-dawson",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3931156/grant-dawson",
-      "score": "0.0",
-      "winner": false
+      "score": "1.0",
+      "winner": true
     },
     "fighter2": {
       "name": "Nurullo Aliev",
@@ -2645,30 +2645,7 @@
       "country": "Tajikistan",
       "ufc_profile": "https://www.ufc.com/athlete/nurullo-aliev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5092398/nurullo-aliev",
-      "score": "0.0",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Bantamweight Bout | Fight 10: Colby Thicknesse vs. Asaf Chopurov",
-    "date": "Sat, Oct 24, 1:00 PM CDT",
-    "location": "Etihad Arena, Yas Island/Yas West United Arab Emirates",
-    "fighter1": {
-      "name": "Colby Thicknesse",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/THICKNESSE_COLBY_L_05-02.png?itok=yt5lSRWc",
-      "country": "Australia",
-      "ufc_profile": "https://www.ufc.com/athlete/colby-thicknesse",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5264462/colby-thicknesse",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Asaf Chopurov",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
-      "country": "",
-      "ufc_profile": "https://www.ufc.com/athlete/asaf-chopurov",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5454811/asaf-chopurov",
-      "score": "0.0",
+      "score": "1.0",
       "winner": false
     }
   }
