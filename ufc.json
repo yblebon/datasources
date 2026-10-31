@@ -2652,6 +2652,77 @@
 ],
 "2026-11-14":[
   {
+    "match_title": "Lightweight Bout | Fight 1: Renato Moicano vs. Tom Nolan",
+    "date": "Sat, Oct 31, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Renato Moicano",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-10/MOICANO_RENATO_L_10-31.png?itok=pQRt8fI4",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/renato-moicano",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3028863/renato-moicano",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Tom Nolan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-10/NOLAN_TOM_R_10-31.png?itok=C6Z1VWZn",
+      "country": "Australia",
+      "ufc_profile": "https://www.ufc.com/athlete/tom-nolan",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144007/tom-nolan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Strawweight Bout | Fight 11: Talita Alencar vs. Piera Rodriguez",
+    "date": "Sat, Oct 31, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Talita Alencar",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-10/ALENCAR_TALITA_L_10-31.png?itok=A4SFVxSA",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/talita-alencar",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5139556/talita-alencar",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Piera Rodriguez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-10/RODRIGUEZ_PIERA_R_10-31.png?itok=pC9KSh7T",
+      "country": "Venezuela",
+      "ufc_profile": "https://www.ufc.com/athlete/piera-rodriguez",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4816066/piera-rodriguez",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 4: Yana Santos vs. Luana Santos",
+    "date": "Sat, Oct 31, 2026, 7:00 PM CDT",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Yana Santos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-10/SANTOS_YANA_L_10-31.png?itok=3QGE8kte",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/yana-santos",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3154898/yana-santos",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Luana Santos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-10/SANTOS_LUANA_R_10-31.png?itok=gxDAO06V",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/luana-santos",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5110469/luana-santos",
+      "score": "0.0",
+      "winner": false
+    }
+  }
+],
+"2026-11-14":[
+  {
     "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
     "date": "Sat, Nov 14, 8:00 PM CDT",
     "location": "Madison Square Garden, New York United States",
