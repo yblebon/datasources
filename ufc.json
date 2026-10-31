@@ -2661,7 +2661,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/renato-moicano",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3028863/renato-moicano",
-      "score": "0.0",
+      "score": "0.986",
       "winner": false
     },
     "fighter2": {
@@ -2670,7 +2670,7 @@
       "country": "Australia",
       "ufc_profile": "https://www.ufc.com/athlete/tom-nolan",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144007/tom-nolan",
-      "score": "0.0",
+      "score": "1.013",
       "winner": false
     }
   },
@@ -2684,7 +2684,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/talita-alencar",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5139556/talita-alencar",
-      "score": "0.0",
+      "score": "0.921",
       "winner": false
     },
     "fighter2": {
@@ -2693,7 +2693,7 @@
       "country": "Venezuela",
       "ufc_profile": "https://www.ufc.com/athlete/piera-rodriguez",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4816066/piera-rodriguez",
-      "score": "0.0",
+      "score": "1.085",
       "winner": false
     }
   },
@@ -2707,7 +2707,7 @@
       "country": "Russia",
       "ufc_profile": "https://www.ufc.com/athlete/yana-santos",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3154898/yana-santos",
-      "score": "0.0",
+      "score": "1.014",
       "winner": false
     },
     "fighter2": {
@@ -2716,7 +2716,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/luana-santos",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5110469/luana-santos",
-      "score": "0.0",
+      "score": "0.985",
       "winner": false
     }
   }
