@@ -2671,7 +2671,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/tom-nolan",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144007/tom-nolan",
       "score": "1.013",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2694,7 +2694,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/piera-rodriguez",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4816066/piera-rodriguez",
       "score": "1.085",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2717,7 +2717,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/luana-santos",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5110469/luana-santos",
       "score": "0.985",
-      "winner": false
+      "winner": true
     }
   }
 ],
