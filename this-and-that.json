@@ -3418,6 +3418,8 @@
   },
    {
     "name": "'Boss' Awards",
+    "photoUrl": "https://storage.yasserblebon.com/api/file/wzyPtZxz8xRcv70lCucsI",
+    "description": "To remember and honor ground-breaking, purpose-driven contributions to the society",
     "messages": [
       {
         "text": "Greg Hyman, an electronics wizard and toy inventor who was a creator of Tickle Me Elmo, the giggling red plush Muppet that crushed sales records when it appeared in 1996. After Tyco Toys won the license to produce plush toys based on Sesame Street, Dubren and Hyman focused on developing an Elmo toy, which would vibrate three times and say 'That Tickles!' when squeezed",
@@ -3662,6 +3664,18 @@
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/0ML1vGOKpsQLaNFBSyMb9"
+        }
+      },
+      {
+        "text": "Nadia Santini was an Italian chef, best known for her restaurant Dal Pescatore, in Canneto sull'Oglio, Lombardy which has held three Michelin stars since 1996. Nadia Santini’s cuisine was of exemplary quality and simplicity, which is why Paul Bocuse had chosen her as his favourite chef, a star amongst stars. With very few exceptions, she was there every single day of the year in the kitchen at Il Pescatore, and the customers knew this; they knew that every dish that came out of the kitchen bore her unmistakable signature. Nadia Santini has always said that a meeting that proved decisive for her was the one with Mario Lodi, the primary school teacher from Piadena who embodied the local culture and educational ideals. Another key factor was her family, to whom Nadia Santini devoted her life with determination and joy. The Dal Pescatore restaurant is a true gem for the family and for families, where the legacy of love has consistently evolved into professionalism and creativity.",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 02 2026",
+        "username": "Winner",
+        "photoUrl": "https://via.placeholder.com/40?text=Winner",
+        "tags": ["polish", "ww2", "lutak"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/5PzfqCmgMbELfTAcuwCRc"
         }
       }
     ]
