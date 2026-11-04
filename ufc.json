@@ -2721,6 +2721,331 @@
     }
   }
 ],
+"2026-11-07": [
+  {
+    "match_title": "Welterweight Bout | Fight 13: Seokhyeon Ko vs. Wellington Turman",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Seokhyeon Ko",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/KO_SEOKHYEON_L_06-21.png?itok=0TbU7QQZ",
+      "country": "South Korea",
+      "ufc_profile": "https://www.ufc.com/athlete/seokhyeon-ko",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4701954/seokhyeon-ko",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Wellington Turman",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/TURMAN_WELLINGTON_R_07-25.png?itok=edl-tevT",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/wellington-turman",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4426282/wellington-turman",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 12: Mantas Kondratavicius vs. Andre Petroski",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Mantas Kondratavicius",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/KONDRATAVICIUS_MANTAS_L_03-21.png?itok=WqKzfr3y",
+      "country": "Lithuania",
+      "ufc_profile": "https://www.ufc.com/athlete/mantas-kondratavicius",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5264925/mantas-kondratavicius",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Andre Petroski",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/PETROSKI_ANDRE_R_05-16.png?itok=h8TtwACb",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/andre-petroski",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4697476/andre-petroski",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 10: Jose Delano vs. Murtazali Magomedov",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Jose Delano",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DELANO_JOSE_L_04-04.png?itok=nfHIiHT7",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/jose-delano",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4969974/jose-delano",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Murtazali Magomedov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/MAGOMEDOV_MURTAZLI_R_06-20.png?itok=o6w6Qpv4",
+      "country": "Kyrgyzstan",
+      "ufc_profile": "https://www.ufc.com/athlete/murtazali-magomedov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5308768/murtazali-magomedov",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 11: Austin Bashi vs. Lucas Brennan",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Austin Bashi",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/BASHI_AUSTIN_L_07-18.png?itok=tlXBt4Gd",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/austin-bashi",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5120304/austin-bashi",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Lucas Brennan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BRENNAN_LUCAS_R_04-25.png?itok=Nr91asmQ",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/lucas-brennan",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4795284/lucas-brennan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Flyweight Bout | Fight 9: Karine Silva vs. Gabriella Fernandes",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Karine Silva",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/SILVA_KARINE_L_08-16.png?itok=F8My5IT_",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/karine-silva",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3309918/karine-silva",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Gabriella Fernandes",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/FERNANDES_GABRIELLA_R_03-28.png?itok=4p1EXlgz",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/gabriella-fernandes",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4871203/gabriella-fernandes",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 6: Mitch Raposo vs. Marcos Degli",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Mitch Raposo",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-05/RAPOSO_MITCH_L_06-01.png?itok=uYCRED7z",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/mitch-raposo",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4815978/mitch-raposo",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Marcos Degli",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/DEGLI_MARCOS_L_09-22.png?itok=WKdRVjd9",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/marcos-degli",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5143890/marcos-degli",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 5: Priscila Cachoeira vs. Nina Milosevic",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Priscila Cachoeira",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/CACHOEIRA_PRISCILA_L_06-06.png?itok=H8kx523Z",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/priscila-cachoeira",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4277049/priscila-cachoeira",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Nina Milosevic",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MILOSEVIC_NINA_L_08-01.png?itok=Xacar1A1",
+      "country": "Serbia",
+      "ufc_profile": "https://www.ufc.com/athlete/nina-milosevic",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5361791/nina-milosevic",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 3: Davey Grant vs. Elijah Smith",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Davey Grant",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/GRANT_DAVEY_L_04-25.png?itok=RTtukIUQ",
+      "country": "England",
+      "ufc_profile": "https://www.ufc.com/athlete/davey-grant",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3070984/davey-grant",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Elijah Smith",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/SMITH_ELIJAH_R_02-15.png?itok=1jzq2URZ",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/elijah-smith",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144797/elijah-smith",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 4: Billy Elekana vs. Lucas Fernando",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Billy Elekana",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/ELEKANA_BILLY_L_01-31.png?itok=11376dr5",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/billy-elekana",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5078114/billy-elekana",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Lucas Fernando",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/FERNANDO_LUCAS_R_08-15.png?itok=6rJIETAv",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/lucas-fernando",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5119021/lucas-fernando",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 1: Waldo Cortes Acosta vs. Johnny Walker",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Waldo Cortes Acosta",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/CORTES_ACOSTA_WALDO_L_09-12.png?itok=xe7OyefZ",
+      "country": "Dominican Republic",
+      "ufc_profile": "https://www.ufc.com/athlete/waldo-cortes-acosta",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4903365/waldo-cortes-acosta",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Johnny Walker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/WALKER_JOHNNY_R_04-11.png?itok=AvyI1teS",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/johnny-walker",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3146944/johnny-walker",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Strawweight Bout | Fight 2: Tatiana Suarez vs. Virna Jandiroba",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Tatiana Suarez",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/SUAREZ_TATIANA_L_04-11.png?itok=-XhH4172",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/tatiana-suarez",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4020435/tatiana-suarez",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Virna Jandiroba",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-04/JANDIROBA_VIRNA_R_04-12.png?itok=4Kts2B55",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/virna-jandiroba",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4289516/virna-jandiroba",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 14: Norma Dyumont Viana vs. Jose Henrique",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Norma Dyumont Viana",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-07/PARSONS_JONNY_L_07-22.png?itok=izstbTRw",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/norma-dyumont-viana-3",
+      "espn_profile": "",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Jose Henrique",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/SOUZA_JOSE_R_05-30.png?itok=A8mXxqVU",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/jose-henrique",
+      "espn_profile": "",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 7: Keiichiro Nakamura vs. Ollie Schmid",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Keiichiro Nakamura",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-01/NAKAMURA_KEIICHIRO_L_01-31.png?itok=7yUuAlVg",
+      "country": "Japan",
+      "ufc_profile": "https://www.ufc.com/athlete/keiichiro-nakamura-0",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5327937/keiichiro-nakamura",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ollie Schmid",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/SCHMID_OLLIE_R_05-02.png?itok=n8sRgxWc",
+      "country": "New Zealand",
+      "ufc_profile": "https://www.ufc.com/athlete/ollie-schmid",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5346907/ollie-schmid",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 8: Gabriel Lorenco vs. Thomas Petersen",
+    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
+    "location": "Meta APEX, Las Vegas United States",
+    "fighter1": {
+      "name": "Gabriel Lorenco",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/LORENCO_GABRIEL_L_09-01.png?itok=SKF_hxQA",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/gabriel-lorenco",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5215710/gabriel-lorenco",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Thomas Petersen",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/PETERSEN_THOMAS_R_07-25.png?itok=uZQNgORk",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/thomas-petersen",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4869702/thomas-petersen",
+      "score": "0.0",
+      "winner": false
+    }
+  }
+]
+,
 "2026-11-14":[
   {
     "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
