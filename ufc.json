@@ -2870,7 +2870,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/priscila-cachoeira",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4277049/priscila-cachoeira",
-      "score": "0.0",
+      "score": "0.970",
       "winner": false
     },
     "fighter2": {
@@ -2879,7 +2879,7 @@
       "country": "Serbia",
       "ufc_profile": "https://www.ufc.com/athlete/nina-milosevic",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5361791/nina-milosevic",
-      "score": "0.0",
+      "score": "1.030",
       "winner": false
     }
   },
