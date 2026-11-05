@@ -2985,8 +2985,8 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-07/PARSONS_JONNY_L_07-22.png?itok=izstbTRw",
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/norma-dyumont-viana-3",
-      "espn_profile": "",
-      "score": "0.0",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4418784/norma-dumont",
+      "score": "0.957",
       "winner": false
     },
     "fighter2": {
@@ -2994,8 +2994,8 @@
       "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/SOUZA_JOSE_R_05-30.png?itok=A8mXxqVU",
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/jose-henrique",
-      "espn_profile": "",
-      "score": "0.0",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5080485/jose-henrique",
+      "score": "1.044",
       "winner": false
     }
   },
