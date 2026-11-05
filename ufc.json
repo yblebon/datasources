@@ -2893,7 +2893,7 @@
       "country": "England",
       "ufc_profile": "https://www.ufc.com/athlete/davey-grant",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3070984/davey-grant",
-      "score": "0.0",
+      "score": "0.972",
       "winner": false
     },
     "fighter2": {
@@ -2902,7 +2902,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/elijah-smith",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144797/elijah-smith",
-      "score": "0.0",
+      "score": "1.028",
       "winner": false
     }
   },
@@ -2916,7 +2916,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/billy-elekana",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5078114/billy-elekana",
-      "score": "0.0",
+      "score": "0.962",
       "winner": false
     },
     "fighter2": {
@@ -2925,7 +2925,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/lucas-fernando",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5119021/lucas-fernando",
-      "score": "0.0",
+      "score": "1.039",
       "winner": false
     }
   },
@@ -2939,7 +2939,7 @@
       "country": "Dominican Republic",
       "ufc_profile": "https://www.ufc.com/athlete/waldo-cortes-acosta",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4903365/waldo-cortes-acosta",
-      "score": "0.0",
+      "score": "0.951",
       "winner": false
     },
     "fighter2": {
@@ -2948,7 +2948,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/johnny-walker",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3146944/johnny-walker",
-      "score": "0.0",
+      "score": "1.051",
       "winner": false
     }
   },
@@ -2962,7 +2962,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/tatiana-suarez",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4020435/tatiana-suarez",
-      "score": "0.0",
+      "score": "1.030",
       "winner": false
     },
     "fighter2": {
@@ -2971,7 +2971,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/virna-jandiroba",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4289516/virna-jandiroba",
-      "score": "0.0",
+      "score": "0.970",
       "winner": false
     }
   },
@@ -3008,7 +3008,7 @@
       "country": "Japan",
       "ufc_profile": "https://www.ufc.com/athlete/keiichiro-nakamura-0",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5327937/keiichiro-nakamura",
-      "score": "0.0",
+      "score": "0.986",
       "winner": false
     },
     "fighter2": {
@@ -3017,7 +3017,7 @@
       "country": "New Zealand",
       "ufc_profile": "https://www.ufc.com/athlete/ollie-schmid",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5346907/ollie-schmid",
-      "score": "0.0",
+      "score": "1.014",
       "winner": false
     }
   },
@@ -3031,7 +3031,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/gabriel-lorenco",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5215710/gabriel-lorenco",
-      "score": "0.0",
+      "score": "1.026",
       "winner": false
     },
     "fighter2": {
@@ -3040,7 +3040,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/thomas-petersen",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4869702/thomas-petersen",
-      "score": "0.0",
+      "score": "0.974",
       "winner": false
     }
   }
