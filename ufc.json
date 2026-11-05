@@ -2847,7 +2847,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/mitch-raposo",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4815978/mitch-raposo",
-      "score": "0.0",
+      "score": "0.962",
       "winner": false
     },
     "fighter2": {
@@ -2856,7 +2856,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/marcos-degli",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5143890/marcos-degli",
-      "score": "0.0",
+      "score": "1.039",
       "winner": false
     }
   },
