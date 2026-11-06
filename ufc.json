@@ -2801,7 +2801,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/austin-bashi",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5120304/austin-bashi",
-      "score": "0.0",
+      "score": "0.972",
       "winner": false
     },
     "fighter2": {
@@ -2810,7 +2810,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/lucas-brennan",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4795284/lucas-brennan",
-      "score": "0.0",
+      "score": "1.028",
       "winner": false
     }
   },
