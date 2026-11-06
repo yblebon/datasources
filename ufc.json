@@ -2755,7 +2755,7 @@
       "country": "Lithuania",
       "ufc_profile": "https://www.ufc.com/athlete/mantas-kondratavicius",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5264925/mantas-kondratavicius",
-      "score": "0.0",
+      "score": "1.034",
       "winner": false
     },
     "fighter2": {
@@ -2764,7 +2764,7 @@
       "country": "United States",
       "ufc_profile": "https://www.ufc.com/athlete/andre-petroski",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4697476/andre-petroski",
-      "score": "0.0",
+      "score": "0.966",
       "winner": false
     }
   },
