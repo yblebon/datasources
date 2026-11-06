@@ -3430,6 +3430,7 @@
         "sender": "left",
         "timestamp": "23:59 PM, Oct 28, 2026",
         "username": "Nobody",
+        "tags": ["spain"],
         "photoUrl": "https://via.placeholder.com/40?text=Nobody",
         "attachment": {
           "type": "image",
