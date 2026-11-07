@@ -2732,7 +2732,7 @@
       "country": "South Korea",
       "ufc_profile": "https://www.ufc.com/athlete/seokhyeon-ko",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4701954/seokhyeon-ko",
-      "score": "0.0",
+      "score": "0.985",
       "winner": false
     },
     "fighter2": {
@@ -2741,7 +2741,7 @@
       "country": "Brazil",
       "ufc_profile": "https://www.ufc.com/athlete/wellington-turman",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4426282/wellington-turman",
-      "score": "0.0",
+      "score": "1.014",
       "winner": false
     }
   },
