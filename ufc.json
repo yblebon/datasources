@@ -2733,7 +2733,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/seokhyeon-ko",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4701954/seokhyeon-ko",
       "score": "0.985",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Wellington Turman",
@@ -2765,7 +2765,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/andre-petroski",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4697476/andre-petroski",
       "score": "0.966",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2788,53 +2788,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/murtazali-magomedov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5308768/murtazali-magomedov",
       "score": "1.00",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Featherweight Bout | Fight 11: Austin Bashi vs. Lucas Brennan",
-    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
-    "location": "Meta APEX, Las Vegas United States",
-    "fighter1": {
-      "name": "Austin Bashi",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/BASHI_AUSTIN_L_07-18.png?itok=tlXBt4Gd",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/austin-bashi",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5120304/austin-bashi",
-      "score": "0.972",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Lucas Brennan",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/BRENNAN_LUCAS_R_04-25.png?itok=Nr91asmQ",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/lucas-brennan",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4795284/lucas-brennan",
-      "score": "1.028",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Women's Flyweight Bout | Fight 9: Karine Silva vs. Gabriella Fernandes",
-    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
-    "location": "Meta APEX, Las Vegas United States",
-    "fighter1": {
-      "name": "Karine Silva",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/SILVA_KARINE_L_08-16.png?itok=F8My5IT_",
-      "country": "Brazil",
-      "ufc_profile": "https://www.ufc.com/athlete/karine-silva",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3309918/karine-silva",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Gabriella Fernandes",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/FERNANDES_GABRIELLA_R_03-28.png?itok=4p1EXlgz",
-      "country": "Brazil",
-      "ufc_profile": "https://www.ufc.com/athlete/gabriella-fernandes",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4871203/gabriella-fernandes",
-      "score": "0.0",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2848,7 +2802,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/mitch-raposo",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4815978/mitch-raposo",
       "score": "0.962",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Marcos Degli",
@@ -2880,7 +2834,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/nina-milosevic",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5361791/nina-milosevic",
       "score": "1.030",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2903,7 +2857,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/elijah-smith",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144797/elijah-smith",
       "score": "1.028",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2926,7 +2880,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/lucas-fernando",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5119021/lucas-fernando",
       "score": "1.039",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2950,7 +2904,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/johnny-walker",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3146944/johnny-walker",
       "score": "1.051",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -2964,7 +2918,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/tatiana-suarez",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4020435/tatiana-suarez",
       "score": "1.030",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Virna Jandiroba",
@@ -2973,29 +2927,6 @@
       "ufc_profile": "https://www.ufc.com/athlete/virna-jandiroba",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4289516/virna-jandiroba",
       "score": "0.970",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Welterweight Bout | Fight 14: Norma Dyumont Viana vs. Jose Henrique",
-    "date": "Sat, Nov 7, 2026, 7:00 PM CST",
-    "location": "Meta APEX, Las Vegas United States",
-    "fighter1": {
-      "name": "Norma Dyumont Viana",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-07/PARSONS_JONNY_L_07-22.png?itok=izstbTRw",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/norma-dyumont-viana-3",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4418784/norma-dumont",
-      "score": "0.957",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Jose Henrique",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/SOUZA_JOSE_R_05-30.png?itok=A8mXxqVU",
-      "country": "Brazil",
-      "ufc_profile": "https://www.ufc.com/athlete/jose-henrique",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5080485/jose-henrique",
-      "score": "1.044",
       "winner": false
     }
   },
@@ -3019,7 +2950,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/ollie-schmid",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5346907/ollie-schmid",
       "score": "1.014",
-      "winner": false
+      "winner": true
     }
   },
   {
@@ -3042,7 +2973,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/thomas-petersen",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4869702/thomas-petersen",
       "score": "0.974",
-      "winner": false
+      "winner": true
     }
   }
 ]
