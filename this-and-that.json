@@ -1618,6 +1618,17 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/pZgkLaYtE4PBQTVFi82CJ"
         }
+      },
+      {
+        "text": "Me tiens pas la main, ça va parler",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 07, 2026",
+        "username": "art",
+        "photoUrl": "https://via.placeholder.com/40?text=art",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/jBYTeQ57drlYi3H9vKzOP"
+        }
       }
     ]
   },
