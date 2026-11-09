@@ -5270,6 +5270,19 @@
         "type": "xPost",
         "link": "https://x.com/YasserLebon/status/2119722973078913521?a=3pMAGohiQfektCPVdqE&s=20"
         }
+      },
+      {
+        "text": "",
+        "sender": "left",
+        "timestamp": "11:59 PM, Nov 11, 2026",
+        "username": "X",
+        "tags": ["portugal", "poland"],
+        "photoUrl": "https://via.placeholder.com/40?text=X",
+        "tags": [],
+        "attachment": {
+        "type": "xPost",
+        "link": "https://x.com/YasserLebon/status/2119746266976641059?a=wLlK6M6-xizhRdt3VV4&s=20"
+        }
       }
     ]
   },
