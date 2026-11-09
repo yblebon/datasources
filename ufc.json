@@ -2980,122 +2980,34 @@
 ,
 "2026-11-14":[
   {
-    "match_title": "Middleweight Bout | Fight 9: Donte Johnson vs. Cesar Almeida",
+    "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
+    "division": "Heavyweight",
+    "main_card": true,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
-      "name": "Donte Johnson",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/JOHNSON_DONTE_L_08-15.png?itok=awe7gXvr",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/donte-johnson",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5302831/donte-johnson",
+      "name": "Ciryl Gane",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/GANE_CIRYL_L_BELT_01-22.png?itok=QXhpvQW9",
+      "country": "France",
+      "ufc_profile": "https://www.ufc.com/athlete/ciryl-gane",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4426000/ciryl-gane",
       "score": "0.0",
       "winner": false
     },
     "fighter2": {
-      "name": "Cesar Almeida",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/ALMEIDA_CESAR_R_07-11.png?itok=6lna64pB",
-      "country": "Brazil",
-      "ufc_profile": "https://www.ufc.com/athlete/cesar-almeida",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144068/cesar-almeida",
-      "score": "0.0",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Lightweight Bout | Fight 10: Jared Gordon vs. Melquizael Costa",
-    "date": "Sat, Nov 14, 8:00 PM CST",
-    "location": "Madison Square Garden, New York United States",
-    "fighter1": {
-      "name": "Jared Gordon",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/GORDON_JARED_L_05-17.png?itok=bRzcjulA",
+      "name": "Josh Hokit",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/HOKIT_JOSH_R_04-11.png?itok=WDowTRJ1",
       "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/jared-gordon",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3894823/jared-gordon",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Melquizael Costa",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/COSTA_MELQUIZAEL_R_05-16.png?itok=UWwKtFt_",
-      "country": "Brazil",
-      "ufc_profile": "https://www.ufc.com/athlete/melquizael-costa",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4425763/melquizael-costa",
-      "score": "0.0",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Lightweight Bout | Fight 7: Drew Dober vs. Chris Duncan",
-    "date": "Sat, Nov 14, 8:00 PM CST",
-    "location": "Madison Square Garden, New York United States",
-    "fighter1": {
-      "name": "Drew Dober",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/DOBER_DREW_L_03-07.png?itok=u0F2_xRk",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/drew-dober",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/2951202/drew-dober",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Chris Duncan",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DUNCAN_CHRIS_R_04-04.png?itok=YU8j0ez-",
-      "country": "Scotland",
-      "ufc_profile": "https://www.ufc.com/athlete/chris-duncan",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4867356/chris-duncan",
-      "score": "0.0",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Flyweight Bout | Fight 5: Bilal Hasan vs. Luis Gurule",
-    "date": "Sat, Nov 14, 8:00 PM CST",
-    "location": "Madison Square Garden, New York United States",
-    "fighter1": {
-      "name": "Bilal Hasan",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/HASAN_BILAL_L_08-29.png?itok=a9CuzxKQ",
-      "country": "Indonesia",
-      "ufc_profile": "https://www.ufc.com/athlete/bilal-hasan",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5264405/bilal-hasan",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Luis Gurule",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/GURULE_LUIS_R_09-13.png?itok=ZE3etFBY",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/luis-gurule",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5218137/luis-gurule",
-      "score": "0.0",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Welterweight Bout | Fight 4: Uros Medic vs. Kevin Holland",
-    "date": "Sat, Nov 14, 8:00 PM CST",
-    "location": "Madison Square Garden, New York United States",
-    "fighter1": {
-      "name": "Uros Medic",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MEDIC_UROS_L_08-01.png?itok=zwilKCqc",
-      "country": "Serbia",
-      "ufc_profile": "https://www.ufc.com/athlete/uros-medic",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4685870/uros-medic",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Kevin Holland",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/HOLLAND_KEVIN_R_06-07.png?itok=6HhhRcJ0",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/kevin-holland",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3943695/kevin-holland",
+      "ufc_profile": "https://www.ufc.com/athlete/josh-hokit",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4049391/josh-hokit",
       "score": "0.0",
       "winner": false
     }
   },
   {
     "match_title": "Women's Bantamweight Title Bout | Fight 2: Kayla Harrison vs. Amanda Nunes",
+    "division": "Women's Bantamweight",
+    "main_card": true,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
@@ -3119,6 +3031,8 @@
   },
   {
     "match_title": "Middleweight Bout | Fight 3: Caio Borralho vs. Yousri Belgaroui",
+    "division": "Middleweight",
+    "main_card": true,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
@@ -3141,76 +3055,59 @@
     }
   },
   {
-    "match_title": "Lightweight Bout | Fight 8: Jim Miller vs. Terrance Mckinney",
+    "match_title": "Welterweight Bout | Fight 4: Uros Medic vs. Kevin Holland",
+    "division": "Welterweight",
+    "main_card": true,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
-      "name": "Jim Miller",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/MILLER_JIM_L_05-09.png?itok=SiMm1t27",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/jim-miller",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/2335718/jim-miller",
+      "name": "Uros Medic",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MEDIC_UROS_L_08-01.png?itok=zwilKCqc",
+      "country": "Serbia",
+      "ufc_profile": "https://www.ufc.com/athlete/uros-medic",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4685870/uros-medic",
       "score": "0.0",
       "winner": false
     },
     "fighter2": {
-      "name": "Terrance Mckinney",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MCKINNEY_TERRANCE_R_07-11.png?itok=02qG21Ri",
+      "name": "Kevin Holland",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-06/HOLLAND_KEVIN_R_06-07.png?itok=6HhhRcJ0",
       "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/terrance-mckinney",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4425604/terrance-mckinney",
+      "ufc_profile": "https://www.ufc.com/athlete/kevin-holland",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3943695/kevin-holland",
       "score": "0.0",
       "winner": false
     }
   },
   {
-    "match_title": "Women's Bantamweight Bout | Fight 11: Macy Chiasson vs. Bia Mesquita",
+    "match_title": "Flyweight Bout | Fight 5: Bilal Hasan vs. Luis Gurule",
+    "division": "Flyweight",
+    "main_card": true,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
-      "name": "Macy Chiasson",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/CHIASSON_MACY_L_10-04.png?itok=TqnkpI-p",
-      "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/macy-chiasson",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4334306/macy-chiasson",
+      "name": "Bilal Hasan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/HASAN_BILAL_L_08-29.png?itok=a9CuzxKQ",
+      "country": "Indonesia",
+      "ufc_profile": "https://www.ufc.com/athlete/bilal-hasan",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5264405/bilal-hasan",
       "score": "0.0",
       "winner": false
     },
     "fighter2": {
-      "name": "Bia Mesquita",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/MESQUITA_BIA_L_10-11.png?itok=VXhZyQHp",
-      "country": "Brazil",
-      "ufc_profile": "https://www.ufc.com/athlete/bia-mesquita",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5310274/bia-mesquita",
-      "score": "0.0",
-      "winner": false
-    }
-  },
-  {
-    "match_title": "Heavyweight Title Bout | Fight 1: Ciryl Gane vs. Josh Hokit",
-    "date": "Sat, Nov 14, 8:00 PM CST",
-    "location": "Madison Square Garden, New York United States",
-    "fighter1": {
-      "name": "Ciryl Gane",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/GANE_CIRYL_L_BELT_01-22.png?itok=QXhpvQW9",
-      "country": "France",
-      "ufc_profile": "https://www.ufc.com/athlete/ciryl-gane",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4426000/ciryl-gane",
-      "score": "0.0",
-      "winner": false
-    },
-    "fighter2": {
-      "name": "Josh Hokit",
-      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/HOKIT_JOSH_R_04-11.png?itok=WDowTRJ1",
+      "name": "Luis Gurule",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-09/GURULE_LUIS_R_09-13.png?itok=ZE3etFBY",
       "country": "United States",
-      "ufc_profile": "https://www.ufc.com/athlete/josh-hokit",
-      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4049391/josh-hokit",
+      "ufc_profile": "https://www.ufc.com/athlete/luis-gurule",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5218137/luis-gurule",
       "score": "0.0",
       "winner": false
     }
   },
   {
     "match_title": "Welterweight Bout | Fight 6: Stephen Thompson vs. Charles Radtke",
+    "division": "Welterweight",
+    "main_card": false,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
@@ -3233,7 +3130,134 @@
     }
   },
   {
+    "match_title": "Lightweight Bout | Fight 7: Drew Dober vs. Chris Duncan",
+    "division": "Lightweight",
+    "main_card": false,
+    "date": "Sat, Nov 14, 8:00 PM CST",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Drew Dober",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/DOBER_DREW_L_03-07.png?itok=u0F2_xRk",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/drew-dober",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/2951202/drew-dober",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Chris Duncan",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/DUNCAN_CHRIS_R_04-04.png?itok=YU8j0ez-",
+      "country": "Scotland",
+      "ufc_profile": "https://www.ufc.com/athlete/chris-duncan",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4867356/chris-duncan",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 8: Jim Miller vs. Terrance Mckinney",
+    "division": "Lightweight",
+    "main_card": false,
+    "date": "Sat, Nov 14, 8:00 PM CST",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Jim Miller",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/MILLER_JIM_L_05-09.png?itok=SiMm1t27",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/jim-miller",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/2335718/jim-miller",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Terrance Mckinney",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/MCKINNEY_TERRANCE_R_07-11.png?itok=02qG21Ri",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/terrance-mckinney",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4425604/terrance-mckinney",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 9: Donte Johnson vs. Cesar Almeida",
+    "division": "Middleweight",
+    "main_card": false,
+    "date": "Sat, Nov 14, 8:00 PM CST",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Donte Johnson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/JOHNSON_DONTE_L_08-15.png?itok=awe7gXvr",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/donte-johnson",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5302831/donte-johnson",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Cesar Almeida",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/ALMEIDA_CESAR_R_07-11.png?itok=6lna64pB",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/cesar-almeida",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144068/cesar-almeida",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 10: Jared Gordon vs. Melquizael Costa",
+    "division": "Lightweight",
+    "main_card": false,
+    "date": "Sat, Nov 14, 8:00 PM CST",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Jared Gordon",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/GORDON_JARED_L_05-17.png?itok=bRzcjulA",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/jared-gordon",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3894823/jared-gordon",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Melquizael Costa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/COSTA_MELQUIZAEL_R_05-16.png?itok=UWwKtFt_",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/melquizael-costa",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4425763/melquizael-costa",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
+    "match_title": "Women's Bantamweight Bout | Fight 11: Macy Chiasson vs. Bia Mesquita",
+    "division": "Women's Bantamweight",
+    "main_card": false,
+    "date": "Sat, Nov 14, 8:00 PM CST",
+    "location": "Madison Square Garden, New York United States",
+    "fighter1": {
+      "name": "Macy Chiasson",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/CHIASSON_MACY_L_10-04.png?itok=TqnkpI-p",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/macy-chiasson",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4334306/macy-chiasson",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Bia Mesquita",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/MESQUITA_BIA_L_10-11.png?itok=VXhZyQHp",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/bia-mesquita",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5310274/bia-mesquita",
+      "score": "0.0",
+      "winner": false
+    }
+  },
+  {
     "match_title": "Bantamweight Bout | Fight 12: Adrian Yanez vs. Juan Diaz",
+    "division": "Bantamweight",
+    "main_card": false,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
@@ -3257,6 +3281,8 @@
   },
   {
     "match_title": "Lightweight Bout | Fight 13: Evan Elder vs. Samuel Sanches",
+    "division": "Lightweight",
+    "main_card": false,
     "date": "Sat, Nov 14, 8:00 PM CST",
     "location": "Madison Square Garden, New York United States",
     "fighter1": {
@@ -3279,5 +3305,6 @@
     }
   }
 ]
+
 
 }
