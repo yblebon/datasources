@@ -1681,6 +1681,18 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/dnbSFrBlQj-8wOvj2zBCr"
         }
+      },
+      {
+        "text": "Il y a du y avoir un quiproquo",
+        "sender": "left",
+        "timestamp": "21:00 PM, Nov 11, 2026",
+        "username": "art",
+        "tags": [],
+        "photoUrl": "https://via.placeholder.com/40?text=art",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/YCiTVVDhLkUttDH2jwMxy"
+        }
       }
     ]
   },
