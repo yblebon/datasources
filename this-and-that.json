@@ -3901,10 +3901,22 @@
         "timestamp": "23:59 PM, Nov 02 2026",
         "username": "Winner",
         "photoUrl": "https://via.placeholder.com/40?text=Winner",
-        "tags": ["polish", "ww2", "lutak"],
+        "tags": ["poland", "ww2", "lutak"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/5PzfqCmgMbELfTAcuwCRc"
+        }
+      },
+      {
+        "text": "'In order to shed light on woman-woman relationship with varied miseries encountered by Bangladeshi women, it is imperative to examine their real conditions from the Third World perspective. This research will investigate that women are women’s great enemies and explore that women are colonized by both men and women in Bangladeshi patriarchal culture.'",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 14 2026",
+        "username": "Winner",
+        "photoUrl": "https://via.placeholder.com/40?text=Winner",
+        "tags": ["bangladesh", "woman", "feminism"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/pf1fYtzrzsqDxE8VLANg-"
         }
       }
     ]
