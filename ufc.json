@@ -2721,7 +2721,7 @@
     }
   }
 ],
-"2026-11-07": [
+"2026-11-21": [
   {
     "match_title": "Welterweight Bout | Fight 13: Seokhyeon Ko vs. Wellington Turman",
     "date": "Sat, Nov 7, 2026, 7:00 PM CST",
@@ -3392,5 +3392,296 @@
       "metric": "coeff"
     }
   }
+],
+"2026-11-21":[
+  {
+    "match_title": "Light Heavyweight Bout | Fight 1: Jiri Prochazka vs. Navajo Stirling",
+    "division": "Light Heavyweight",
+    "main_card": true,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Jiri Prochazka",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/PROCHAZKA_JIRI_L_04-11.png?itok=vr41IWZw",
+      "country": "Czech Republic",
+      "ufc_profile": "https://www.ufc.com/athlete/jiri-prochazka",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3156612/jiri-prochazka",
+      "score": "1.012456",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Navajo Stirling",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/STIRLING_NAVAJO_R_08-01.png?itok=aL1Vfoli",
+      "country": "New Zealand",
+      "ufc_profile": "https://www.ufc.com/athlete/navajo-stirling",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5216713/navajo-stirling",
+      "score": "0.987697",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.012456,
+      "fighter2": 0.987697,
+      "raw": "name     coeff\n0     ji_proch_zka  1.012456\n1  navajo_stirling  0.987697",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Featherweight Bout | Fight 2: Aljamain Sterling vs. Kevin Vallejos",
+    "division": "Featherweight",
+    "main_card": true,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Aljamain Sterling",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/STERLING_ALJAMAIN_L_04-25.png?itok=_fjxJkU-",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/aljamain-sterling",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3031559/aljamain-sterling",
+      "score": "1.044007",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Kevin Vallejos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/VALLEJOS_KEVIN_R_12-13.png?itok=tMlJto6d",
+      "country": "Argentina",
+      "ufc_profile": "https://www.ufc.com/athlete/kevin-vallejos",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5145681/kevin-vallejos",
+      "score": "0.957848",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.044007,
+      "fighter2": 0.957848,
+      "raw": "name     coeff\n0  aljamain_sterling  1.044007\n1     kevin_vallejos  0.957848",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 3: Dan Hooker vs. Brian Ortega",
+    "division": "Lightweight",
+    "main_card": true,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Dan Hooker",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/HOOKER_DAN_L_09-05.png?itok=qdXNbzqk",
+      "country": "New Zealand",
+      "ufc_profile": "https://www.ufc.com/athlete/dan-hooker",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3109135/dan-hooker",
+      "score": "1.086708",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Brian Ortega",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/ORTEGA_BRIAN_R_09-14.png?itok=c5IyAJv6",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/brian-ortega",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3045737/brian-ortega",
+      "score": "0.92021",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.086708,
+      "fighter2": 0.92021,
+      "raw": "name     coeff\n0    dan_hooker  1.086708\n1  brian_ortega  0.920210",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 4: Kyoji Horiguchi vs. Asu Almabayev",
+    "division": "Flyweight",
+    "main_card": true,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Kyoji Horiguchi",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/HORIGUCHI_KYOJI_R_11-22.png?itok=qRrP_oHZ",
+      "country": "Japan",
+      "ufc_profile": "https://www.ufc.com/athlete/kyoji-horiguchi",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/2613374/kyoji-horiguchi",
+      "score": "0.96911",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Asu Almabayev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-11/ALMABAYEV_ASU_R_11-22.png?itok=PvfpY_3W",
+      "country": "Kazakhstan",
+      "ufc_profile": "https://www.ufc.com/athlete/asu-almabayev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4294926/asu-almabayev",
+      "score": "1.031875",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.96911,
+      "fighter2": 1.031875,
+      "raw": "name     coeff\n0  kyoji_horiguchi  0.969110\n1    asu_almabayev  1.031875",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 5: Jared Cannonier vs. Ikram Aliskerov",
+    "division": "Middleweight",
+    "main_card": true,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Jared Cannonier",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/CANNONIER_JARED_L_07-18.png?itok=yBmEEtM9",
+      "country": "United States",
+      "ufc_profile": "https://www.ufc.com/athlete/jared-cannonier",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3154860/jared-cannonier",
+      "score": "1.019689",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ikram Aliskerov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2024-06/ALISKEROV_IKRAM_R_06-22.png?itok=BA8p0tjX",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/ikram-aliskerov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4684776/ikram-aliskerov",
+      "score": "0.980691",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.019689,
+      "fighter2": 0.980691,
+      "raw": "name     coeff\n0  jared_cannonier  1.019689\n1  ikram_aliskerov  0.980691",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 6: Aleksandre Topuria vs. Santiago Luna",
+    "division": "Bantamweight",
+    "main_card": false,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Aleksandre Topuria",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-02/TOPURIA_ALEKSANDRE_R_02-08.png?itok=sMeoyjlO",
+      "country": "Georgia",
+      "ufc_profile": "https://www.ufc.com/athlete/aleksandre-topuria",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5185662/aleksandre-topuria",
+      "score": "0.918617",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Santiago Luna",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/LUNA_SANTIAGO_R_06-06.png?itok=7JsNf2Fo",
+      "country": "Mexico",
+      "ufc_profile": "https://www.ufc.com/athlete/santiago-luna",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5307799/santiago-luna",
+      "score": "1.088593",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.918617,
+      "fighter2": 1.088593,
+      "raw": "name     coeff\n0  aleksandre_topuria  0.918617\n1       santiago_luna  1.088593",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 7: Shamil Gaziev vs. Tallison Teixeira",
+    "division": "Heavyweight",
+    "main_card": false,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Shamil Gaziev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-04/GAZIEV_SHAMIL_L_05-02.png?itok=__SWao2O",
+      "country": "Bahrain",
+      "ufc_profile": "https://www.ufc.com/athlete/shamil-gaziev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5145498/shamil-gaziev",
+      "score": "0.94592",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Tallison Teixeira",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/TEIXEIRA_TALLISON_R_07-12.png?itok=OkqxReP6",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/tallison-teixeira",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5212856/tallison-teixeira",
+      "score": "1.057172",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.94592,
+      "fighter2": 1.057172,
+      "raw": "name     coeff\n0      shamil_gaziev  0.945920\n1  tallison_teixeira  1.057172",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 8: Amir Albazi vs. Alessandro Costa",
+    "division": "Flyweight",
+    "main_card": false,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Amir Albazi",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-02/ALBAZI_AMIR_L_02-07.png?itok=b_68JWFE",
+      "country": "Iraq",
+      "ufc_profile": "https://www.ufc.com/athlete/amir-albazi",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4684848/amir-albazi",
+      "score": "1.014689",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Alessandro Costa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/COSTA_ALESSANDRO_R_06-06.png?itok=QGdlFSjx",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/alessandro-costa",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5074121/alessandro-costa",
+      "score": "0.985524",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.014689,
+      "fighter2": 0.985524,
+      "raw": "name     coeff\n0       amir_albazi  1.014689\n1  alessandro_costa  0.985524",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 9: Jake Matthews vs. Tahir Abdullayev",
+    "division": "Welterweight",
+    "main_card": false,
+    "date": "Sat, Nov 21, 2026, 6:00 PM UTC",
+    "location": "ABHA Arena, Doha Qatar",
+    "fighter1": {
+      "name": "Jake Matthews",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-05/MATTHEWS_JAKE_L_05-30.png?itok=8ws1GMM2",
+      "country": "Australia",
+      "ufc_profile": "https://www.ufc.com/athlete/jake-matthews",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3089915/jake-matthews",
+      "score": "1",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Tahir Abdullayev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/ABDULLAYEV_TAHIR_L_06-27.png?itok=pP3Pz-tL",
+      "country": "Azerbaijan",
+      "ufc_profile": "https://www.ufc.com/athlete/tahir-abdullayev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4394753/tahir-abdullayev",
+      "score": "1",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.0,
+      "fighter2": 1.0,
+      "raw": "name  coeff\n0     jake_matthews    1.0\n1  tahir_abdullayev    1.0",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  }
 ]
+
 }
