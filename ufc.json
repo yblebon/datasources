@@ -2992,7 +2992,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/ciryl-gane",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4426000/ciryl-gane",
       "score": "1.101768",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Josh Hokit",
@@ -3024,7 +3024,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/kayla-harrison",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4332765/kayla-harrison",
       "score": "0.956075",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Amanda Nunes",
@@ -3056,7 +3056,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/caio-borralho",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4835137/caio-borralho",
       "score": "0.949178",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Yousri Belgaroui",
@@ -3129,7 +3129,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/luis-gurule",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5218137/luis-gurule",
       "score": "0.914511",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.093481,
@@ -3152,7 +3152,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/stephen-thompson",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/2615077/stephen-thompson",
       "score": "1.041553",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Charles Radtke",
@@ -3193,7 +3193,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/chris-duncan",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4867356/chris-duncan",
       "score": "1.014061",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 0.986134,
@@ -3225,7 +3225,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/terrance-mckinney",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4425604/terrance-mckinney",
       "score": "1.035496",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 0.96572,
@@ -3257,7 +3257,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/cesar-almeida",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5144068/cesar-almeida",
       "score": "1",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.0,
@@ -3289,7 +3289,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/melquizael-costa",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4425763/melquizael-costa",
       "score": "1.044007",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 0.957848,
@@ -3321,7 +3321,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/bia-mesquita",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5310274/bia-mesquita",
       "score": "0.937124",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.067095,
@@ -3373,7 +3373,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/evan-elder",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5037883/evan-elder",
       "score": "0.966702",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Samuel Sanches",
