@@ -3890,7 +3890,7 @@
         "timestamp": "23:59 PM, Sep 14 2026",
         "username": "Winner",
         "photoUrl": "https://via.placeholder.com/40?text=Winner",
-        "tags": ["catherine ringer", "music", "french", "adult"],
+        "tags": ["catherine ringer", "music", "france", "adult"],
         "attachment": {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=iyC8LAjBT8g"
@@ -4049,6 +4049,18 @@
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/file/hbjwSHXd51JwCsphVjfF0"
+        }
+      },
+      {
+        "text": "Blanche Le Bris née le 25 September 1920 was a French bookseller and Holocaust survivor. Born in Poland on 25 September 1920, Le Bris was the daughter of Polish Jews Adolf and Rosa Menner. Facing anti-Semitism and the pogroms in Poland, the family moved to France in 1922, settling in Brest. Her parents were deported to Auschwitz, from where they never returned. They eventually set up a successful bookstore called Librairie de la Cité.'",
+        "sender": "left",
+        "timestamp": "23:59 AM, Nov 07, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "tags": ["france", "fouka-fouka"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/UunTOKogdv1jvIW7lqKpi"
         }
       }
     ]
@@ -5553,7 +5565,7 @@
         "timestamp": "23:59 PM, Nov 11, 2026",
         "username": "Them",
         "photoUrl": "https://via.placeholder.com/40?text=Them",
-        "tags": ["french"],
+        "tags": ["france", "1-january"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/USkW98fQbO4yY4pSGR56j"
