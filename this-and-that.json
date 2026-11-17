@@ -75,6 +75,18 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/WYGiBvm5UhDTnaFnd19cv"
         }
+      },
+      {
+        "text": "'Hossein Vahid Khorasani passed away in the early hours of Tuesday, November 17, 2026 (26 Aban 1405 in the Iranian calendar), at a hospital in Qom, Iran, following a two-week illness that required hospitalization.'",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 17, 2026",
+        "username": "Doctor",
+        "photoUrl": "https://via.placeholder.com/40?text=Midi",
+        "tags": ["iran", "1-january", "fouka-fouka"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/sAdj5Za1NoRGRO-eEC4ep"
+        }
       }
     ]
   },
