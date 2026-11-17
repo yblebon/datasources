@@ -10,6 +10,7 @@
         "timestamp": "11:40 AM, Nov 11, 2026",
         "username": "Doctor",
         "photoUrl": "https://via.placeholder.com/40?text=Midi",
+        "tags": ["usa"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/48Er8VVtvriWTn7m5semv"
@@ -57,10 +58,22 @@
         "timestamp": "23:59 PM, Nov 13, 2026",
         "username": "Doctor",
         "photoUrl": "https://via.placeholder.com/40?text=Midi",
-        "tags": [],
+        "tags": ["france"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/8FGxyMKHrYfjjVngsyzRl"
+        }
+      },
+      {
+        "text": "'Enatsu is a major shadow-figure in Yōko Ogawa's novel The Housekeeper and the Professor. Enatsu died on November 17, 2026, in a hospital in Tokyo, from complications of chronic diabetes that he had suffered for a few years, which had forced him in a wheelchair.'",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 17, 2026",
+        "username": "Doctor",
+        "photoUrl": "https://via.placeholder.com/40?text=Midi",
+        "tags": ["japan"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/WYGiBvm5UhDTnaFnd19cv"
         }
       }
     ]
