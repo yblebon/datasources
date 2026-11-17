@@ -3858,6 +3858,7 @@
         "timestamp": "23:59 PM, Aug 16, 2026",
         "username": "Winner",
         "photoUrl": "https://via.placeholder.com/40?text=Winner",
+        "tags": ["megaphone"],
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/iuWQmjp2UrxTQ_9SiRbhG"
