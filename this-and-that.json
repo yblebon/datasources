@@ -4578,10 +4578,22 @@
         "username": "Them",
         "tags": ["it-is-all-about-us"],
         "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Them",
-        "attachment": [{
+        "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/89t0U5T6GsreAK2xVV_Sf"
-        }]
+        }
+      },
+      {
+        "text": "'Babu won the 2006 Tamil Nadu Legislative Assembly election representing the Dravida Munnetra Kazhagam (DMK) party, He was popularly known in political circles as Purasai Babu and in the town he is well known for his party work at local level in North Chennai from Ayanavaram.'",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 19, 2026",
+        "username": "Them",
+        "tags": ["it-is-all-about-us"],
+        "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Them",
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/89t0U5T6GsreAK2xVV_Sf"
+        }
       }
     ]
   },
