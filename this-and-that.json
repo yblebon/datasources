@@ -4576,7 +4576,7 @@
         "sender": "left",
         "timestamp": "23:59 PM, Nov 19, 2026",
         "username": "Them",
-        "tags": ["mugshot"],
+        "tags": ["it-is-all-about-us"],
         "photoUrl": "https://api.dicebear.com/9.x/adventurer/svg?seed=Them",
         "attachment": [{
           "type": "image",
