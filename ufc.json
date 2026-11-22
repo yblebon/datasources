@@ -3416,7 +3416,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/navajo-stirling",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5216713/navajo-stirling",
       "score": "0.987697",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.012456,
@@ -3448,7 +3448,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/kevin-vallejos",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5145681/kevin-vallejos",
       "score": "0.957848",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.044007,
@@ -3471,7 +3471,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/dan-hooker",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/3109135/dan-hooker",
       "score": "1.086708",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Brian Ortega",
@@ -3503,7 +3503,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/kyoji-horiguchi",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/2613374/kyoji-horiguchi",
       "score": "0.96911",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Asu Almabayev",
@@ -3544,7 +3544,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/ikram-aliskerov",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4684776/ikram-aliskerov",
       "score": "0.980691",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.019689,
@@ -3567,7 +3567,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/aleksandre-topuria",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5185662/aleksandre-topuria",
       "score": "0.918617",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Santiago Luna",
@@ -3608,7 +3608,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/tallison-teixeira",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/5212856/tallison-teixeira",
       "score": "1.057172",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 0.94592,
@@ -3631,7 +3631,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/amir-albazi",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4684848/amir-albazi",
       "score": "1.014689",
-      "winner": false
+      "winner": true
     },
     "fighter2": {
       "name": "Alessandro Costa",
@@ -3672,7 +3672,7 @@
       "ufc_profile": "https://www.ufc.com/athlete/tahir-abdullayev",
       "espn_profile": "https://www.espn.com/mma/fighter/_/id/4394753/tahir-abdullayev",
       "score": "1",
-      "winner": false
+      "winner": true
     },
     "odds": {
       "fighter1": 1.0,
