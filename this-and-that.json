@@ -1044,6 +1044,18 @@
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/931FEqRaMxlaL-Q_ERERj"
         }
+      },
+      {
+        "text": "'Boire un petit coup c'est bon.'",
+        "sender": "left",
+        "timestamp": "15:37 PM, Nov 22, 2026",
+        "username": "Them",
+        "photoUrl": "https://via.placeholder.com/40?text=Them",
+        "tags": [],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/yM4NMJWuQ6dtgrunbcXhE"
+        }
       }
     ]
   },
