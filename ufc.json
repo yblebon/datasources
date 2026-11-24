@@ -3682,6 +3682,389 @@
       "metric": "coeff"
     }
   }
+],
+"2026-12-05":[
+  {
+    "match_title": "Middleweight Bout | Fight 1: Israel Adesanya vs. Shara Magomedov",
+    "division": "Middleweight",
+    "main_card": true,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Israel Adesanya",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/ADESANYA_ISRAEL_L_03-28.png?itok=aIr9nof4",
+      "country": "Nigeria",
+      "ufc_profile": "https://www.ufc.com/athlete/israel-adesanya",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4285679/israel-adesanya",
+      "score": "1.096009",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Shara Magomedov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/5/MAGOMEDOV_SHARA_R_06-22.png?itok=7FqoiXhr",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/shara-magomedov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4421784/shara-magomedov",
+      "score": "0.912402",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.096009,
+      "fighter2": 0.912402,
+      "raw": "name     coeff\n0  israel_adesanya  1.096009\n1  shara_magomedov  0.912402",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 2: Ian Machado Garry vs. Yaroslav Amosov",
+    "division": "Welterweight",
+    "main_card": true,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Ian Machado Garry",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-04/MACHADO_GARRY_IAN_L_04-26.png?itok=vunlHb77",
+      "country": "Ireland",
+      "ufc_profile": "https://www.ufc.com/athlete/ian-machado-garry",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4738092/ian-machado-garry",
+      "score": "0.993176",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Yaroslav Amosov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-12/AMOSOV_YAROSLAV_R_12-13.png?itok=D_Y7w3-g",
+      "country": "Ukraine",
+      "ufc_profile": "https://www.ufc.com/athlete/yaroslav-amosov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4275020/yaroslav-amosov",
+      "score": "1.006871",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.993176,
+      "fighter2": 1.006871,
+      "raw": "name     coeff\n0  ian_machado_garry  0.993176\n1    yaroslav_amosov  1.006871",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Heavyweight Bout | Fight 3: Serghei Spivac vs. Mario Pinto",
+    "division": "Heavyweight",
+    "main_card": true,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Serghei Spivac",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-08/SPIVAC_SERGHEI_L_08-22.png?itok=4zTw1bbp",
+      "country": "Moldova",
+      "ufc_profile": "https://www.ufc.com/athlete/serghei-spivac",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4421246/serghei-spivac",
+      "score": "0.987045",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Mario Pinto",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/PINTO_MARIO_R_10-11.png?itok=dYjm2-Hv",
+      "country": "Portugal",
+      "ufc_profile": "https://www.ufc.com/athlete/mario-pinto",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5218817/mario-pinto",
+      "score": "1.013125",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.987045,
+      "fighter2": 1.013125,
+      "raw": "name     coeff\n0  serghei_spivac  0.987045\n1     mario_pinto  1.013125",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Welterweight Bout | Fight 4: Levan Chokheli vs. Islam Dulatov",
+    "division": "Welterweight",
+    "main_card": true,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Levan Chokheli",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/CHOKHELI_LEVAN_R_06-20.png?itok=ASP8_llp",
+      "country": "Georgia",
+      "ufc_profile": "https://www.ufc.com/athlete/levan-chokheli",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4867651/levan-chokheli",
+      "score": "0.973228",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Islam Dulatov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-07/DULATOV_ISLAM_R_07-19.png?itok=-KhE0UjR",
+      "country": "Turkey",
+      "ufc_profile": "https://www.ufc.com/athlete/islam-dulatov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5212748/islam-dulatov",
+      "score": "1.027508",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.973228,
+      "fighter2": 1.027508,
+      "raw": "name     coeff\n0  levan_chokheli  0.973228\n1   islam_dulatov  1.027508",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Lightweight Bout | Fight 5: Mairon Santos Alves vs. Akbar Abdullaev",
+    "division": "Lightweight",
+    "main_card": true,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Mairon Santos Alves",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-03/SANTOS_MAIRON_L_03-08.png?itok=KKCT8q9C",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/mairon-santos-alves",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4914573/mairon-santos",
+      "score": "1.028684",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Akbar Abdullaev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/ABDULLAEV_AKBAR_R_09-15.png?itok=fpJyCKCG",
+      "country": "Kyrgyzstan",
+      "ufc_profile": "https://www.ufc.com/athlete/akbar-abdullaev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5210077/akbar-abdullaev",
+      "score": "0.972116",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.028684,
+      "fighter2": 0.972116,
+      "raw": "name     coeff\n0    mairon_santos  1.028684\n1  akbar_abdullaev  0.972116",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 6: Magomed Tuchalov vs. Ion Cutelaba",
+    "division": "Light Heavyweight",
+    "main_card": true,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Magomed Tuchalov",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/TUCHALOV_MAGOMED_L_07-25.png?itok=ZHCZx9ac",
+      "country": "Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/magomed-tuchalov",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5360467/magomed-tuchalov",
+      "score": "1.039895",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ion Cutelaba",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-05/CUTELABA_ION_R_05-10.png?itok=dpbaTwhv",
+      "country": "Moldova",
+      "ufc_profile": "https://www.ufc.com/athlete/ion-cutelaba",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3994033/ion-cutelaba",
+      "score": "0.961636",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.039895,
+      "fighter2": 0.961636,
+      "raw": "name     coeff\n0  magomed_tuchalov  1.039895\n1      ion_cutelaba  0.961636",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Flyweight Bout | Fight 7: Bruno Silva vs. Jafel Filho",
+    "division": "Flyweight",
+    "main_card": false,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Bruno Silva",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-06/SILVA_BRUNO_L_06-06.png?itok=lrpIw9Dw",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/bruno-silva",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3895544/bruno-silva",
+      "score": "0.948851",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Jafel Filho",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2023-03/FILHO_JAFEL_R_03-18.png?itok=Kau6Y1dn",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/jafel-filho",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/3896934/jafel-filho",
+      "score": "1.053907",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.948851,
+      "fighter2": 1.053907,
+      "raw": "name     coeff\n0  bruno_silva  0.948851\n1  jafel_filho  1.053907",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Light Heavyweight Bout | Fight 8: Uran Satybaldiev vs. Ivan Gnizditskiy",
+    "division": "Light Heavyweight",
+    "main_card": false,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Uran Satybaldiev",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-08/SATYBALDIEV_URAN_L_08-23.png?itok=eFKEGOyx",
+      "country": "Kyrgyzstan",
+      "ufc_profile": "https://www.ufc.com/athlete/uran-satybaldiev",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5206516/uran-satybaldiev",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Ivan Gnizditskiy",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/image/fighter_images/SHADOW_Fighter_fullLength_BLUE.png?VersionId=1Jeml9w1QwZqmMUJDg8qTrTk7fFhqUra&itok=BgqHA24D",
+      "country": "Tyumen Oblast, Russia",
+      "ufc_profile": "https://www.ufc.com/athlete/ivan-gnizditskiy",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5292007/ivan-gnizditskiy",
+      "score": "0.0",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.0,
+      "fighter2": 0.0,
+      "raw": "name  coeff\n0  uran_satybaldiev    NaN\n1  ivan_gnizditskiy    NaN",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 9: Marco Tulio vs. Jun Yong Park",
+    "division": "Middleweight",
+    "main_card": false,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Marco Tulio",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-01/12/TULIO_MARCO_L_01-11.png?itok=NdiJ7qdN",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/marco-tulio",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5138111/marco-tulio",
+      "score": "0.0",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Jun Yong Park",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2025-10/PARK_JUNYONG_R_10-25.png?itok=EP89Vm8v",
+      "country": "South Korea",
+      "ufc_profile": "https://www.ufc.com/athlete/jun-yong-park",
+      "espn_profile": "",
+      "score": "0.0",
+      "winner": false
+    },
+    "odds": {
+      "status": "unavailable",
+      "reason": "no ESPN profile for Jun Yong Park"
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 10: Pavel Andrusca vs. Mahammadali Osmanli",
+    "division": "Bantamweight",
+    "main_card": false,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Pavel Andrusca",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/ANDRUSCA_PAVEL_R_09-05.png?itok=SB8FngIq",
+      "country": "Moldova",
+      "ufc_profile": "https://www.ufc.com/athlete/pavel-andrusca",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5445620/pavel-andrusca",
+      "score": "0.929562",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Mahammadali Osmanli",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/OSMANLI_MAHAMMADALI_L_09-26.png?itok=bYG-PGhq",
+      "country": "Azerbaijan",
+      "ufc_profile": "https://www.ufc.com/athlete/mahammadali-osmanli",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5345640/mehemmedeli-osmanli",
+      "score": "1.075776",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.929562,
+      "fighter2": 1.075776,
+      "raw": "name     coeff\n0       pavel_andrusca  0.929562\n1  mehemmedeli_osmanli  1.075776",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Middleweight Bout | Fight 11: Modestino Rodrigues vs. Matthieu Letho Duclos",
+    "division": "Middleweight",
+    "main_card": false,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Modestino Rodrigues",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/RODRIGUES_MODESTINO_R_09-01.png?itok=BeHk6h5D",
+      "country": "Brazil",
+      "ufc_profile": "https://www.ufc.com/athlete/modestino-rodrigues",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5364355/modestino-rodrigues",
+      "score": "1",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Matthieu Letho Duclos",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-09/DUCLOS_MATTHIEU_L_09-05.png?itok=i3eeGT2N",
+      "country": "France",
+      "ufc_profile": "https://www.ufc.com/athlete/matthieu-letho-duclos",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5013686/matthieu-letho-duclos",
+      "score": "1",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 1.0,
+      "fighter2": 1.0,
+      "raw": "name  coeff\n0    modestino_rodrigues    1.0\n1  matthieu_letho_duclos    1.0",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  },
+  {
+    "match_title": "Bantamweight Bout | Fight 12: Abdul Hussein vs. Hecher Sosa",
+    "division": "Bantamweight",
+    "main_card": false,
+    "date": "Sat, Dec 5, 2026, 6:00 PM UTC",
+    "location": "The Venue, Riyadh Saudi Arabia",
+    "fighter1": {
+      "name": "Abdul Hussein",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-07/HUSSEIN_ABDUL_R_07-25.png?itok=0_Xa-0Bf",
+      "country": "Finland",
+      "ufc_profile": "https://www.ufc.com/athlete/abdul-hussein",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/4905308/abdul-hussein",
+      "score": "0.957255",
+      "winner": false
+    },
+    "fighter2": {
+      "name": "Hecher Sosa",
+      "icon": "https://ufc.com/images/styles/event_fight_card_upper_body_of_standing_athlete/s3/2026-03/SOSA_HECHER_R_03-14.png?itok=idjegzqh",
+      "country": "Spain",
+      "ufc_profile": "https://www.ufc.com/athlete/hecher-sosa",
+      "espn_profile": "https://www.espn.com/mma/fighter/_/id/5236383/hecher-sosa",
+      "score": "1.044653",
+      "winner": false
+    },
+    "odds": {
+      "fighter1": 0.957255,
+      "fighter2": 1.044653,
+      "raw": "name     coeff\n0  abdul_hussein  0.957255\n1    hecher_sosa  1.044653",
+      "status": "ok",
+      "metric": "coeff"
+    }
+  }
 ]
 
 }
