@@ -4190,7 +4190,7 @@
         }
       },
       {
-        "text": "'La Pègre, la peste et les dieux : Chroniques du festival d'Avignon est un ouvrage de 93 pages écrit par Catherine Clément et publié en juillet 1991 par Éditions Théâtrales. .'",
+        "text": "'La Pègre, la peste et les dieux : Chroniques du festival d'Avignon est un ouvrage de 93 pages écrit par Catherine Clément et publié en juillet 1991 par Éditions Théâtrales.'",
         "sender": "left",
         "timestamp": "23:59 PM, Nov 23 2026",
         "username": "Winner",
@@ -4199,6 +4199,18 @@
         "attachment": {
           "type": "image",
           "url": "https://storage.yasserblebon.com/api/file/DpKHSLiVYXDUneaJABVW7"
+        }
+      },
+      {
+        "text": "'Phumzile Mlambo-Ngcuka was a South African politician and United Nations official, who served as the Executive Director of UN Women. Mlambo-Ngcuka served as Deputy President of South Africa from 2005 to 2008 and was the first woman to hold the office. During her period as deputy president of South Africa, she oversaw programmes to combat poverty and ensure the poor benefit from the advantages of a growing economy.Throughout her career, Mlambo-Ngcuka directed her energy towards issues of human rights, gender and youth development, equality and social justice.'",
+        "sender": "left",
+        "timestamp": "23:59 PM, Nov 20 2026",
+        "username": "Winner",
+        "photoUrl": "https://via.placeholder.com/40?text=Winner",
+        "tags": ["south africa"],
+        "attachment": {
+          "type": "image",
+          "url": "https://storage.yasserblebon.com/api/file/XNHuqiPOwBke0qsEEn8M8"
         }
       }
     ]
